@@ -64,6 +64,7 @@ A first insight from this analysis is that for a given climatic condition, say a
 
 
 ## Further information
+Visit the Management dashboard [here]({{ site.dpe_url }}/drought_impacts/economy/)
 
 ### Publications
 - Freire-González, J., Decker, C. and J.W. Hall (2016). The economic impacts of droughts: a framework for analysis. Manuscript submitted for publication.
