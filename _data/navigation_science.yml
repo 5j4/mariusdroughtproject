@@ -1,8 +1,6 @@
 - title: Meteorological Drought
   url: /dashboard/science/drought_climatology/
   subpages:
-    - title: Meteorological droughts & climate change
-      url: /dashboard/science/drought_climatology/meteorological_droughts/
     - title: 20th Century
       url: /dashboard/science/drought_climatology/20c/
     - title: 21st Century
