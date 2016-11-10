@@ -15,10 +15,29 @@ Climate change is already affecting habitats and their species in several ways a
 
 <!-- interactive goes here -->
 
-For example, **woodlands** are very important for biodiversity, carbon storage, water regulation and watershed protection. Recent literature has reported drought-induced mortality and dieback of forests in different regions across the world. In Great Britain, the potential impacts of drought on tree species and woodlands are not well understood. In Marius, therefore, we have analysed the temporal and spatial patterns of the potential impacts of and vulnerability to drought for important British forest species. Results highlighted that:
+**Woodlands** are very important for biodiversity, carbon storage, water regulation and watershed protection. Recent literature has reported drought-induced mortality and dieback of forests in different regions across the world. In Great Britain, the potential impacts of drought on tree species and woodlands are not well understood. In Marius, therefore, we have analysed the temporal and spatial patterns of the potential impacts of and vulnerability to drought for important British forest species. Results highlighted that:
 
 - Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
 - Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
 - In woodlands, beech and oak appear to be more susceptible to drought than other tree species.
 
-The map right highlights the percentage change in tree mortality of beech and oak across sub-catchments in the Thames Basin, in the near (2030s) and far future (2080s) relative to the baseline.
+The map above highlights the percentage change in tree mortality of beech and oak across sub-catchments in the Thames Basin, in the near (2030s) and far future (2080s) relative to the baseline.
+
+In **river** ecosystems droughts have the potential to affect a wide array of habitats and species according to their magnitude, timing, frequency and duration. The water requirement of plants and animals varies according to the species, and therefore, so do their tolerance and response to drought. Results highlighted that:
+
+- River flows are reduced by droughts, making conditions unsuitable for many species.
+- River habitats can be fragmented preventing normal species movements required for feeding, predator avoidance and reproduction
+- River ecosystems can recover from drought; the time taken depends on the species. Much depends on the severity and duration of the drought.
+- Under future climates, droughts may occur more frequently reducing the time available for full ecosystem recovery.
+
+**Wetlands** are ecosystems characterised by periods of saturation or inundation. Because they are not all constantly wet, the species occurring in wetlands are adapted to periods of dryness. However, drought events are periods of extreme aridity during which species may disappear and physical characteristics, such as soils, may change. Recovery of wetlands depends on the intensity and duration of the drought and the proximity of species reservoirs to support recolonization. If intensity, duration or frequency of droughts increases in the future, greater changes may result and the ability of wetlands to recover may be compromised. Results highlighted that:
+
+- River-fed wetland ecosystems are more resilient to drought than rain-fed wetlands
+- Wetlands in the south and east of England and Wales are more likely to be altered by climate change than those in the north and west
+
+Research also focused on selected **grassland** habitats, projecting how the suitable climate space for the growth of certain species might change over time. For example, results highlighted that:
+
+- For MG4 lowland meadows, many of the key species are projected to lose suitable climate space in southern, eastern and central England and Wales, by the 2050s under a medium emission scenario
+- There are important concentrations of lowland meadows in the Thames Basin, but by the 2050s some of it is likely to become climatically unsuitable for these species.
+- Under a high emissions scenario, all suitable climate space for most of them is project to be lost by the 2050s, leading to a potential loss of this habitat which is important for conservation.
+
