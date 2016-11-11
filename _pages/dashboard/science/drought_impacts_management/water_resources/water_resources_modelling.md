@@ -24,4 +24,4 @@ The Thames water resource system in WATHNET has been developed. With this is pla
 Our approach is risk-based which means we will run the model for many number of scenarios (i.e. 1000) and we will extract statistical outputs of these scenarios.
 
 ## Further information
-Visit the Management dashboard [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
