@@ -47,4 +47,4 @@ The spatial pattern of drought-induced tree mortality levels across the Thames B
 
 ## Further information
 
-Visit the _Droughts, people and environment dashboard_  
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/environment/)
