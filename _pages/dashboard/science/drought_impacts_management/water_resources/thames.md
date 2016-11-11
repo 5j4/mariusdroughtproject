@@ -30,4 +30,4 @@ In Figure 2 the total lower Thames storages of two models are compared. The grap
 ![Figure 2: Comparison of total lower Thames storages level from 1920 to 2014 between Thames Water model and WATHNET model (simplified version) outputs]({{site.baseurl}}/assets/img/Mohammad_3.png)
 
 ## Further information
-Visit the management dashboard [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
