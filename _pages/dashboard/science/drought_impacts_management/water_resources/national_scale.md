@@ -21,4 +21,4 @@ The national model has 600 arcs and 380 nodes. The figure 1 presents a snapshot 
 
 
 ## Further information
-Visit the Management dashboard [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
