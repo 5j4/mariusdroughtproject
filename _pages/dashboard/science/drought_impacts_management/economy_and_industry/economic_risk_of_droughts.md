@@ -60,5 +60,7 @@ Visit the _Droughts, people and management dashboard_ [here]({{ site.dpe_url }}/
 
 ### Publications
 -Freire-González, J., Decker, C. and J.W. Hall (2017a). The economic impacts of droughts: a framework for analysis. Ecological Economics (in print).
+
 -Freire-González, J., Decker, C. and J.W. Hall (2017b). A scenario-based framework for assessing the economic impacts of potential droughts. (Manuscript under review).
+
 -Freire-González, J., Decker, C. and J.W. Hall (2016). Linear programming input-output method to determine optimal water allocations in periods of water scarcity and drought (Manuscript under review).
