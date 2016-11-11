@@ -61,10 +61,8 @@
       url: /dashboard/science/drought_impacts_management/ecology/rivers/
     - title: Wetland ecosystems
       url: /dashboard/science/drought_impacts_management/ecology/wetlands/
-    - title: Species envelope modelling
-      url: /dashboard/science/drought_impacts_management/ecology/sem/
-    - title: Tree species
-      url: /dashboard/science/drought_impacts_management/ecology/vts/
+    - title: Terrestrial ecosystems
+      url: /dashboard/science/drought_impacts_management/ecology/te/
 
 - title: Economy &amp; Industry
   url: /dashboard/science/drought_impacts_management/economy_and_industry/
