@@ -10,8 +10,10 @@ research_team:
 ---
 
 ## Key science findings
-- Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
+-Droughts can alter the processes that govern terrestrial ecosystems, leading to changes in their species composition, structure and functioning, their interactions and benefits they provide to people. 
+
 -Ecosystems in the south and east of England and Wales are more likely to be altered by climate change than those elsewhere in Great Britain.
+
 -In woodlands, beech and oak appear to be more susceptible drought than other tree species. 
 
 ## Introduction
@@ -42,4 +44,3 @@ There are important concentrations of lowland meadows in the Thames Basin, but b
 The spatial pattern of drought-induced tree mortality levels across the Thames Basin in the 2030s and 2080s (Figure 2) shows that generally, beech is more susceptible to drought than oak especially in the southeast Thames Basin. The level of drought impact on beech is slightly increased in the 2080s, whereas the similar trend is not evident for oak. Amongst the sub-catchments, the Wey and Colne appear to be particularly affected under almost all climate scenarios, followed by London for oak. The western sub-catchments (e.g. Kennet and Cotswolds) are less affected.
 
 ![Vulnerability levels of beech and oak in the Thames Basin to drought relative to baseline]({{site.baseurl}}/assets/img/Pam2_.jpg)
-
