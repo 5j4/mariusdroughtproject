@@ -24,4 +24,4 @@ In an NFP model the water resource system is represented as a directed graph whi
 ![A simple network in WATHNET (adapted from Kuczera, 1992)]({{site.baseurl}}/assets/img/Mohammad_4.png)
 
 ## Further information
-Visit the Management dashboard [here]({{ site.dpe_url }}/drought_impacts/water_supply_options/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/water_supply_options/)
