@@ -53,7 +53,7 @@ The sensitivity of phytoplankton to climate change is smaller for diatoms, chlor
 Chlorophytes, diatoms and Microcystis-like cyanobacteria decrease their concentration along with precipitation, while cyanobacteria and picoalgae increase it.   
 
 ## Further information
-Visit the Management dashboard [here]({{ site.dpe_url }}/drought_impacts/water_quality/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/water_quality/)
 
 * G. Whitehead, G. Bussi, M.J. Bowes, D.S. Read, M.G. Hutchins, J.A. Elliott, S.J. Dadson. 2015. Dynamic modelling of multiple phytoplankton groups in rivers with an application to the Thames River system in the UK. Environmental Modelling & Software. 74, 75-91. doi:10.1016/j.envsoft.2015.09.010.
 * G. Bussi, P.G. Whitehead, M.J. Bowes, D.S. Read, C. Prudhomme, S.J. Dadson. 2016. Impacts of climate change, land-use change and phosphorus reduction on phytoplankton in the River Thames (UK). Science of the Total Environment. doi:10.1016/j.scitotenv.2016.02.109.
