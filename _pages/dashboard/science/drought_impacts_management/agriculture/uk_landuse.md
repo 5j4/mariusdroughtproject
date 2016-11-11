@@ -44,4 +44,4 @@ As shown in figure 1, the model simulates a reduction in forest area and increas
 
 ## Further information
 
-Visit the Management dashboard [here]({{ site.dpe_url }}/drought_impacts/farming/)
+Visit the _Droughts, people and environment dashboard_  [here]({{ site.dpe_url }}/drought_impacts/farming/)
