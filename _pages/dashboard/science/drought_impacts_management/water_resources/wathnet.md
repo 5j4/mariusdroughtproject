@@ -5,7 +5,7 @@ permalink: /dashboard/science/drought_impacts_management/water_resources/wathnet
 _title: WATHNET
 subsection: Drought Impacts Management > Water Resources
 research_team:
-  - Mohammad_Mortazavi-Naeini
+  - mohammad_mortazavi
   - jim_hall
 ---
 ## Key science findings
