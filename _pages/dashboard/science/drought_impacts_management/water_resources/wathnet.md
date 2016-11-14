@@ -7,7 +7,7 @@ subsection: Drought Impacts Management > Water Resources
 ---
 ## Key science findings
 
-1.	The concepts behind simulation platform (WATHNET) 
+-The concepts behind simulation platform (WATHNET) 
 
 ## Introduction 
 
