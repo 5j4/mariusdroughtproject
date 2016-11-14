@@ -5,7 +5,7 @@ permalink: /dashboard/science/drought_impacts_management/water_resources/nationa
 subsection: Drought Impacts Management > Water Resources
 _title: National water resources
 research_team:
-  - Mohammad_Mortazavi-Naeini
+  - mohammad_mortazavi
   - jim_hall
 ---
 ## Key science outputs
