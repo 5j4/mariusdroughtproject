@@ -7,7 +7,7 @@ _title: Nested catchment modelling - Thames basin
 ---
 ## Key science outputs
 
-1.	Nested model : Thames basin water resource system; simple and complex versions
+-Nested model : Thames basin water resource system; simple and complex versions
 
 ## Introduction 
 
