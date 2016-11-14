@@ -15,7 +15,7 @@ research_team:
 2.	Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
 3.	The bespoke model of Salmons Brook connected local river restoration interventions and citizen science monitoring to scientific analysis of water quality under different flow scenarios
 
-![Figure 1: River Lea, East London near Bow locks]({{site.baseurl}}/assets/img/Catharina%20Lea%20at%20Bow%20locks.jpg)
+![Figure 1: River Lea, East London near Bow locks]({{site.baseurl}}/assets/img/Catharina%20Lea%20at%20Bow%20locks.jpg){:width="50%"}
 
 
 ## Introduction
