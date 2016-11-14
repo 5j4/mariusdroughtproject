@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/water_resources/thames/
 subsection: Drought Impacts Management > Water Resources
 _title: Nested catchment modelling - Thames basin
+research_team:
+  - Mohammad_Mortazavi-Naeini
+  - jim_hall
 ---
 ## Key science outputs
 
