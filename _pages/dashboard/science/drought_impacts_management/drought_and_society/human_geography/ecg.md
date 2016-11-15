@@ -17,7 +17,7 @@ research_team:
 2.	It was possible to bridge gaps between water/river management and local planning/development through the transdisciplinary research in the Kennet ECG combining scientific and vernacular expertise. 
 3.	Environmental Competency Groups promote practical interdisciplinary collaboration among natural and social scientists.  
 
-![]({{site.baseurl}}/assets/img/Catharina%20Kennet%20structure.jpeg)
+![]({{ site.images_url }}/Catharina%20Kennet%20structure.jpeg)
 Figure 1: The River Kennet, object of ECG co-production of knowledge
 
 ## Introduction 
@@ -28,14 +28,14 @@ Human Geography research in the <abbr title="Managing the Risks, Impacts and Unc
 
 Human Geography transdisciplinary research in a locality focused on bringing vernacular knowledge to bear on the production of drought and water scarcity expertise. The methodology of Environmental Competency Groups (ECGs), pioneered in previous work with communities living with flooding was used to stage an experimental research collaboration of twelve months duration, in a case study locality. This ECG brought together natural and social scientists in the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project team with local conservationists, amateur naturalists and interested residents to interrogate the modelling techniques that underpin water management. Ways of improving water and river management expert practices through the incorporation of vernacular local knowledge were explored using computer modelling tools. This activity was a major site of interdisciplinary collaboration within the project team, as well as involving natural and social scientists in sustained public engagement.
 
-![Catharina Water resources model.jpeg]({{site.baseurl}}/assets/img/Catharina Water resources model.jpeg)
+![Catharina Water resources model.jpeg]({{ site.images_url }}/Catharina Water resources model.jpeg)
 Figure 2: Kennet ECG members consider water resource issues
 
 ## Result 1: It was possible to use the Environmental Competency Groups methodology to bring scientific modelling and local knowledge together in co-production of knowledge about how water management combined with natural processes affect rivers in the absence of overt controversy.
 
 Previously successfully used to co-produce new and different knowledge about flood risk and mitigation options the possibility of the ECG methodology to work in other situations was put to the test. Originally constructed to be propelled by local public controversy it was unknown whether local residents would be interested in participating in an ECG in a locality with no current challenge of expert practices. Previous ECGs had focussed on exploring aspects of flooding poorly understood by science at the time, e.g. land use impacts and Natural Flood Management. Whether the drought and water scarcity focus in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> could be articulated with issues of interest to the local community remained to be seen. Another question to answer was whether an ECG could add anything in a locality with an active rivers trust was engaging local residents in education about the river and in citizen science programmes. 
 
-![Catharina ECG modelling.jpeg]({{site.baseurl}}/assets/img/Catharina ECG modelling.jpeg)
+![Catharina ECG modelling.jpeg]({{ site.images_url }}/Catharina ECG modelling.jpeg)
 Figure 3: Participants explore computer models in the Kennet ECG  
 
 ## Result 2: It was possible to bridge gaps between water/river management and local planning/development through the transdisciplinary research in the Kennet ECG combining scientific and vernacular expertise.

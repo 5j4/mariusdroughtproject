@@ -32,7 +32,7 @@ A range of data analysis and modelling techniques will be used in conjunction to
 
 Understanding the impacts of droughts on water quality in freshwater systems is essential to manage ecosystems and maintain public water supply.  During periods of drought, river water quality can be significantly changed due to increased residence times, reduced dilution and enhanced biogeochemical processes.  However, the severity of these impacts will vary significantly between catchments and will depend on multiple factors including the sensitivity of the river to drought conditions, anthropogenic influences in the catchment and different delivery patterns of key nutrient, contaminant and mineral sources.  To better understand the key driving processes that impact water quality during drought an extensive national scale water quality monitoring data set (the Harmonised Monitoring Scheme dataset) is analysed to investigate the impacts of drought periods on water quality at over 200 UK sites.  These data are analysed to investigate how water quality during droughts differs from non-drought periods for different catchments, drought periods and several water quality parameters. 
 
-![]({{ site.baseurl }}/assets/img/nswq_teddington.png){:width="50%"}
+![]({{ site.baseurl }}/assets/images/nswq_teddington.png){:width="50%"}
 
 Water quality and quantity time series for the River Thames at Teddington.  Drought periods are shaded in gray and identified using the Standardised Precipitation Index.
  
@@ -40,6 +40,6 @@ Water quality and quantity time series for the River Thames at Teddington.  Drou
 
 For the research in MaRIUS, an end-member mixing model is developed for the simulation and prediction of nitrate and phosphorus concentration in rivers across the UK.  The EMM model is coupled to the national scale hydrological model developed in B3 (dynamic TOPMODEL), whereby a concentration of nutrient is hypothesised in each of the flow components provided by dynamic TOPMODEL (direct runoff, soil water and groundwater).  Different model conceptualisations will be tested to deduce the key driving processes during drought and uncertainty in the EMM parameters and flow contributions will also be evaluated.  The model will be used to assess the current and future impact of droughts on water quality within a probabilistic framework.
 
-![End member mixing model]({{ site.baseurl }}/assets/img/nswq_endmembermixingmodel.png){:width="50%"}
+![End member mixing model]({{ site.baseurl }}/assets/images/nswq_endmembermixingmodel.png){:width="50%"}
 
 End member mixing model

@@ -1,0 +1,20 @@
+{% assign p_id = include.person[0] %}
+{% assign p = include.person[1] %}
+
+{% if p.external %}
+
+{% else %}
+<div id="profile-card" class="row">
+	<div class="large-3 columns">
+		<a name="{{ p_id }}"></a>
+		<img src="/mariusdroughtproject.org/assets/images/people/{% if p.default_photo %}default{% else %}{{ p_id }}{% endif %}.png" alt="{{ p.title }} {{ p.name }}" />
+	</div>
+	<div class="large-9 columns">
+		<a rel="person" href="{{ p.url }}" title="{{ p.name }}"><b>{{ p.title }} {{ p.name }}</b></a>
+		<br>
+		{{ p.position }}<br>
+		{{ p.organisation }}<br><br>
+		<p>{{ p.profile }}</p>
+	</div>
+</div>
+{% endif %}

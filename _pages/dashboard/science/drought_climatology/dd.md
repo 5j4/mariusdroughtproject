@@ -4,6 +4,9 @@ published: true
 permalink: /dashboard/science/drought_climatology/dd/
 subsection: Drought Climatology
 _title: Drought datasets and how to access them
+videos:
+  - benoit_guillod_20160614
+  - benoit_guillod_20150908
 ---
 ## Introduction
 
@@ -37,7 +40,7 @@ Table 1 shows the list of variables available in both datasets and their tempora
 
 HadRM3P does not directly provide PET as an output variable. However, PET estimates are provided in the dataset. These are computed from other variables and based on a Penman-Monteith formulation, and as consistent as possible with the MORECS estimates. Two PET estimates are provided for the future time slices: one without any changes in stomatal resistance relative to the baseline values (“pepm”), and one with values adjusted to account for CO2 fertilization effect (“pepm_adjrs”).
 
-![List of variables available for each product and temporal resolution. The table includes for each variable: variable name (used in the NetCDF files name and NetCDF variable name), description, available temporal resolution in the data sets (20CR and synthetic events sets), and the field code. ]({{site.baseurl}}/assets/img/Benoit1b.png)
+![List of variables available for each product and temporal resolution. The table includes for each variable: variable name (used in the NetCDF files name and NetCDF variable name), description, available temporal resolution in the data sets (20CR and synthetic events sets), and the field code. ]({{ site.images_url }}/Benoit1b.png)
 
 ## Data format
 
@@ -59,10 +62,3 @@ How the data should be cited will be stated here when releasing the dataset.
 
 * weather@home 2 description and validation papers currently in review: link to http://www.geosci-model-dev-discuss.net/gmd-2016-239/
 * Further papers with detailed validation and analyses of the event set are being prepared.
-
-<hr>
-
-### Podcasts
-
-{% include podcast_card.html podcast_id="benoit_guillod_20160614" %}
-{% include podcast_card.html podcast_id="benoit_guillod_20150908" %}

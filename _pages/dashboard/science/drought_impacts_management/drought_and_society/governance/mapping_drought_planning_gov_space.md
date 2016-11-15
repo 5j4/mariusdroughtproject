@@ -21,7 +21,7 @@ Key current, on-going reforms of the regulatory framework, such as abstraction r
 
 We see different types of environmental science knowledges used to different degrees for the use of regulatory tools for managing drought. A clear gap seems to be a lack of knowledge about the impact of drought on land and water based ecological systems.
 
-![Mapping drought planning in England]({{ site.baseurl }}/assets/img/mdpgs.png)
+![Mapping drought planning in England]({{ site.baseurl }}/assets/images/mdpgs.png)
 
 Mapping drought planning in England
 

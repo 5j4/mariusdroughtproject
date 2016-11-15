@@ -141,19 +141,19 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Expedita illo repellen
 
 <div class="container">
     <div>
-        <img src="{{ site.assets_url }}/img/logos/university_of_oxford.png"/>
+        <img src="{{ site.images_url }}/logos/university_of_oxford.png"/>
     </div>
     <div>
-        <img src="{{ site.assets_url }}/img/logos/cranfield_university.png" />
+        <img src="{{ site.images_url }}/logos/cranfield_university.png" />
     </div>
     <div>
-        <img src="{{ site.assets_url }}/img/logos/metoffice.png" />
+        <img src="{{ site.images_url }}/logos/metoffice.png" />
     </div>
     <div>
-        <img src="{{ site.assets_url }}/img/logos/ceh.png" />
+        <img src="{{ site.images_url }}/logos/ceh.png" />
     </div>
     <div>
-        <img src="{{ site.assets_url }}/img/logos/university_of_bristol.png" />
+        <img src="{{ site.images_url }}/logos/university_of_bristol.png" />
     </div>
 </div>
 

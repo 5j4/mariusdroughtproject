@@ -20,7 +20,7 @@ research_team:
 
 Work task B3 of the MaRIUS project delivers national scale hydrological modelling with the aim of providing enhanced scientific understanding and modelling capability for representing drought processes. To achieve this, research has focused upon the analysis of river flows and soil moisture for past and future droughts and the incorporation of abstraction and discharge data in a gridded national scale hydrological model. 
 
-![1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.]({{site.baseurl}}/assets/img/Vicky1.jpg.png){:width="50%"}
+![1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.]({{ site.images_url }}/Vicky1.jpg.png){:width="50%"}
 
 1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly.
 
@@ -31,7 +31,7 @@ The Centre for Ecology and Hydrology’s (CEH) national gridded hydrological mod
 Ongoing work is using model estimates of river flows and soil moisture, driven by weather observations, to assess change in drought occurrence, duration and severity. An ensemble of near-and far- future weather outputs from multiple regional climate model simulations will provide the driving data needed to understand how drought occurrence and characteristics might change in the future.
 
 
-![Grid-to-Grid model output (1km x 1km) can provide annual maps of drought severity, intensity, duration and number of drought periods per year for river flow and soil moisture. The example maps shown here are standardised drought severity (river flow) for 1975, 1976 and 1977. They show the most severe drought in each year. The darker the colour the more severe the drought.]({{site.baseurl}}/assets/img/Vicky2.jpg.png){:width="50%"}
+![Grid-to-Grid model output (1km x 1km) can provide annual maps of drought severity, intensity, duration and number of drought periods per year for river flow and soil moisture. The example maps shown here are standardised drought severity (river flow) for 1975, 1976 and 1977. They show the most severe drought in each year. The darker the colour the more severe the drought.]({{ site.images_url }}/Vicky2.jpg.png){:width="50%"}
 Schematic of the Grid-to-Grid national scale hydrological model
 
 ## Results 
@@ -40,21 +40,21 @@ Schematic of the Grid-to-Grid national scale hydrological model
 
 Model estimates of river flows and soil moisture, driven by weather observations, have been used to assess change in drought occurrence, duration and severity throughout the 20th Century. This work will also include a low flow frequency analysis.  
 
-![]({{site.baseurl}}/assets/img/Vicky2.jpg.png)![Vicky2.jpg.png]({{site.baseurl}}/assets/img/Vicky2.jpg.png)
+![]({{ site.images_url }}/Vicky2.jpg.png)![Vicky2.jpg.png]({{ site.images_url }}/Vicky2.jpg.png)
 Grid-to-Grid model output (1km x 1km) of standardised drought severity (river flow) for 1975, 1976 and 1977. They maps show the most severe drought in each year. The darker the colour the more severe the drought.  
 
 ### National analysis of future drought risk using MaRIUS baseline and future drought event-sets
 
 An ensemble of near- and far-future weather outputs from multiple RCM simulations will provide the driving data needed to understand how drought occurrence and characteristics might change in the future.
 
-![Vicky3.jpg.png]({{site.baseurl}}/assets/img/Vicky3.jpg.png)
+![Vicky3.jpg.png]({{ site.images_url }}/Vicky3.jpg.png)
 Observed and simulated low flow frequency curves for the Thames at Kingston (station number 39001).
 
 ### Enhanced modelling capability to include surface and groundwater abstractions and discharges in the Grid-to-Grid model
 
 G2G has been enhanced to include the influence of abstractions and discharges on river flows
 
-![Vicky4.jpg.png]({{site.baseurl}}/assets/img/Vicky4.jpg.png)
+![Vicky4.jpg.png]({{ site.images_url }}/Vicky4.jpg.png)
 Daily mean river flow for the Thames at Kingston. Observed river flow (black), G2G simulated naturalised river flow (blue) and G2G simulated river flow accounting for abstractions and discharges (red).
 
 

@@ -8,7 +8,7 @@ _title: Work streams
 ---
 The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> approach is defined by four work streams that interact to drive the required research to answer the project hypotheses.
 
-![MaRIUS Work streams]({{ site.assets_url }}/img/MaRIUS-Workstreams.png)
+![MaRIUS Work streams]({{ site.images_url }}/MaRIUS-Workstreams.png)
 
 _A diagram of the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project’s work streams and their interlinkages_
 

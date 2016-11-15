@@ -14,5 +14,5 @@ The project’s International Advisory Board (IAB) which works to ensure that th
 In order to maximise the benefits from having these prestigious international researchers in the UK, the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project will host [Symposia]({{site.baseurl}}/our_work/outputs/symposia) which will be open to all interested parties, hopefully in partnership with other projects in the [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}, which is run by the UK Research councils.
 
 {% for person in site.data.people_iab %}
-{% include person.html person=person %}
+{% include person_card.html person=person %}
 {% endfor %}

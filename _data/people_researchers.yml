@@ -478,3 +478,35 @@ henry_leveson_gower:
   twitter: GowerHenry
   linkedin: https://uk.linkedin.com/in/henry-leveson-gower-40520819
   external: True
+
+pete_scarlett:
+  name: Pete Scarlett
+  title: Dr
+  position: ???
+  organisation: Centre for Ecology & Hydrology (CEH), Wallingford
+  default_photo: True
+  external: True
+
+david_nicholls:
+  name: David Nicholls
+  title: Dr
+  position: ???
+  organisation: ???
+  default_photo: True
+  external: True
+
+linda_armstrong:
+  name: Linda Armstrong
+  position: Analytical Chemist
+  organisation: Centre for Ecology & Hydrology (CEH), Wallingford
+  url: http://www.ceh.ac.uk/our-science/research-facility/wallingford-analytical-chemistry-laboratories
+  default_photo: True
+  external: True
+
+heather_wickham:
+  name: Heather Wickham
+  position: Analytical Chemist
+  organisation: Centre for Ecology & Hydrology (CEH), Wallingford
+  url: http://www.ceh.ac.uk/our-science/research-facility/wallingford-analytical-chemistry-laboratories
+  default_photo: True
+  external: True

@@ -27,19 +27,19 @@ The Project Team is led by [Professor Jim Hall](http://www.eci.ox.ac.uk/people/j
 
 <div class="container">
     <div>
-    	<a href="http://www.ox.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/university_of_oxford.png" alt="University of Oxford"></a>
+    	<a href="http://www.ox.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/university_of_oxford.png" alt="University of Oxford"></a>
     </div>
     <div>
-    	<a href="http://www.cranfield.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/cranfield_university.png" alt="Cranfield University" /></a>
+    	<a href="http://www.cranfield.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/cranfield_university.png" alt="Cranfield University" /></a>
     </div>
     <div>
-    	<a href="http://www.metoffice.gov.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/metoffice.png" alt="Met Office" /></a>
+    	<a href="http://www.metoffice.gov.uk" target="_blank"><img src="{{ site.images_url }}/logos/metoffice.png" alt="Met Office" /></a>
     </div>
     <div>
-    	<a href="http://www.ceh.ox.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/ceh.png" alt="Centre for Ecology and Hydrology" /></a>
+    	<a href="http://www.ceh.ox.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/ceh.png" alt="Centre for Ecology and Hydrology" /></a>
     </div>
     <div>
-    	<a href="http://www.bris.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/university_of_bristol.png" alt="University of Bristol" /></a>
+    	<a href="http://www.bris.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/university_of_bristol.png" alt="University of Bristol" /></a>
     </div>
 </div>
 
@@ -47,22 +47,22 @@ Funding comes from [NERC](http://www.nerc.ac.uk){:target="_blank"} (ref: [NE/L01
 
 <div class="container">
     <div>
-    	<a href="http://www.nerc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/nerc.png" alt="The Natural Environment Research Council (NERC)"></a>
+    	<a href="http://www.nerc.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/nerc.png" alt="The Natural Environment Research Council (NERC)"></a>
     </div>
 </div>
 
 <div class="container">
     <div>
-        <a href="http://www.esrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/esrc.png" alt="Economic & Social Research Council (ESRC)" /></a>
+        <a href="http://www.esrc.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/esrc.png" alt="Economic & Social Research Council (ESRC)" /></a>
     </div>
     <div>
-        <a href="https://www.epsrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/epsrc.png" alt="Engineering and Physcial Sciences Research Council (EPSRC)" /></a>
+        <a href="https://www.epsrc.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/epsrc.png" alt="Engineering and Physcial Sciences Research Council (EPSRC)" /></a>
     </div>
     <div>
-        <a href="http://www.bbsrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/bbsrc.png" alt="Biotechnology and Biological Sciences Research Council (BBSRC)" /></a>
+        <a href="http://www.bbsrc.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/bbsrc.png" alt="Biotechnology and Biological Sciences Research Council (BBSRC)" /></a>
     </div>
     <div>
-        <a href="http://www.ahrc.ac.uk" target="_blank"><img src="{{ site.assets_url }}/img/logos/ahrc.png" alt="Arts & Humanities Research Council (AHRC)" /></a>
+        <a href="http://www.ahrc.ac.uk" target="_blank"><img src="{{ site.images_url }}/logos/ahrc.png" alt="Arts & Humanities Research Council (AHRC)" /></a>
     </div>
 </div>
 

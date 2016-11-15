@@ -1,0 +1,10 @@
+{% assign p = site.data.people_researchers[include.person_id] %}
+
+<div id="profile-card" class="summary">
+	<div class="left">
+		<img src="/mariusdroughtproject.org/assets/images/people/{% if p.default_photo %}default{% else %}{{ include.person_id }}{% endif %}.png" alt="{{ p.title }} {{ p.name }}" />
+	</div>
+	<div class="right">
+		<a rel="person" href="{{ p.url }}" title="{{ p.name }}"><b>{{ p.title | replace: 'Professor', 'Prof' }} {{ p.name }}</b></a>
+	</div>
+</div>

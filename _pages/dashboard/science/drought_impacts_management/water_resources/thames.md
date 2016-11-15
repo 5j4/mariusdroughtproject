@@ -13,7 +13,7 @@ _title: Nested catchment modelling - Thames basin
 
 WATHNET has been employed in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project to develop Thames basin water resources system. Two version of Thames basin water resources system developed, one captures all the details and complexity of the system while the other one is an aggregated version of the detailed one and it is indeed simplified. 
      
-![Figure 1: Simplified model of Thames Basin water resource system]({{site.baseurl}}/assets/img/Mohammad_2.png)
+![Figure 1: Simplified model of Thames Basin water resource system]({{ site.images_url }}/Mohammad_2.png)
 
 ## Result 1
 
@@ -27,4 +27,4 @@ Both simplified and detailed models are validated against Thames Water model to 
 
 In Figure 2 the total lower Thames storages of two models are compared. The graph presents compatibility of WATHNET results with Thames Water model.
 
-![Figure 2: Comparison of total lower Thames storages level from 1920 to 2014 between Thames Water model and WATHNET model (simplified version) outputs]({{site.baseurl}}/assets/img/Mohammad_3.png)
+![Figure 2: Comparison of total lower Thames storages level from 1920 to 2014 between Thames Water model and WATHNET model (simplified version) outputs]({{ site.images_url }}/Mohammad_3.png)

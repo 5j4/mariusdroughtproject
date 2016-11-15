@@ -34,7 +34,7 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 	- Incorporation of abstractions in the modelling framework
 	- Improved surface water/groundwater representation in dynamic TOPMODEL
 
-![Dynamic TOPMODEL schematic]({{ site.baseurl }}/assets/img/idhns_topmodel.jpg)
+![Dynamic TOPMODEL schematic]({{ site.baseurl }}/assets/images/idhns_topmodel.jpg)
 
 Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space
 
@@ -49,7 +49,7 @@ Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dy
 
 The quantification of different sources of uncertainties in hydrological modelling is essential to provide robust drought predictions and simulations.  In MaRIUS, many different sources of uncertainty are incorporated into the hydrological modelling, including estimates of data input uncertainties (ensembles of drought event sets), model structure and parameter uncertainties in space and time, and evaluation data uncertainties (uncertainties in flow data).  These uncertainties are explored in a limits of acceptability framework using time step based analysis of model performance that focus on low flows and drought conditions.  Improved understanding of these uncertainties will provide the basis for identification of robust management options for droughts and water scarcity.
 
-![]({{ site.baseurl }}/assets/img/idhns_uncertainties.jpg){:width="50%"}
+![]({{ site.baseurl }}/assets/images/idhns_uncertainties.jpg){:width="50%"}
 
 ### Enhanced modelling capability to represent drought processes through incorporation of water resource system elements and improved surface-groundwater representation in dynamic TOPMODEL
 

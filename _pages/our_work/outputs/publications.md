@@ -32,7 +32,7 @@ Outputs will be listed here when they become available.
 
 <div class="row symposium">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/Slide1-150x150.png" alt="" />
+		<img src="/mariusdroughtproject.org/assets/images/Slide1-150x150.png" alt="" />
 	</div>
 	<div class="large-9 columns">
 		<p><b>Introduction to Environmental Competency Groups (ECGs) for the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project</b></p>
@@ -45,7 +45,7 @@ Outputs will be listed here when they become available.
 
 <div class="row symposium">
 	<div class="large-3 columns">
-		<img src="/mariusdroughtproject.org/assets/img/Network-150x150.png" alt="" />
+		<img src="/mariusdroughtproject.org/assets/images/Network-150x150.png" alt="" />
 	</div>
 	<div class="large-9 columns">
 		<p><b>Knowledge Network Visualisations</b></p>

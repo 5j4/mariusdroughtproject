@@ -5,6 +5,11 @@ permalink: /our_work/outputs/symposia/
 
 subsection: Our Work > Outputs
 _title: Symposia
+
+extra_css:
+  - vendor/lity-2.2.0/lity.min.css
+extra_js:
+  - vendor/lity-2.2.0/lity.min.js
 ---
 The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project has hosted three international Symposia to bring together practitioners working on aspects of drought and water scarcity from across the world.  These Symposia have been public focused, and open to everyone.
 
@@ -22,11 +27,11 @@ Below is a summary of each of the three events, with links to the presentations 
 <div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_science_and_management"></a>
-		<img src="/mariusdroughtproject.org/assets/img/2016_DroughtPoster_v20160708-208x300.png" alt="" />
+		<img src="/mariusdroughtproject.org/assets/images/2016_DroughtPoster_v20160708-208x300.png" alt="" />
 	</div>
 	<div class="large-9 columns">
-		<h3>Drought Science and Management</h3>
-		<h4>27 September 2016, Lady Margaret Hall, Oxford</h4>
+		<h2>Drought Science and Management</h2>
+		<h3 class="subheader">27 September 2016, Lady Margaret Hall, Oxford</h3>
 
 		<hr>
 
@@ -34,7 +39,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p>This Symposium focused on Drought Science and Management in the UK and around the world, and had a mix of oral & poster presentations.</p>
 
-		<h5>Speakers &amp; titles</h5>
+		<h4>Speakers &amp; titles</h4>
 
 		<ul>
 			<li>Doug Hunt, Atkins: Water Resource Management in the UK</li>
@@ -58,15 +63,15 @@ Below is a summary of each of the three events, with links to the presentations 
 <div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_risk_and_decision_making"></a>
-		<img src="/mariusdroughtproject.org/assets/img/2016_DroughtPoster_v20160708-208x300.png" alt="" />
+		<img src="/mariusdroughtproject.org/assets/images/2016_DroughtPoster_v20160708-208x300.png" alt="" />
 	</div>
 	<div class="large-9 columns">
-		<h3>Drought Risk and Decision Making </h3>
-		<h4>8 September 2015, Exeter College, Oxford</h4>
+		<h2>Drought Risk and Decision Making </h2>
+		<h3 class="subheader">8 September 2015, Exeter College, Oxford</h3>
 
 		<hr>
 
-		<p>Droughts threaten societies, economies and ecosystems worldwide, and can lead to potential losses of £billions.  Yet our ability to characterise and predict the occurrence, duration and intensity of droughts, as well as minimise their impacts, is often inadequate.This symposium brought together global experts on the processes that cause drought and their consequences. It will take an interdisciplinary approach, looking at the climatic and socio-economic factors that are contributing to the changing risk of drought. The symposium forms part of the NERC [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}.</p>
+		<p markdown="1">Droughts threaten societies, economies and ecosystems worldwide, and can lead to potential losses of £billions.  Yet our ability to characterise and predict the occurrence, duration and intensity of droughts, as well as minimise their impacts, is often inadequate.This symposium brought together global experts on the processes that cause drought and their consequences. It will take an interdisciplinary approach, looking at the climatic and socio-economic factors that are contributing to the changing risk of drought. The symposium forms part of the NERC [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}.</p>
 
 		<p>There were three themes covered by a mix of oral and poster presentations</p>
 
@@ -78,12 +83,12 @@ Below is a summary of each of the three events, with links to the presentations 
 		
 		<p>A written summary of the oral presentations given at the Symposium is available below. There are also podcasts from the event, as well as others, available here.</p>
 
-		<h5>Summary of Oral Presentations</h5>
+		<h4>Summary of Oral Presentations</h4>
 		<i>By Alice Chautard, with inputs from Franziska Gaupp, and Helen Gavin.</i>
 
 		<hr>
 
-		<p><b>Jim Hall, University of Oxford: Introduction</b></p>
+		<h4>Jim Hall, University of Oxford: Introduction</h4>
 
 		<ul>
 			<li>Looking at drought from a combination of perspectives (and in fact a highly interdisciplinary combination of funders supporting the project).</li>
@@ -96,9 +101,9 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<hr>
 
-		<p><b>Helen Gavin, University of Oxford: Introduction to UK Droughts &amp; Water Scarcity Programme</b></p>
+		<h4>Helen Gavin, University of Oxford: Introduction to UK Droughts &amp; Water Scarcity Programme</h4>
 
-		<p>Presentation of [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}, and the four projects it has funded:</p>
+		<p markdown="1">Presentation of [UK Droughts &amp; Water Scarcity Programme](http://www.nerc.ac.uk/research/funded/programmes/droughts/){:target="_blank"}, and the four projects it has funded:</p>
 
 		<ul>
 			<li><b>WP1</b>: Analysis of Historical Drought (in a nutshell: aiming to understand past drought, and how we reacted to them, to be better prepared for future droughts and thus shape our policies). Led by Jamie Hannaford at CEH</li>
@@ -110,7 +115,12 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<hr>
 
-		<p><b>Christina Cook, University of Oxford: Regulatory governance arrangements for water scarcity and drought in the UK</b></p>
+		<h4>Christina Cook, University of Oxford: Regulatory governance arrangements for water scarcity and drought in the UK</h4>
+
+		<a rel="podcast" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity><i class="fa fa-youtube-play" aria-hidden="true"></i> Play video</a>
+		<i class="fa fa-desktop" aria-hidden="true"></i> View slides
+
+		<!-- <p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity>Podcast</a></p> -->
 
 		<ul>
 			<li>Research focuses on: understanding how drought and water scarcity are regulated in the UK: how the law works in practice; regulatory tools as part of a wider governance space; How can are environmental science and economic knowledge used and can they be better connected;</li>
@@ -167,9 +177,11 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<hr>
 
-		<p><b>Benoit Guillod, University of Oxford; Western US drought attribution, and the generation of synthetic multi-year UK drought events for risk-based impact studies</b></p>
+		<h4>Benoit Guillod, University of Oxford; Western US drought attribution, and the generation of synthetic multi-year UK drought events for risk-based impact studies</h4>
 
-		<p>Podcast available here</p>
+		<i class="fa fa-youtube-play" aria-hidden="true"></i> Play video <i class="fa fa-desktop" aria-hidden="true"></i> View slides
+
+		<p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/ybkZ7TAh9wA?rel=0" data-lity>Podcast</a></p>
 
 		<ul>
 			<li>Meteorological hazards</li>
@@ -219,7 +231,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Lola Rey, University of Cranfield: Evidence of increasing resilience in the irrigated agricultural sector in the face of increasing water scarcity</b></p>
 
-		<p>Podcast available here</p>
+		<p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/k1_fjjWYAuU?rel=0" data-lity>Podcast</a></p>
 
 		<ul>
 			<li>Research Question: Are there any evidence to suggest that farmers are more resilient to drought and water scarcity?</li>
@@ -256,6 +268,8 @@ Below is a summary of each of the three events, with links to the presentations 
 		<hr>
 
 		<p><b>Paul Whitehead, University of Oxford: Impacts of Droughts on Water Quality</b></p>
+
+		<p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/S87dxUeB4Xc?rel=0" data-lity>Podcast</a></p>
 
 		<ul>
 			<li>Water Quality impacts of drought in the UK</li>
@@ -298,6 +312,8 @@ Below is a summary of each of the three events, with links to the presentations 
 		<hr>
 		
 		<p><b>Len Shaffrey, University of Reading: IMPETUS: IMproving PrEdictions of Drought To inform USer decisions</b></p>
+
+		<p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/3qqHSy-yW0k?rel=0" data-lity>Podcast</a></p>
 
 		<ul>
 			<li>Research aim to improve forecasting of drought in the UK; part of WP2. (Meteorological aspects + hydrological aspect)</li>
@@ -342,6 +358,8 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Kevin Collins, Open University: DrIVER – Designing social learning systems for improving drought monitoring and early warning</b></p>
 
+		<p><a rel="podcast" href="https://www.youtube-nocookie.com/embed/69CiQUfp5B0?rel=0" data-lity>Podcast</a></p>
+
 		<ul>
 			<li>DRIVER Project: Improving the link between hydro-meteorological drought characterization of drought and environmental and socio-economic impacts. How relevant are drought indicators at capturing drought impacts/severity? How can we better design indicators to incorporate elements of drought impacts?</li>
 			<li>Methodology: Combine hydro-meteorological and socio-economic data such as reports, and social learning approaches to incorporate stakeholders’ views and experiences of drought.</li>
@@ -360,7 +378,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<hr>
 
-		<p><b>Rebecca Pearce, Stuart Barr, Exeter University: History – Constructing social timelines of droughts in the UK<</b></p>
+		<p><b>Rebecca Pearce, Stuart Barr, Exeter University: History – Constructing social timelines of droughts in the UK</b></p>
 
 		<ul>
 			<li>DRIVER Project: Improving the link between hydro-meteorological drought characterization of drought and environmental and socio-economic impacts. How relevant are drought indicators at capturing drought impacts/severity? How can we better design indicators to incorporate elements of drought impacts?</li>
@@ -561,11 +579,11 @@ Below is a summary of each of the three events, with links to the presentations 
 <div class="row symposium-card">
 	<div class="large-3 columns">
 		<a name="drought_risk_context_of_change"></a>
-		<img src="/mariusdroughtproject.org/assets/img/DroughtRisk_Sept2104.png" alt="" />
+		<img src="/mariusdroughtproject.org/assets/images/DroughtRisk_Sept2104.png" alt="" />
 	</div>
 	<div class="large-9 columns">
-		<h3>Drought Risk in the context of change</h3>
-		<h4>22 September 2014, Magdalen College, Oxford.</h4>
+		<h2>Drought Risk in the context of change</h2>
+		<h3 class="subheader">22 September 2014, Magdalen College, Oxford.</h3>
 
 		<hr>
 
@@ -611,7 +629,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Dr Narendra Kumar Tuteja (Australian Bureau of Meteorology)</b> gave an Australia perspective on ‘Water availability forecasts for operational planning and management’.</p>
 
-		<p>Australia has faced about 8 major drought events in the last 100 to 115 years: the Millennium drought (1997-2009) has had the most impact and has radically shaped the water reform agenda in Australia. Narendra talked about the an extensive user needs analysis in Australia which highlighted the desire and need for water availability / stream flow forecasts at a range of time scales, and the challenges in achieving these. He emphasised the need for continued and extensive liaison and consultation with stakeholders and users: a full two way exchange in order to fully understand and deliver useful research, data or tools. Engaging with stakeholders meaningfully, establishing R&D alliances and transitioning research to operations is not trivial and should not be underestimated; not least the communication of forecast uncertainty and performance. Influencing decision making by water resource managers requires ongoing engagement throughout all stages of planning, development and delivery of water and that making the right technology choices is critical for development and delivery of operational forecasting services.</p>
+		<p>Australia has faced about 8 major drought events in the last 100 to 115 years: the Millennium drought (1997-2009) has had the most impact and has radically shaped the water reform agenda in Australia. Narendra talked about the an extensive user needs analysis in Australia which highlighted the desire and need for water availability / stream flow forecasts at a range of time scales, and the challenges in achieving these. He emphasised the need for continued and extensive liaison and consultation with stakeholders and users: a full two way exchange in order to fully understand and deliver useful research, data or tools. Engaging with stakeholders meaningfully, establishing R&amp;D alliances and transitioning research to operations is not trivial and should not be underestimated; not least the communication of forecast uncertainty and performance. Influencing decision making by water resource managers requires ongoing engagement throughout all stages of planning, development and delivery of water and that making the right technology choices is critical for development and delivery of operational forecasting services.</p>
 
 		<hr>
 

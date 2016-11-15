@@ -30,7 +30,7 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	</div>
 </div>
 
-![A: Observed CORINE land use, B: Model simulated land use for the baseline period (majority land use type for each grid cell shown), C: Model simulated land use with 20% decrease in precipitation.]({{site.baseurl}}/assets/img/Fig1.png)
+![A: Observed CORINE land use, B: Model simulated land use for the baseline period (majority land use type for each grid cell shown), C: Model simulated land use with 20% decrease in precipitation.]({{ site.images_url }}/Fig1.png)
 
 A: Observed CORINE land use, B: Model simulated land use for the baseline period (majority land use type for each grid cell shown), C: Model simulated land use with 20% decrease in precipitation.
 
@@ -38,6 +38,6 @@ A: Observed CORINE land use, B: Model simulated land use for the baseline period
 
 Figure 2 indicates the average change in rural land use allocation across the UK with temperature and precipitation change. Most noticable is perhaps the large reduction in arable land use and corresponding increase in intensive grassland when temperature increases by approximately 2 degrees. This indicates under warming scenarios arable land within the UK is less profitable than grassland. This is likely to be caused by the large increase in arable area and production within central and eastern Europe under these scenarios.
 
-![2.png]({{site.baseurl}}/assets/img/2.png)
+![2.png]({{ site.images_url }}/2.png)
 
 As shown in figure 1, the model simulates a reduction in forest area and increase in grassland as precipitation decreases. This ultimately reflects the increased profitiability of grassland under reduced precipitation scenario, possibly due to  reduced forest productivity, and the additional area of grassland required to support a similar dairy/meat production in a drier climate.

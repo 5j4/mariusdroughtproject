@@ -12,5 +12,5 @@ The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and wa
 In addition we have close working relationships with Defra, Environment Agency, Ofwat, UKWIR and the Adaptation Sub-Committee of the Committee on Climate Change.
 
 {% for person in site.data.people_stakeholders_and_partners %}
-	{% include person.html person=person %}
+	{% include person_card.html person=person %}
 {% endfor %}
