@@ -71,4 +71,4 @@ For more information visit the _Droughts, people and management dashboard_ [here
 
 ### Journal Papers
 
-* Rudd, A., Bell, VA, Kay, AL, and Davies, HN. (2016) “Hydrological droughts in Great Britain, 1912-2011” (in review).
+* Rudd, A., Bell, VA, Kay, AL, and Davies, HN. (2016) “National-scale modelling of hydrological droughts in Great Britain (1891-2015)” (in review).
