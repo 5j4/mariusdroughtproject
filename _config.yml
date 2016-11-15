@@ -11,11 +11,12 @@ exclude: ["vendor"]
 include: ["_pages"]
 
 gems:
+  # - jekyll
   # - jekyll-assets
-  - jekyll-gist
+  # - jekyll-gist
   # - font-awesome-sass
 
-# gems: [jekyll-gist, markdown, render_time]
+gems: [jekyll-gist, jekyll-assets]
 
 permalink: /:title/
 
@@ -69,6 +70,7 @@ prose:
     - /_plugins
     - /assets
     - .travis.yml
+    - _sass
   metadata:
     _pages:
       - name: "layout"
