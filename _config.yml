@@ -13,7 +13,7 @@ include: ["_pages"]
 gems:
   # - jekyll-assets
   - jekyll-gist
-  - font-awesome-sass
+  # - font-awesome-sass
 
 # gems: [jekyll-gist, markdown, render_time]
 
