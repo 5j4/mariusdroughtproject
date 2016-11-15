@@ -10,10 +10,6 @@ destination: _site
 exclude: ["vendor"]
 include: ["_pages"]
 
-gems:
-  - jekyll-assets
-  - jekyll-gist
-
 # gems: [jekyll-gist, markdown, render_time]
 
 # This will require each of these gems automatically.
@@ -36,7 +32,7 @@ markdown: kramdown
 
 sass:
   sass_dir: _sass
-  # style: compressed
+  style: compressed
 
 baseurl: /mariusdroughtproject.org
 

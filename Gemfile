@@ -7,6 +7,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
 	gem "jekyll-gist"
 	gem "font-awesome-sass", "~> 4.4", :require => false
+	gem "jekyll-assets"
 	# gem "jekyll-github-metadata", "~> 1.0"
 	# gem "liquid-inheritance"
 	# gem 'liquid-template-inheritance'
