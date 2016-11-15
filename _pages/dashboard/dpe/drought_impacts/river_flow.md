@@ -26,7 +26,7 @@ The Environment Agency and water companies monitor droughts using various indica
 
 Hydrological models represent the land surface, rivers, vegetation and sub-surface water. In particular, they are used to estimate river flows and soil moisture for ecological and agricultural impacts assessment, as well as providing the basis for a water quality assessment.
 
-Output from the hydrological models can be used within [environmental]({{ site.dpe_url }}/drought_impacts/environment/), [water resource management]({{ site.dpe_url }}/drought_management/water_supply_options/), [farming]({{ site.dpe_url }}/drought_impacts/farming/), and [economic]({{ site.dpe_url }}/drought_impacts/economy/) modelling for further analysis of impacts of drought and water scarcity.
+Output from the hydrological models can be used within [ecology]({{ site.dpe_url }}/drought_impacts/ecology/), [water resource management]({{ site.dpe_url }}/drought_management/water_supply_options/), [farming]({{ site.dpe_url }}/drought_impacts/farming/), and [economic]({{ site.dpe_url }}/drought_impacts/economy/) modelling for further analysis of impacts of drought and water scarcity.
 
 ![Monthly mean river flow for July 1976.png]({{site.baseurl}}/assets/img/Monthly mean river flow for July 1976.png)
 
