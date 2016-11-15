@@ -10,6 +10,11 @@ destination: _site
 exclude: ["vendor"]
 include: ["_pages"]
 
+gems:
+  - jekyll-assets
+  - jekyll-gist
+  - render_time
+
 # gems: [jekyll-gist, markdown, render_time]
 
 # This will require each of these gems automatically.
