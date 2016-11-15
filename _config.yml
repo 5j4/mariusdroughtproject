@@ -10,15 +10,11 @@ destination: _site
 exclude: ["vendor"]
 include: ["_pages"]
 
-gems:
-  - jekyll-assets
-  - jekyll-gist
-  - render_time
+# gems:
+#   - jekyll-assets
+#   - jekyll-gist
 
 # gems: [jekyll-gist, markdown, render_time]
-
-# This will require each of these gems automatically.
-# gems: [liquid-inheritance]
 
 permalink: /:title/
 
