@@ -7,6 +7,7 @@ _title: Response and recovery of wetland ecosystems to drought
 research_team:
   - james_blake
   - mike_acreman
+  - cedric_laize
 ---
 
 ## Key science findings
