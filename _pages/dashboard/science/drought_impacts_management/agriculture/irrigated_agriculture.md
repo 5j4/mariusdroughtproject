@@ -22,7 +22,7 @@ research_team:
  
 ## Introduction
 
-Rainfed and irrigated agriculture is one of the most sensitive UK sectors to drought and water scarcity.  Past drought events, such as 1975-76 and 2010-12, have led to significant impacts arising from reduced production, reduced product quality and animal welfare concerns.  Irrigated agribusinesses can face abstraction restrictions imposed by the Regulator during droughts and increased competition for water resources from public water supply and the environment.   MaRIUS aims to understand how long term farm planning will change due to increased water scarcity; and the impacts and response of farmers, processors and food retailers to drought.
+Irrigated agribusinesses can face abstraction restrictions imposed by the Regulator during droughts and increased competition for water resources from public water supply and the environment.   MaRIUS aims to understand how long term farm planning will change due to increased water scarcity; and the impacts and response of farmers, processors and food retailers to drought.
 
 ## Research methods
 

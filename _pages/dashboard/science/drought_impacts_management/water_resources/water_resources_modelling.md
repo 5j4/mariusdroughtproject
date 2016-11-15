@@ -2,7 +2,6 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/water_resources/tbm/
-
 subsection: Drought Impacts Management > Water Resources
 _title: Thames basin modelling
 research_team:
@@ -23,3 +22,6 @@ The general question I am trying to address is the impacts of drought and water 
 The Thames water resource system in WATHNET has been developed. With this is platform it will be integrated with water quality and energy consumption model.
 
 Our approach is risk-based which means we will run the model for many number of scenarios (i.e. 1000) and we will extract statistical outputs of these scenarios.
+
+## Further information
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_management/water_supply_options/)

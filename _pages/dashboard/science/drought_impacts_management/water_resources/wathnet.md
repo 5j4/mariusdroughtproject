@@ -4,10 +4,13 @@ published: true
 permalink: /dashboard/science/drought_impacts_management/water_resources/wathnet/
 _title: WATHNET
 subsection: Drought Impacts Management > Water Resources
+research_team:
+  - mohammad_mortazavi
+  - jim_hall
 ---
 ## Key science findings
 
-1.	The concepts behind simulation platform (WATHNET) 
+-The concepts behind simulation platform (WATHNET) 
 
 ## Introduction 
 
@@ -21,4 +24,9 @@ Here we explain a description of the WATHNET simulation model that is used in th
 
 In an NFP model the water resource system is represented as a directed graph which is collection of nodes and a set of arcs. The nodes represent source, demand or transfer points on the network. The arcs represent flow paths from one node to another. In WATHNET, two types of arcs are defined, namely stream arcs which represent rivers and conduit arcs which represent pipes. Six different nodes are defined in WATHNET, namely stream, reservoir, demand, waste, harvest and junction nodes. Stream nodes represent a source of water to the system such as inflow to reservoirs or rainfall over a catchment. Reservoir nodes represent reservoirs and carryover storage from one time step to the next. Demand nodes represent sink points in the network. Junction nodes represent transfer points. Harvest nodes enable application of stochastic transfer functions such as in the modelling of domestic rainwater tank savings or run-of-river diversions at monthly time scales. Waste nodes act as a sink points to collect any water leaving the network.
 
-![A simple network in WATHNET (adapted from Kuczera, 1992)]({{ site.images_url }}/Mohammad_4.png)
+![A simple network in WATHNET (adapted from Kuczera, 1992)]({{site.baseurl}}/assets/img/Mohammad_4.png)
+
+## Further information
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/water_supply_options/)
+
+-Kuczera, G. (1992). "Water supply headworks simulation using network linear programming." Advances in Engineering Software 14(1): 55-60.

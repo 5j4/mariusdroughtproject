@@ -1,8 +1,6 @@
 - title: Meteorological Drought
   url: /dashboard/science/drought_climatology/
   subpages:
-    - title: Meteorological droughts & climate change
-      url: /dashboard/science/drought_climatology/meteorological_droughts/
     - title: 20th Century
       url: /dashboard/science/drought_climatology/20c/
     - title: 21st Century
@@ -29,7 +27,7 @@
       url: /dashboard/science/drought_impacts_management/water_resources/wathnet/
     - title: Thames basin modelling
       url: /dashboard/science/drought_impacts_management/water_resources/thames/
-    - title: National resources
+    - title: National water resources modelling
       url: /dashboard/science/drought_impacts_management/water_resources/national_scale/
 
 - title: Water Quality
@@ -63,10 +61,8 @@
       url: /dashboard/science/drought_impacts_management/ecology/rivers/
     - title: Wetland ecosystems
       url: /dashboard/science/drought_impacts_management/ecology/wetlands/
-    - title: Species envelope modelling
-      url: /dashboard/science/drought_impacts_management/ecology/sem/
-    - title: Tree species
-      url: /dashboard/science/drought_impacts_management/ecology/vts/
+    - title: Terrestrial ecosystems
+      url: /dashboard/science/drought_impacts_management/ecology/te/
 
 - title: Economy &amp; Industry
   url: /dashboard/science/drought_impacts_management/economy_and_industry/

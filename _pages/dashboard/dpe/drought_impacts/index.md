@@ -9,7 +9,7 @@ Droughts and water scarcity jointly pose a substantial threat to the environment
 
 Yet, our ability to characterise and predict the occurrence, duration and intensity of droughts, as well as minimise and manage impacts of drought and water scarcity, is often inadequate.
 
-In MaRIUS we developed new methodologies and models for the analysis of drought and water scarcity impacts on [river flow](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/river_flow/), [water quality]({{ site.dpe_url }}/drought_impacts/water_quality/), [the environment]({{ site.dpe_url }}/drought_impacts/environment/), [farming]({{ site.dpe_url }}/drought_impacts/farming/), [the economy]({{ site.dpe_url }}/drought_impacts/economy/), and how these combine to affect [people]({{ site.dpe_url }}/drought_impacts/people/).
+In MaRIUS we developed new methodologies and models for the analysis of drought and water scarcity impacts on [river flow](https://5j4.github.io/mariusdroughtproject.org/dashboard/dpe/drought_impacts/river_flow/), [water quality]({{ site.dpe_url }}/drought_impacts/water_quality/), [ecology]({{ site.dpe_url }}/drought_impacts/ecology/), [farming]({{ site.dpe_url }}/drought_impacts/farming/), [the economy]({{ site.dpe_url }}/drought_impacts/economy/), and how these combine to affect people.
 
 By supporting the analysis of a comprehensive range of impacts in a common framework MaRIUS provides multi-attribute characterisation of drought impacts and evidence that can help evaluate trade-offs between different impacts and drought management options.
 

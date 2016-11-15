@@ -11,8 +11,8 @@
       url: /dashboard/dpe/drought_impacts/river_flow/
     - title: on water quality
       url: /dashboard/dpe/drought_impacts/water_quality/    
-    - title: on the environment
-      url: /dashboard/dpe/drought_impacts/environment/
+    - title: on ecology
+      url: /dashboard/dpe/drought_impacts/ecology/
     - title: on farming
       url: /dashboard/dpe/drought_impacts/farming/
     - title: on the economy
