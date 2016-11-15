@@ -43,6 +43,7 @@ baseurl: /mariusdroughtproject.org
 assets_url: /mariusdroughtproject.org/assets
 images_url: /mariusdroughtproject.org/assets/images
 data_url: /mariusdroughtproject.org/assets/data
+
 science_url: /mariusdroughtproject.org/dashboard/science
 dpe_url: /mariusdroughtproject.org/dashboard/dpe
 

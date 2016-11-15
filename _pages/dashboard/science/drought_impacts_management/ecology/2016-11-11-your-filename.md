@@ -39,11 +39,11 @@ This grassland type is currently found almost entirely within England, with only
 
 There are important concentrations of lowland meadows in the Thames Basin, but by the 2050s some of it is likely to become climatically unsuitable for these species. Under the high emissions scenario, all suitable climate space for most of them is projected to be lost by the 2050s, leading to a potential loss of this habitat which is important for conservation.
 
-![Changes in suitable climate space in Great Britain (above) and Thames basin (below) for MG 4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows species under different UKCP09 scenarios.]({{site.baseurl}}/assets/img/Pam1_.png)
+![Changes in suitable climate space in Great Britain (above) and Thames basin (below) for MG 4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows species under different UKCP09 scenarios.]({{site.images_url}}/Pam1_.png)
 
 The spatial pattern of drought-induced tree mortality levels across the Thames Basin in the 2030s and 2080s (Figure 2) shows that generally, beech is more susceptible to drought than oak especially in the southeast Thames Basin. The level of drought impact on beech is slightly increased in the 2080s, whereas the similar trend is not evident for oak. Amongst the sub-catchments, the Wey and Colne appear to be particularly affected under almost all climate scenarios, followed by London for oak. The western sub-catchments (e.g. Kennet and Cotswolds) are less affected.
 
-![Vulnerability levels of beech and oak in the Thames Basin to drought relative to baseline]({{site.baseurl}}/assets/img/Pam2_.jpg)
+![Vulnerability levels of beech and oak in the Thames Basin to drought relative to baseline]({{site.images_url}}/Pam2_.jpg)
 
 ## Further information
 

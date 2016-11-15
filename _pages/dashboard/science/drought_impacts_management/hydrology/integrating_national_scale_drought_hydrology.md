@@ -8,7 +8,7 @@ _title: Integrating drought hydrology to the national scale
 research_team:
   - gemma_coxon
   - jim_freer
-  - thorseten_wagener
+  - thorsten_wagener
   - ross_woods
   - nicholas_howden
 ---

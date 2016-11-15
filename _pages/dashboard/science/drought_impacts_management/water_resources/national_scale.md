@@ -20,7 +20,7 @@ In a project with Atkins for Water UK (Water UK, 2016), a national water resourc
 
 The national model has 600 arcs and 380 nodes. The figure 1 presents a snapshot of the model. The computation time on a desktop computer (3.40 GHz) for 30 years of simulation on daily basis is 9 minutes.  
 
-![Snapshot of National model in WATHNET]({{site.baseurl}}/assets/img/Mohammad_1.png)
+![Snapshot of National model in WATHNET]({{site.images_url}}/Mohammad_1.png)
 
 
 ## Further information

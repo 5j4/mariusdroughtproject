@@ -15,7 +15,7 @@ research_team:
 2.	Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
 3.	The bespoke model of Salmons Brook connected local river restoration interventions and citizen science monitoring to scientific analysis of water quality under different flow scenarios
 
-![Figure 1: River Lea, East London near Bow locks]({{site.baseurl}}/assets/img/Catharina%20Lea%20at%20Bow%20locks.jpg){:width="50%"}
+![Figure 1: River Lea, East London near Bow locks]({{site.images_url}}/Catharina%20Lea%20at%20Bow%20locks.jpg){:width="50%"}
 
 
 ## Introduction
@@ -29,7 +29,7 @@ Human Geography research in the <abbr title="Managing the Risks, Impacts and Unc
 
 The Community Modelling approach originates in the realisation that the Environmental Competency Groups methodology for bringing scientific and vernacular knowledge together is too resource demanding to be used more widely by local communities. Informed by previous ECGs addressing flood risk management and the Kennet ECG focussing water management Community Modelling was designed to make locally informed computer modelling usable by environmental NGOs and the residents that they engage with rivers. The human geography local case study undertaken within the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project provided initial understanding of the matters of concern engaging the local community by the River Lea and made contact with the local rivers trust Thames 21. The Community Modelling activity comprised three sessions with two <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project team members - a social scientist and a natural scientist.
 
-![Figure 2: Mixed urban dwellings along the River Lea in East London. ]({{site.baseurl}}/assets/img/Catharina Urban dwellings Lea.jpeg){:width="50%"}
+![Figure 2: Mixed urban dwellings along the River Lea in East London. ]({{site.images_url}}/Catharina Urban dwellings Lea.jpeg){:width="50%"}
 
 ## Result 1: A bespoke set up computer model became a useful tool for Thames 21 for local community engagement with river and water management.
 
@@ -37,7 +37,7 @@ The <abbr title="Managing the Risks, Impacts and Uncertainties of drought and wa
 
 The INCA model used in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> work stream B was identified as an approach that could represent processes on a scale of interest to the local community. In the first Community Modelling session the INCA model was presented and the three Thames 21 officers and the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project team agreed on setting up the model for Salmons Brook.
 
-![Figure 3: Thames 21 east office near Bow locks in East London. ]({{site.baseurl}}/assets/img/Catharina Thames 21 office.jpeg){:width="50%"}
+![Figure 3: Thames 21 east office near Bow locks in East London. ]({{site.images_url}}/Catharina Thames 21 office.jpeg){:width="50%"}
 
 ## Result 2: Set up for the River Lea and its tributary Salmons Brook the INCA model incorporated data collected by local volunteers taking part in citizen science monitoring.
 

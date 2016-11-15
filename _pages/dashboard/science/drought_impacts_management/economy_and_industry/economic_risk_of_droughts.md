@@ -30,9 +30,9 @@ Economic impacts of drought can be large and far-ranging. The quantification of 
 
 A limitation of most empirical studies on economic impacts of drought is that they are not applied within an explicit conceptual framework that sets out the important characteristics of droughts, such as: the level, and composition, of hydraulic capital; the dispersion of economic impacts across different economic activities and agents; the temporality of drought events; and the critical importance of policy-making in shaping the short and long-term economic impacts of droughts.  While such a focus might be appropriate when assessing the economic impacts of past droughts, such an approach is not fit for purpose when it comes to assessing future, potential droughts. 
 
-![Katie1.png]({{site.baseurl}}/assets/img/Katie1.png)
+![Katie1.png]({{site.images_url}}/Katie1.png)
 
-![Economic impacts of droughts. See Freire-González et al. (2017a)]({{site.baseurl}}/assets/img/Katie1.png)
+![Economic impacts of droughts. See Freire-González et al. (2017a)]({{site.images_url}}/Katie1.png)
 
 Fig. 1 differentiates between two types of impacts. The first type of impact is related to how a lack of water affects different economic agents such as industry, households, government and the environment. The second type of impact refers to the secondary effects of a drought from fires, desertification, migration etc. Each of these secondary effects needs a specific framework of economic analysis beyond the effects of the lack of water on the economic systems. 
 
