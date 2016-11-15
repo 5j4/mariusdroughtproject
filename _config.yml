@@ -10,9 +10,11 @@ destination: _site
 exclude: ["vendor"]
 include: ["_pages"]
 
-# gems:
-#   - jekyll-assets
-#   - jekyll-gist
+gems:
+  - jekyll-assets
+  - jekyll-gist
+  - font-awesome-sass
+  - jekyll-assets
 
 # gems: [jekyll-gist, markdown, render_time]
 
