@@ -10,6 +10,11 @@ callback([
   },
 
   {
+    "text": "Images URL",
+    "href": "{{ site.images_url }}/"
+  },
+
+  {
     "text": "Science dashboard page",
     "href": "{{ site.science_url }}/"
   },
