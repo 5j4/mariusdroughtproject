@@ -32,6 +32,7 @@ The map above highlights the percentage change in tree mortality of beech and oa
 - Under future climates, droughts may occur more frequently reducing the time available for full ecosystem recovery.
     
 ![River ecosystem]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_1.png){:width="50%"}
+     
 _A River Ecosystem_
     
 **Wetlands** are ecosystems characterised by periods of saturation or inundation. Because they are not all constantly wet, the species occurring in wetlands are adapted to periods of dryness. However, drought events are periods of extreme aridity during which species may disappear and physical characteristics, such as soils, may change. Recovery of wetlands depends on the intensity and duration of the drought and the proximity of species reservoirs to support recolonization. If intensity, duration or frequency of droughts increases in the future, greater changes may result and the ability of wetlands to recover may be compromised. Results highlighted that:
@@ -40,6 +41,7 @@ _A River Ecosystem_
 - Wetlands in the south and east of England and Wales are more likely to be altered by climate change than those in the north and west.
    
 ![Wetlands]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/wetland_pic_1.jpg){:width="50%"}
+    
 _River Fed Wetlands_
 
 Research also focused on selected **grassland** habitats, projecting how the suitable climate space for the growth of certain species might change over time. For example, results highlighted that:
