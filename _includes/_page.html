@@ -26,7 +26,8 @@
     <!--<link rel="stylesheet" href="{{ site.assets_url }}/css/foundation.css">-->
     <link rel="stylesheet" href="{{ site.assets_url }}/css/vendor/font-awesome-4.7.0/css/font-awesome.min.css" media="screen">
     
-    <link rel="stylesheet" href="{{ site.assets_url }}/css/main.css"> <!-- app -->
+    
+    <link rel="stylesheet" href="{{ site.assets_url }}/css/main.css?bust={{ site.time | date: '%s' }}"> <!-- app -->
 
     {% if include.section %}
       <!-- css for SECTION (layout): {{ include.section }} -->
@@ -166,7 +167,7 @@
 <script src="{{ site.assets_url }}/js/vendor/foundation-6.2.3-custom.min.js"></script>
 <script src="{{ site.assets_url }}/js/vendor/app_foundation-6.2.3-custom.min.js"></script>-->
 
-<script src="{{ site.assets_url }}/js/main.js"></script> <!-- app -->
+<script src="{{ site.assets_url }}/js/main.js?bust={{ site.time | date: '%s' }}"></script> <!-- app -->
 
 {% if layout.extra_js %}
   <!-- extra_js for SECTION (layout): {{ include.section }} -->

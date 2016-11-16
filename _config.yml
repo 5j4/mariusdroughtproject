@@ -10,13 +10,16 @@ destination: _site
 exclude: ["vendor"]
 include: ["_pages"]
 
-gems:
-  # - jekyll
-  # - jekyll-assets
-  # - jekyll-gist
-  # - font-awesome-sass
+# gems:
+#   # - jekyll
+#   - sass
+#   - font-awesome-sass
+#   - jekyll-assets
+#   - jekyll-gist
+#   - uglifier
+#   - mini_magick
 
-gems: [jekyll-gist, jekyll-assets]
+# gems: [jekyll-gist, jekyll-assets, sass, uglifier]
 
 permalink: /:title/
 
@@ -33,11 +36,30 @@ markdown: kramdown
 # kramdown:
 #   parse_block_html: true
 
+baseurl: /mariusdroughtproject.org
+
+# ------------------------------------------------------------------------------
 sass:
   sass_dir: _sass
   style: compressed
 
-baseurl: /mariusdroughtproject.org
+# ------------------------------------------------------------------------------
+# jekyll-assets
+# assets:
+#     dirname: assets
+#     baseurl: /mariusdroughtproject.org/assets/
+#     sources:
+#       - _assets/css
+#       - _assets/images
+#       - _assets/js
+#     # compress:
+#     #     css: sass
+#     #     js: uglifier
+#     # features:
+#     #     liquid: true
+#     #     automatic_img_alt: true
+#     #     automatic_img_size: false
+#     digest: true
 
 # ------------------------------------------------------------------------------
 assets_url: /mariusdroughtproject.org/assets
