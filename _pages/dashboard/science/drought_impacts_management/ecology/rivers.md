@@ -37,7 +37,8 @@ In addition to a detailed review of evidence of how droughts affect river ecosys
 
 The eco-hydrological literature supports the concept that all aspects of the flow regime matter to riverine ecosystems. Any major departure from usual conditions is therefore associated with the risk of an impact to the system. This forms the basis for the two hydrological alteration approaches used in his project:
 (1)	Ecological Risk due to Flow Alteration (ERFA) method, developed by CEH, and adapted for MaRIUS
-(2)	Drought-specific G2G metrics ERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. 
+(2)	Drought-specific G2G metrics.
+ERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. 
 
 ![Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90.]({{ site.images_url }}/Cedric1.jpg.png){:width="50%"}
 
