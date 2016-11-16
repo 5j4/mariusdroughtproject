@@ -44,7 +44,7 @@ _River Ecosystems_
 ![Wetlands]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/wetland_pic_1.jpg){:width="40%"}  ![Wetland ecosystem 2]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/wetland_pic_2.jpg){:width="40%"}
 
     
-_River Fed Wetlands_
+_River-fed Wetlands_
 
 Research also focused on selected **grassland** habitats, projecting how the suitable climate space for the growth of certain species might change over time. For example, results highlighted that:
 
