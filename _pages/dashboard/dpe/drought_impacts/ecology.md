@@ -34,7 +34,7 @@ The map above highlights the percentage change in tree mortality of beech and oa
 ![River ecosystem]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_1.png){:width="50%"}!  [River ecosystem 2]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_2.png){:width="50%"}!
 
      
-_A River Ecosystem_
+_River Ecosystems_
     
 **Wetlands** are ecosystems characterised by periods of saturation or inundation. Because they are not all constantly wet, the species occurring in wetlands are adapted to periods of dryness. However, drought events are periods of extreme aridity during which species may disappear and physical characteristics, such as soils, may change. Recovery of wetlands depends on the intensity and duration of the drought and the proximity of species reservoirs to support recolonization. If intensity, duration or frequency of droughts increases in the future, greater changes may result and the ability of wetlands to recover may be compromised. Results highlighted that:
 
