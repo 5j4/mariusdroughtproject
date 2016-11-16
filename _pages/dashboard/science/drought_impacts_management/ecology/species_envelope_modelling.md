@@ -14,7 +14,7 @@ research_team:
 Climate change with its associated water scarcity could lead to changes in wetland communities, as species no longer have suitable climate space.
 For MG4 lowland meadows, many of the key species are projected to lose suitable climate space in southern, eastern and central England and Wales, by the 2050s under a medium emission scenario (Fig 1) Suitable climate space for MG4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows under a UKCP09 High emissions 50% probability scenario for the 2050s
 
-![]({{ site.baseurl }}/assets/images/sem_suitableclimatespace.jpg){:width="50%"}
+![]({{site.images_url}}/sem_suitableclimatespace.jpg){:width="50%"}
 
 Suitable climate space for MG4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows under a UKCP09 High emissions 50% probability scenario for the 2050s.
 
@@ -33,6 +33,6 @@ This grassland type is currently found almost entirely within England, with only
 
 There are important concentrations of lowland meadows in the Thames Basin, but by the 2050s some of it is likely to become climatically unsuitable for these species. Under a high emissions scenario, all suitable climate space for most of them is project to be lost by the 2050s, leading to a potential loss of this habitat which is important for conservation.
 
-![]({{ site.baseurl }}/assets/images/sem_suitableclimatespace_change.jpg){:width="50%"}
+![]({{site.images_url}}/sem_suitableclimatespace_change.jpg){:width="50%"}
 
 Changes in suitable climate space for MG 4 Alopecurus pratensis–Sanguisorba officinalis Lowland hay meadows species under different UKCP09 scenarios. Low and High refer to the emissions scenario. SCP1 and 9 to the 10% and 90% probability respectively.

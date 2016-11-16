@@ -38,7 +38,7 @@ Forthcoming analysis will use the specially-formulated <abbr title="Managing the
 
 Our historical analysis, indicates that over the past 40 years, on average, potentially as much as 4.6 TWh of generation, each year, is unavailable due to low flows. This has a market value (£42/MWh) of close to £200m with estimated loss of profits of £45m/yr to companies. Whilst in most years the generation unavailable is small, in more severe, drier years, such as 1975-‘76, 1989-91, 1995-96 and 2012, the value of unavailable generations ranges potentially up to £400-800m per year.
 
-![]({{ site.baseurl }}/assets/images/eides_PPTWhYrHist.png)
+![]({{site.images_url}}/eides_PPTWhYrHist.png)
 
 Historical analysis of the potential impacts of low flows and drought on the current UK thermal power plants with current environmental regulation.
 
@@ -51,11 +51,11 @@ Historical analysis of the potential impacts of low flows and drought on the cur
 
 The following two figures compare the generation unavailability (%) of the 11 Future Flows timeseries from 1951-2091.
 
-![]({{ site.baseurl }}/assets/images/eides_PP_DE7yr_Qcum90_minUmax.png){:width="50%"}
+![]({{site.images_url}}/eides_PP_DE7yr_Qcum90_minUmax.png){:width="50%"}
 
 Generation unavailability over the forthcoming 7-year horizon
 
-![]({{ site.baseurl }}/assets/images/eides_PP_DE1yr_Qcum90_minUmax.png){:width="50%"}
+![]({{site.images_url}}/eides_PP_DE1yr_Qcum90_minUmax.png){:width="50%"}
 
 Generation unavailability over the forthcoming 1-year horizon
 
@@ -63,11 +63,11 @@ Generation unavailability over the forthcoming 1-year horizon
 
 Comparison of impacts across timeseries, by powerplant.
 
-![]({{ site.baseurl }}/assets/images/eides_PP_scatter_by_PPTWh.png){:width="50%"}
+![]({{site.images_url}}/eides_PP_scatter_by_PPTWh.png){:width="50%"}
 
 Annualised generation unavailability
 
-![]({{ site.baseurl }}/assets/images/eides_PP_scatter_by_PPpct.png){:width="50%"}
+![]({{site.images_url}}/eides_PP_scatter_by_PPpct.png){:width="50%"}
 
 Percentage generation unavailability
 

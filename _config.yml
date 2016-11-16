@@ -70,6 +70,8 @@ prose:
     - /_plugins
     - /assets
     - .travis.yml
+    - .jekyl-metadata
+    - build.sh
     - _sass
   metadata:
     _pages:
