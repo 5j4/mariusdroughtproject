@@ -77,7 +77,7 @@ prose:
   #rooturl: ''
   #siteurl: "https://5j4.github.io/mariusdroughtproject.org/"
   relativeLinks: "http://5j4.github.io/mariusdroughtproject.org/links.jsonp"
-  media: 'assets/img'
+  media: 'assets/images'
   ignore:
     - .gitignore
     - Gemfile

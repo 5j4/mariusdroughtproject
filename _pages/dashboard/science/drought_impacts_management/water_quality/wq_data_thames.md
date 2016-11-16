@@ -19,7 +19,7 @@ research_team:
 * Complete 2 year water quality data set of Farmoor reservoir
 * Accompanying phytoplankton characterisation by flow cytometry
 
-![Water quality data for River Thames at Swinford - Phosphorus concentration]({{site.images_url}}/twqd_wqrtswinford_phosphorus.png){:width="50%"}
+![Water quality data for River Thames at Swinford - Phosphorus concentration]({{site.images_url}}/rtwqd_wqrtswinford_phosphorus.png){:width="50%"}
 
 Water quality data for River Thames at Swinford - **Phosphorus** concentration
 
