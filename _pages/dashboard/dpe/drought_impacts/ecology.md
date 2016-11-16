@@ -31,7 +31,8 @@ The map above highlights the percentage change in tree mortality of beech and oa
 - River ecosystems can recover from drought; the time taken depends on the species. Much depends on the severity and duration of the drought.
 - Under future climates, droughts may occur more frequently reducing the time available for full ecosystem recovery.
     
-![River ecosystem]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_1.png){:width="50%"}
+![River ecosystem]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_1.png){:width="50%"}![River ecosystem 2]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_2.png){:width="50%"}![river_ecosystem_2.png]({{site.baseurl}}/_pages/dashboard/dpe/drought_impacts/river_ecosystem_2.png)
+
      
 _A River Ecosystem_
     
