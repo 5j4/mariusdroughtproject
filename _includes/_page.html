@@ -26,7 +26,7 @@
     <!--<link rel="stylesheet" href="{{ site.assets_url }}/css/foundation.css">-->
     <link rel="stylesheet" href="{{ site.assets_url }}/css/vendor/font-awesome-4.7.0/css/font-awesome.min.css" media="screen">
     
-    
+
     <link rel="stylesheet" href="{{ site.assets_url }}/css/main.css?bust={{ site.time | date: '%s' }}"> <!-- app -->
 
     {% if include.section %}
@@ -116,11 +116,11 @@
 
           {{ content }}
 
-          {% if page.videos %}
+          {% if page.presentations %}
           <div id="videos">
             <h3>Videos</h3>
-            {% for video in page.videos %}
-            {% include podcast_card.html podcast_id=video %}
+            {% for presentation in page.presentations %}
+            {% include presentation_card.html presentation_id=presentation %}
             {% endfor %}
           </div>
           {% endif %}

@@ -1,0 +1,15 @@
+{% assign p = site.data.presentations[include.presentation_id] %}
+{% assign p_author = site.data.people_researchers[p.author] %}
+
+<div id="presentation-card" class="row">
+	<div class="large-2 columns">
+		<img src="{{ site.images_url }}/people/{{ p.author }}.png" alt="{{ p_author.title }} {{ p_author.name }}" />
+	</div>
+	<div class="large-10 columns">
+		<b><a rel="presentation" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></b>
+		<br>
+		by {{ p_author.title }} {{ p_author.name }}<br>
+		{{ p_author.organisation }}<br><br>
+		<p>{{ p.description }}</p>
+	</div>
+</div>

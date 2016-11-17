@@ -11,6 +11,8 @@ research_team:
   - dolores_rey
   - victoria_janes
   - nirman_shrestha
+presentations:
+  - delores_rey_20150908
 ---
 
 ## Key science findings
@@ -56,4 +58,3 @@ The apparent impact of drought on irrigated farm businesses has declined since t
 
 * Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (In Press). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management
 * “Managing risks, impacts and uncertainty of drought” http://www.ukia.org/data/conference/Holman.pdf
-* Podcast: “Evidence of increasing resilience in the irrigated agricultural sector in the face of increasing water scarcity” by Dr Lola Rey https://www.youtube.com/watch?v=k1_fjjWYAuU&feature=youtu.be

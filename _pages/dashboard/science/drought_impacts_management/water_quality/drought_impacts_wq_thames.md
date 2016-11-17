@@ -11,6 +11,8 @@ research_team:
   - mike_bowes
   - daniel_read
   - alex_elliot
+presentations:
+  - gianbattista_bussi_20150506
 ---
 
 ## Key science findings or outputs
@@ -63,4 +65,3 @@ Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}
 * G. Bussi, P. Whitehead, M. Bowes, D. Read, S. Dadson. 2015. Dynamic modelling of five different phytoplankton groups in the River Thames (UK). Geophysical Research Abstracts. EGU General Assembly 2015. Vienna, Austria. April 2015. ISSN 1029-7006. Open poster
 * G. Bussi, P. Whitehead, S. Dadson. 2016. Modelling climate change, land-use change and phosphorus reduction impacts on phytoplankton in the River Thames (UK). Geophysical Research Abstracts. EGU General Assembly 2016. Vienna, Austria. April 2016. ISSN 1029-7006. Open presentation
 * G. Bussi, S. Dadson, P. Whitehead. 2016. Modelling the impacts of climate and land-use change on the sediment transport of the River Thames (UK). Geophysical Research Abstracts. EGU General Assembly 2016. Vienna, Austria. April 2016. ISSN 1029-7006. Open poster
-Podcast: Algal modelling https://www.youtube.com/watch?v=50VbF4TuYyk

@@ -1,0 +1,4 @@
+{% for presentation in site.data.presentations %}
+{% assign presentation_id = presentation[0] %}
+{% include presentation_card.html presentation_id=presentation_id %}
+{% endfor %}

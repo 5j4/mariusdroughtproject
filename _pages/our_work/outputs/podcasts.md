@@ -17,4 +17,4 @@ In addition to the <abbr title="Managing the Risks, Impacts and Uncertainties of
 
 We hope you enjoy watching them. Further podcasts are being planned so please come back for more! 
 
-{% include podcast_list.html %}
+{% include presentation_list.html %}
