@@ -65,7 +65,7 @@ Below is a summary of each of the three events, with links to the presentations 
 		<a name="drought_risk_and_decision_making"></a>
 		<img src="/mariusdroughtproject.org/assets/images/2016_DroughtPoster_v20160708-208x300.png" alt="" />
 	</div>
-	<div class="large-9 columns">
+	<div class="large-9 columns" >
 		<h2>Drought Risk and Decision Making </h2>
 		<h3 class="subheader">8 September 2015, Exeter College, Oxford</h3>
 
@@ -117,10 +117,10 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<h4>Christina Cook, University of Oxford: Regulatory governance arrangements for water scarcity and drought in the UK</h4>
 
-		<a rel="video" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity><i class="fa fa-youtube-play" aria-hidden="true"></i> Play video</a>
+		<a rel="external" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity><i class="fa fa-youtube-play" aria-hidden="true"></i> Play video</a>
 		<i class="fa fa-desktop" aria-hidden="true"></i> View slides
 
-		<!-- <p><a rel="video" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity>Video</a></p> -->
+		<!-- <p><a rel="external" href="https://www.youtube-nocookie.com/embed/9ScINs7Nxzg?rel=0" data-lity>Video</a></p> -->
 
 		<ul>
 			<li>Research focuses on: understanding how drought and water scarcity are regulated in the UK: how the law works in practice; regulatory tools as part of a wider governance space; How can are environmental science and economic knowledge used and can they be better connected;</li>
@@ -181,7 +181,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<i class="fa fa-youtube-play" aria-hidden="true"></i> Play video <i class="fa fa-desktop" aria-hidden="true"></i> View slides
 
-		<p><a rel="video" href="https://www.youtube-nocookie.com/embed/ybkZ7TAh9wA?rel=0" data-lity>Video</a></p>
+		<p><a rel="external" href="https://www.youtube-nocookie.com/embed/ybkZ7TAh9wA?rel=0" data-lity>Video</a></p>
 
 		<ul>
 			<li>Meteorological hazards</li>
@@ -231,7 +231,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Lola Rey, University of Cranfield: Evidence of increasing resilience in the irrigated agricultural sector in the face of increasing water scarcity</b></p>
 
-		<p><a rel="video" href="https://www.youtube-nocookie.com/embed/k1_fjjWYAuU?rel=0" data-lity>Video</a></p>
+		<p><a rel="external" href="https://www.youtube-nocookie.com/embed/k1_fjjWYAuU?rel=0" data-lity>Video</a></p>
 
 		<ul>
 			<li>Research Question: Are there any evidence to suggest that farmers are more resilient to drought and water scarcity?</li>
@@ -269,7 +269,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Paul Whitehead, University of Oxford: Impacts of Droughts on Water Quality</b></p>
 
-		<p><a rel="video" href="https://www.youtube-nocookie.com/embed/S87dxUeB4Xc?rel=0" data-lity>Video</a></p>
+		<p><a rel="external" href="https://www.youtube-nocookie.com/embed/S87dxUeB4Xc?rel=0" data-lity>Video</a></p>
 
 		<ul>
 			<li>Water Quality impacts of drought in the UK</li>
@@ -313,7 +313,7 @@ Below is a summary of each of the three events, with links to the presentations 
 		
 		<p><b>Len Shaffrey, University of Reading: IMPETUS: IMproving PrEdictions of Drought To inform USer decisions</b></p>
 
-		<p><a rel="video" href="https://www.youtube-nocookie.com/embed/3qqHSy-yW0k?rel=0" data-lity>Video</a></p>
+		<p><a rel="external" href="https://www.youtube-nocookie.com/embed/3qqHSy-yW0k?rel=0" data-lity>Video</a></p>
 
 		<ul>
 			<li>Research aim to improve forecasting of drought in the UK; part of WP2. (Meteorological aspects + hydrological aspect)</li>
@@ -358,7 +358,7 @@ Below is a summary of each of the three events, with links to the presentations 
 
 		<p><b>Kevin Collins, Open University: DrIVER – Designing social learning systems for improving drought monitoring and early warning</b></p>
 
-		<p><a rel="video" href="https://www.youtube-nocookie.com/embed/69CiQUfp5B0?rel=0" data-lity>Video</a></p>
+		<p><a rel="external" href="https://www.youtube-nocookie.com/embed/69CiQUfp5B0?rel=0" data-lity>Video</a></p>
 
 		<ul>
 			<li>DRIVER Project: Improving the link between hydro-meteorological drought characterization of drought and environmental and socio-economic impacts. How relevant are drought indicators at capturing drought impacts/severity? How can we better design indicators to incorporate elements of drought impacts?</li>

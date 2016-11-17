@@ -4,7 +4,7 @@ published: true
 permalink: /dashboard/science/drought_climatology/dd/
 subsection: Drought Climatology
 _title: Drought datasets and how to access them
-videos:
+presentations:
   - benoit_guillod_20160614
   - benoit_guillod_20150908
 ---

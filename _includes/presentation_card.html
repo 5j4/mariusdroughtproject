@@ -2,11 +2,11 @@
 {% assign p_author = site.data.people_researchers[p.author] %}
 
 <div id="presentation-card" class="row">
-	<div class="large-2 columns">
+	<div class="large-2 medium-3 columns">
 		<img src="{{ site.images_url }}/people/{{ p.author }}.png" alt="{{ p_author.title }} {{ p_author.name }}" />
 	</div>
-	<div class="large-10 columns">
-		<b><a rel="presentation" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></b>
+	<div class="large-10 medium-9 columns">
+		<b><a rel="external" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></b>
 		<br>
 		by {{ p_author.title }} {{ p_author.name }}<br>
 		{{ p_author.organisation }}<br><br>
