@@ -10,8 +10,7 @@
 #     contentUrl: https://youtu.be/6v1GhA62fG4
 #     embedUrl: https://www.youtube.com/embed/6v1GhA62fG4
 #   slides:
-#     contentUrl: https://...
-#     embedUrl: https://...
+#     url: https://...
 
 jim_hall_20160124:
   name: An Introduction to the MaRIUS Project
@@ -50,7 +49,7 @@ benoit_guillod_20160614:
     embedUrl: https://www.youtube.com/embed/i4kApYaeQpQ
 
 benoit_guillod_20150908:
-  name: Western US drought attribution, and synthetic multi-year UK drought events
+  name: Western US drought attribution, and the generation of synthetic multi-year UK drought events for risk-based impact studies
   author: benoit_guillod
   description: 
     "Dr Guillod talks about the climatic factors influencing drought, the Weather @ Home citizen science approach devised to examine climatic impacts, with a focus on the Western US drought and the research being undertaken in the MaRIUS project."
@@ -129,3 +128,27 @@ henry_leveson_gower_20150908:
   video:
     contentUrl: https://youtu.be/WiSgAuv-eUg?list=PL8DyCqvzC7AV8R57GNlSysyJD0Nb5CFNI
     embedUrl: https://www.youtube.com/embed/WiSgAuv-eUg?list=PL8DyCqvzC7AV8R57GNlSysyJD0Nb5CFNI
+
+henny_van_lanen_20140922:
+  name: Past and future drought in Europe
+  author: henny_van_lanen
+  slides:
+    url: http://www.mariusdroughtproject.org/wp-content/uploads/2014/11/Past_and_Future_Drought_HvLanen_20140922.pdf
+
+lucia_de_stefano_20140922:
+  name: Understanding vulnerability and response to drought - from a local to a pan-European scale
+  author: lucia_de_stefano
+  slides:
+    url: http://www.mariusdroughtproject.org/wp-content/uploads/2014/11/Understanding_vulnerability_and_response_to_drought_LDeStefano_20140922.pdf
+
+casey_brown_20140922:
+  name: Climate stress testing to reveal vulnerability to climate change
+  author: casey_brown
+  slides:
+    url: http://www.mariusdroughtproject.org/wp-content/uploads/2014/11/Climate_Stress_Testing_Reveal-Vulnerabilities_CBrown_201470922.pdf
+
+don_wilhite_20140922:
+  name: keynote address on the subject of ‘Managing drought risk in a changing climate - the role of national drought policy
+  author: don_wilhite
+  slides:
+    url: http://www.mariusdroughtproject.org/wp-content/uploads/2014/11/Role_National_Drought_Policy_DWilhite_20140922.pdf
