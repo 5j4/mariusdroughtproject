@@ -56,5 +56,5 @@ The apparent impact of drought on irrigated farm businesses has declined since t
 
 ## Further information
 
-* Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (In Press). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management
+* Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (2016). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management http://www.sciencedirect.com/science/article/pii/S0378377416301342
 * “Managing risks, impacts and uncertainty of drought” http://www.ukia.org/data/conference/Holman.pdf
