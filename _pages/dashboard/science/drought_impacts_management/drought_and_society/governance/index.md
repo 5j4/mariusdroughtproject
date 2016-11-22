@@ -2,9 +2,9 @@
 layout: science
 published: true
 permalink: /dashboard/science/drought_impacts_management/das/gov/
-
 subsection: Drought and Society > Governance
 _title: Governance
 ---
 
+Governance can be understood as new form of governing, steering or regulating that goes beyond the traditional hierarchical top-down model of states and their regulatory agencies regulating private businesses. ‘Governance’ captures new steering mechanisms and new modes of cooperation that include various interdependent actors from politics, economy and civil society aiming at arriving at binding political decisions based on negotiations. The way and shape of regulating, steering and coordination varies from policy field to policy field and there is no common recipe applicable to all environmental problems. Various stakeholders deliver their contributions (financial resources, legitimacy, expertise, information and organisational skills) to reach commonly declared and agreed goals. Furthermore, governance involves to regulate in a more decentralized way also by drawing on networks of state regulatory agencies, business organisations civil society actors, such as environmental non-governmental organisations. It can also involve to govern across various levels starting from the local, regional, national to the international level. For example, the current legal regime in the UK involves a range of statutory provisions, regulations as well as non-binding soft law. This legal framework provides significant discretion for key actors at local and national level, as well at the level of the devolved administrations to decide which demand and supply options are chosen to manage the impact of water scarcity. How key decision-makers exercise this discretion depends also on what evidence is available about drought impacts and options.
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum, quibusdam veritatis similique, iure quidem culpa ullam aspernatur doloribus inventore dolorem corrupti officia nesciunt placeat temporibus odio soluta exercitationem, nulla sed.
