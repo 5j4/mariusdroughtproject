@@ -40,7 +40,11 @@ Table 1 shows the list of variables available in both datasets and their tempora
 
 HadRM3P does not directly provide PET as an output variable. However, PET estimates are provided in the dataset. These are computed from other variables and based on a Penman-Monteith formulation, and as consistent as possible with the MORECS estimates. Two PET estimates are provided for the future time slices: one without any changes in stomatal resistance relative to the baseline values (“pepm”), and one with values adjusted to account for CO2 fertilization effect (“pepm_adjrs”).
 
-![List of variables available for each product and temporal resolution. The table includes for each variable: variable name (used in the NetCDF files name and NetCDF variable name), description, available temporal resolution in the data sets (20CR and synthetic events sets), and the field code. ]({{ site.images_url }}/Benoit1b.png)
+{% include 
+	figure.html 
+	figure="Benoit1b.png" 
+	caption="List of variables available for each product and temporal resolution. The table includes for each variable: variable name (used in the NetCDF files name and NetCDF variable name), description, available temporal resolution in the data sets (20CR and synthetic events sets), and the field code." 
+%}
 
 ## Data format
 

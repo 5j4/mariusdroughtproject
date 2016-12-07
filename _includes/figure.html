@@ -1,0 +1,9 @@
+{% assign figure = include.figure %}
+{% assign figure_caption = include.caption %}
+
+<figure>
+  <div>
+  	<img src="{{ site.images_url }}/{{ figure }}" class="center-block img-responsive">
+  </div>
+  <figcaption>{{ figure_caption }}</figcaption>
+</figure> 

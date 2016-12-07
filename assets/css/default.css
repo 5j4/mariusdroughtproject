@@ -1,0 +1,9 @@
+/*default.css*/
+
+.section-ident {
+    height: 15px;
+    margin-bottom: 20px;
+    border-bottom: solid 1px #ccc;
+    background-color: #000;
+    color: #fff;
+}

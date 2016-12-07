@@ -21,13 +21,15 @@ One element of the <abbr title="Managing the Risks, Impacts and Uncertainties of
 to be useful in cases where there is fairly good knowledge regarding how the system works at present, but one is interested in exploring the consequences of alternative developments in drought management
 * The scenario building workshop is an interactive workshop bringing together different stakeholders’ and researchers’ perspectives on drought management.
 
-![Overview critical drivers for resilient drought and water scarcity management before ranking]({{ site.images_url }}/KevinS2.jpg){:width="50%"}
-
-Overview critical drivers for resilient drought and water scarcity management before ranking
+{% include 
+	figure.html 
+	figure="KevinS2.jpg" 
+	caption="Overview critical drivers for resilient drought and water scarcity management before ranking." 
+%}
 
 ## Research methods
 
-**Explorative Scenario Building Workshop**
+### Explorative Scenario Building Workshop
 
 The workshop has an interactive format and requires active participation from every participant and involves small group discussions as well as plenary discussions. Methodologically the workshop follows the following outline:
 
@@ -37,6 +39,8 @@ The workshop has an interactive format and requires active participation from ev
 * scenario description based on critical drivers
 * ßscenario story lines (first ideas)
  
-![Particpant arranging influencing factors according to uncertainty and importance]({{ site.images_url }}/KevinS1.jpg){:width="50%"}
-
-Participant arranging influencing factors according to uncertainty and importance
+{% include 
+	figure.html 
+	figure="KevinS1.jpg" 
+	caption="Particpant arranging influencing factors according to uncertainty and importance." 
+%}

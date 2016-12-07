@@ -1,15 +1,28 @@
 {% assign p = site.data.presentations[include.presentation_id] %}
 {% assign p_author = site.data.people_researchers[p.author] %}
 
-<div id="presentation-card" class="row">
-	<div class="large-2 medium-3 columns">
-		<img src="{{ site.images_url }}/people/{{ p.author }}.png" alt="{{ p_author.title }} {{ p_author.name }}" />
+<div class="row">
+
+	<div class="col-xs-12">
+
+		<div class="presentation-card">
+			<div class="row">
+
+				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
+					<img src="{{ site.images_url }}/people/{{ p.author }}.png" alt="{{ p_author.title }} {{ p_author.name }}" />
+				</div>
+
+				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
+					<h3><a rel="external" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></h3>
+					by <a href="{{ site.baseurl }}/about_marius/people/researchers/#{{ p.author }}">{{ p_author.title }} {{ p_author.name }}</a><br>
+					<!--{{ p_author.organisation }}<br><br>-->
+					<p>{{ p.description }}</p>
+				</div>
+
+			</div>
+
+		</div>
+
 	</div>
-	<div class="large-10 medium-9 columns">
-		<b><a rel="external" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></b>
-		<br>
-		by {{ p_author.title }} {{ p_author.name }}<br>
-		{{ p_author.organisation }}<br><br>
-		<p>{{ p.description }}</p>
-	</div>
+
 </div>

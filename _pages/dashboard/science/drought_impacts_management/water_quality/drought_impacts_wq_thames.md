@@ -28,7 +28,11 @@ River water quality is fundamental for ecosystems and water supply. Yet, the imp
 
 In this task, the River Thames is used as a case-study, due to its importance as a freshwater supplier and effluent recipient and to its high conservation value. Hydrological and water quality models are developed to understand the system behaviours. These models are then used to explore the impact of climate variability and land-use change on river water quality. Different methodological approaches are used, such as coupling the water quality models with climate models, or exploring the sensitivity of the water quality models to the climatic input (scenario-neutral methodology).
 
-![Conceptual scheme of the scenario-neutral methodology applied to a sediment model.]({{site.images_url}}/diwqrt_conceptual_schema.jpg){:width="50%"}
+{% include 
+	figure.html 
+	figure="diwqrt_conceptual_schema.jpg" 
+	caption="Conceptual scheme of the scenario-neutral methodology applied to a sediment model." 
+%}
 
 Conceptual scheme of the scenario-neutral methodology applied to a sediment model.
  
@@ -36,7 +40,11 @@ Conceptual scheme of the scenario-neutral methodology applied to a sediment mode
 
 Under current land-use and phosphorus removal mitigation strategies, average phosphorus concentrations range from 0.11 to 0.16 mg L-1, being inversely proportional to precipitation due to the dominance of sewage effluent inputs at this site (Bowes et al., 2015). When an increase in agricultural land use is applied, the average phosphorus concentration increases up to between 0.15 and 0.18 mg L-1. In this case, phosphorus concentration is still inversely proportional to rainfall, although for increases in precipitation greater than 20% this trend inverts and precipitation is directly proportional to phosphorus concentration. This suggests a shift from a point source-dominated to a diffuse source-dominated regime, due to the joint effect of increased rainfall and expansion of agricultural land. The average phosphorus concentration drops to 0.07-0.09 mg L-1 if a combined phosphorus removal strategy is implemented.
 
-![]({{site.images_url}}/diwqrt_runnymede.jpg){:width="50%"}
+{% include 
+	figure.html 
+	figure="diwqrt_runnymede.jpg" 
+	caption="CAPTION NEEDED" 
+%}
 
 Effect of combined climate alteration (precipitation and temperature), land-use change and phosphorus removal mitigation strategies on the average phosphorus content of the River Thames (UK) at Runnymede. Circles: current conditions of land-use and current phosphorus removal mitigation strategies; squares: expansion of agricultural land) and current phosphorus removal mitigation strategies; diamonds: expansion of agricultural land and optimal phosphorus removal mitigation strategies (combined reduction of fertiliser and phosphorus removal from wastewater). The horizontal solid line represents the current average phosphorus concentration. The red rectangle defines the space of precipitation changes forecasted by the UKCP09.
  
@@ -44,7 +52,11 @@ Effect of combined climate alteration (precipitation and temperature), land-use 
 
 Change in the average phytoplankton abundance in the River Thames (UK) in reach 1 due to climate alteration (precipitation and temperature), under current conditions of land-use and current phosphorus removal mitigation strategies. In each plot, the x-axis represents the alteration in temperature (°C), the y-axis the alteration in precipitation (%), while the resulting change in average phytoplankton cell abundance is represented with colours. Each plot is associated with a different phytoplankton group (diatoms, chlorophytes, picoalgale, cyanobacteria and Microcystis-like cyanobacteria). The black dots represent the changes in precipitation and temperature of 10,000 UKCP09 change factors.
 
-![]({{site.images_url}}/diwqrt_avgphytoplanktonchange.jpg){:width="50%"}
+{% include 
+	figure.html 
+	figure="diwqrt_avgphytoplanktonchange.jpg" 
+	caption="CAPTION NEEDED" 
+%}
 
 Change in the average phytoplankton abundance in the River Thames (UK) in reach 1 due to climate alteration (precipitation and temperature), under current conditions of land-use and current phosphorus removal mitigation strategies. In each plot, the x-axis represents the alteration in temperature (°C), the y-axis the alteration in precipitation (%), while the resulting change in average phytoplankton cell abundance is represented with colours. Each plot is associated with a different phytoplankton group (diatoms, chlorophytes, picoalgale, cyanobacteria and Microcystis-like cyanobacteria). The black dots represent the changes in precipitation and temperature of 10,000 UKCP09 change factors.
 
@@ -55,6 +67,7 @@ The sensitivity of phytoplankton to climate change is smaller for diatoms, chlor
 Chlorophytes, diatoms and Microcystis-like cyanobacteria decrease their concentration along with precipitation, while cyanobacteria and picoalgae increase it.   
 
 ## Further information
+
 Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/water_quality/)
 
 * G. Whitehead, G. Bussi, M.J. Bowes, D.S. Read, M.G. Hutchins, J.A. Elliott, S.J. Dadson. 2015. Dynamic modelling of multiple phytoplankton groups in rivers with an application to the Thames River system in the UK. Environmental Modelling & Software. 74, 75-91. doi:10.1016/j.envsoft.2015.09.010.

@@ -38,17 +38,21 @@ A range of qualitative and quantitative methods are being used to investigate th
  
 Irrigation is an essential component of crop production to meet retailer demands for premium quality. Under drought conditions, irrigation can be constrained by water resources availability, with consequent impacts on yield, quality and revenue. By combining industry and farm level economic data, with geospatial information on agricultural land use, agroclimate, soils and irrigation practices within a GIS, research in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> estimated the total net financial benefit of outdoor irrigated production in England and Wales in a ‘design’ dry year to be around £665 million.  The highest benefits (and therefore the greatest economic risks due to imposed abstraction constraints during drought events) accrue in Anglian, Midlands and Southern EA regions, where high-value crops (soft fruit, potatoes and vegetables) are concentrated.
 
-![Estimated irrigation benefits (£) per 2km x 2km grid cell]({{site.images_url}}/irrigated_agriculture_estimated_benefits.jpg){:height="50%"}
-
-Estimated irrigation benefits (£) per 2km x 2km grid cell (from Rey et al., In Press)
+{% include 
+	figure.html 
+	figure="irrigated_agriculture_estimated_benefits.jpg" 
+	caption="Estimated irrigation benefits (£) per 2km x 2km grid cell [from Rey et al., In Press]." 
+%}
 
 ## Water productivity in UK irrigation during drought averages in excess of £3.30/m3
  
 Research in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> has shown that the areas with the highest water productivity are mainly in the south-east, around the Bristol Channel and in the midlands.  Irrigation benefits tend to be highest for high-value crops, where irrigation can make most difference to yield and farm-gate price; and for crops such as soft fruit that are associated with relatively high capital and labour production costs, helping to secure their viability, but which are highly vulnerable to drought restrictions.  Soft fruit and early potatoes have the highest average water productivity (£52 and £1.94 per m3, respectively), with cereals (£0.08 per m3) and grass (£0.11 per m3) having the lowest values.
 
-![Irrigation water productivity (£/m<sup>3</sup>)]({{site.images_url}}/irrigated_water_productivity.jpg){:height="50%"}
-
-Irrigation water productivity (£/m3) (from Rey et al., In Press)
+{% include 
+	figure.html 
+	figure="irrigated_water_productivity.jpg" 
+	caption="Irrigation water productivity (£/m<sup>3</sup>) [from Rey et al., In Press]." 
+%}
 
 ## The apparent impact of drought on irrigated farm businesses has declined since the 1976-77 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator
 

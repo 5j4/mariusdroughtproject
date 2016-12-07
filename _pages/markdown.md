@@ -26,6 +26,48 @@ elsewhere_links:
 author: jim_hall
 ---
 
+## Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nihil odit fuga minus ducimus quia soluta aut nisi, iusto ut eum consequatur iure pariatur quisquam temporibus voluptatibus voluptatem veritatis odio cumque similique, placeat itaque maxime perspiciatis nam. Veniam excepturi, saepe cumque nam possimus fuga aliquid amet voluptas unde nulla voluptate tempore. Sed libero accusantium, eveniet quasi autem, molestias! Sapiente tenetur mollitia odio totam doloribus dignissimos quae, perferendis distinctio saepe deleniti voluptatibus, provident esse sunt culpa quia laboriosam quaerat et optio illo odit voluptatem, quisquam. Amet mollitia, modi, minus nisi a quasi earum voluptatum distinctio voluptas saepe quod cumque neque nostrum odio!
+
+***
+
+### Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus consequatur ducimus cum laboriosam temporibus suscipit provident cupiditate in molestias voluptatem perferendis, quis porro architecto molestiae blanditiis nihil numquam. Delectus eveniet deserunt excepturi fugiat corrupti, ratione minima architecto corporis dolorem aliquam nesciunt officiis, veniam amet fugit a saepe cupiditate facilis. Dolorum!
+
+#### Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus consequatur ducimus cum laboriosam temporibus suscipit provident cupiditate in molestias voluptatem perferendis, quis porro architecto molestiae blanditiis nihil numquam. Delectus eveniet deserunt excepturi fugiat corrupti, ratione minima architecto corporis dolorem aliquam nesciunt officiis, veniam amet fugit a saepe cupiditate facilis. Dolorum!
+
+<figure>              
+  <img src="https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819.jpg" class="center-block img-responsive">
+  
+  <!--<span class="off-screen">Image copyright</span>
+  <span class="story-image-copyright">Chris Gardner</span>-->
+
+  <figcaption>Stephen Foreshew-Cain, former Executive Director of the Government Digital Service</figcaption>
+</figure> 
+
+<!--<figure id="attachment_7349" class="thumbnail wp-caption alignleft" style="width: 960px"><a href="https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819.jpg"><img class="wp-image-7349 size-full" src="https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819.jpg" alt="Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819" width="960" height="640" srcset="https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819.jpg 960w, https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819-300x200.jpg 300w, https://civilservice.blog.gov.uk/wp-content/uploads/sites/86/2016/08/Stephen-Foreshew-Cain-Sprint-16-closing-speech-1229x819-768x512.jpg 768w" sizes="(max-width: 960px) 100vw, 960px"></a></figure>-->
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod doloremque esse accusamus? Molestias id rem nesciunt explicabo illo, labore, aperiam quo odit quasi sequi culpa! Perferendis repellendus laborum temporibus vero nisi ducimus magnam est, excepturi odit! Similique animi, asperiores necessitatibus illum maxime alias, eum voluptatem vero delectus. Ab, repudiandae hic?
+
+## Lorem ipsum dolor sit amet
+
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestiae aut nobis officia repellat optio, suscipit odio. Sed laudantium ipsa consequatur est aliquam, esse, incidunt! Dolores, minus vero cum voluptas ab alias hic ea ut quis animi, iusto explicabo sit atque impedit, corrupti vel at! Modi eum eligendi, adipisci libero consectetur non nemo mollitia laborum voluptas aspernatur aliquid eaque ipsa dicta sint harum reiciendis sed repellat, facilis similique esse. Voluptates atque, amet in numquam nulla ad provident veniam architecto eveniet enim vitae, dicta qui itaque pariatur iusto, delectus quis sed laborum inventore nobis. Distinctio ea placeat, nam quam possimus 
+
+<figure>              
+  <img src="http://ichef.bbci.co.uk/news/624/cpsprodpb/EF27/production/_92732216_happyness.jpg" datasrc="http://ichef.bbci.co.uk/news/320/cpsprodpb/EF27/production/_92732216_happyness.jpg" alt="The cover of Chris Gardner's first book" class="center-block img-responsive">
+  
+  <!--<span class="off-screen">Image copyright</span>
+  <span class="story-image-copyright">Chris Gardner</span>-->
+
+  <figcaption>Stephen Foreshew-Cain, former Executive Director of the Government Digital Service</figcaption>
+</figure>    
+
+deserunt natus vel iste, sequi libero iure dolore unde reiciendis dolores doloremque modi atque. Placeat vero minus accusamus, repellat, totam dolorum quibusdam voluptas non impedit soluta ipsum voluptatem pariatur suscipit aliquam doloremque eligendi fugiat repellendus! Quaerat ullam, ducimus repudiandae doloremque facere rerum dignissimos nihil? Nulla earum vel culpa accusantium dolores explicabo omnis tenetur nemo maxime vero natus expedita, debitis fuga placeat id consequatur sed possimus est, error adipisci soluta! Ullam doloribus provident, consectetur fugit laudantium quo neque harum cupiditate corrupti consequuntur iure voluptas velit dignissimos autem commodi numquam possimus suscipit delectus, animi sed illum. Praesentium consequatur accusamus, esse ea qui ut quae!
+
 <style>
 .container {}
 .container > div {

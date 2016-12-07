@@ -40,17 +40,21 @@ The eco-hydrological literature supports the concept that all aspects of the flo
 (2)	Drought-specific G2G metrics.
 ERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. 
 
-![Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90.]({{ site.images_url }}/Cedric1.jpg.png){:width="50%"}
-
-Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90.
+{% include 
+	figure.html 
+	figure="Cedric1.jpg.png" 
+	caption="Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90." 
+%}
 
 ## Result 2: Eco-hydrological modelling
 
 We investigate observed biological data, in order to model the biological response to flow change, then to generate simulated responses to all flows available to the project (baseline and drought event sets). In practice, we use a bespoke version of a CEH model focused on biological indices for river invertebrates, which assesses the response of the indices to one or several flow metrics. Once fitted with observed data, the model can produce simulation using the G2G flows for the drought event set, thus generating matching series of biological index responses.
 
-![Example of LIFE biological index (species level) response to flow predictors (Q10 and Q95 of 6-month period prior to biological half-year sampling); top plot, observed index in grey, predicted in black (including simulation for missing samples).]({{ site.images_url }}/Cedric2.jpg.png){:width="50%"}
-
-Example of LIFE biological index (species level) response to flow predictors (Q10 and Q95 of 6-month period prior to biological half-year sampling); top plot, observed index in grey, predicted in black (including simulation for missing samples).
+{% include 
+	figure.html 
+	figure="Cedric2.jpg.png" 
+	caption="Example of LIFE biological index (species level) response to flow predictors (Q10 and Q95 of 6-month period prior to biological half-year sampling); top plot, observed index in grey, predicted in black (including simulation for missing samples)." 
+%}
 
 ## Result 3: Eco-hydraulics
 
@@ -62,6 +66,8 @@ River organisms not only react indirectly to discharge, but also are directly se
 Hydraulic geometry models have been fitted at ~200 sites in England and Wales. Modelled flow data (G2G) are used as inputs to generate series of mean velocity, mean depth, and wetted width at these sites. A site-by-site analysis allows to gauge how much physical habitat may be lost during droughts. 
 Modelled depths are then used to assess loss of connectivity within major catchments.
 
-![Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss).]({{ site.images_url }}/Cedric3.jpg.png){:width="50%"}
-
-Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss).
+{% include 
+	figure.html 
+	figure="Cedric3.jpg.png" 
+	caption="Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss)." 
+%}

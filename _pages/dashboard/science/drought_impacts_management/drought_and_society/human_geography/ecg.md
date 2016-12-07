@@ -35,8 +35,11 @@ Figure 2: Kennet ECG members consider water resource issues
 
 Previously successfully used to co-produce new and different knowledge about flood risk and mitigation options the possibility of the ECG methodology to work in other situations was put to the test. Originally constructed to be propelled by local public controversy it was unknown whether local residents would be interested in participating in an ECG in a locality with no current challenge of expert practices. Previous ECGs had focussed on exploring aspects of flooding poorly understood by science at the time, e.g. land use impacts and Natural Flood Management. Whether the drought and water scarcity focus in <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> could be articulated with issues of interest to the local community remained to be seen. Another question to answer was whether an ECG could add anything in a locality with an active rivers trust was engaging local residents in education about the river and in citizen science programmes. 
 
-![Catharina ECG modelling.jpeg]({{site.images_url}}/Catharina ECG modelling.jpeg){:width="50%"}
-Figure 3: Participants explore computer models in the Kennet ECG  
+{% include 
+	figure.html 
+	figure="ecg_modelling_01.png" 
+	caption="Figure 3: Participants explore computer models in the Kennet ECG." 
+%}
 
 ## Result 2: It was possible to bridge gaps between water/river management and local planning/development through the transdisciplinary research in the Kennet ECG combining scientific and vernacular expertise.
 

@@ -34,22 +34,22 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 	- Incorporation of abstractions in the modelling framework
 	- Improved surface water/groundwater representation in dynamic TOPMODEL
 
-![Dynamic TOPMODEL schematic]({{site.images_url}}/idhns_topmodel.jpg)
+{% include 
+  figure.html 
+  figure="idhns_topmodel.jpg" 
+  caption="Dynamic TOPMODEL schematic" 
+%}
 
 Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space
 
 ### Quantification and analysis of uncertainties in hydrological modelling of drought
 
-<!-- <div class="card">
-  <img class="card-img-top" src="http://placekitten.com/400/300" alt="Card image cap">
-  <div class="card-block">
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-  </div>
-</div> -->
-
 The quantification of different sources of uncertainties in hydrological modelling is essential to provide robust drought predictions and simulations.  In MaRIUS, many different sources of uncertainty are incorporated into the hydrological modelling, including estimates of data input uncertainties (ensembles of drought event sets), model structure and parameter uncertainties in space and time, and evaluation data uncertainties (uncertainties in flow data).  These uncertainties are explored in a limits of acceptability framework using time step based analysis of model performance that focus on low flows and drought conditions.  Improved understanding of these uncertainties will provide the basis for identification of robust management options for droughts and water scarcity.
 
-![]({{site.images_url}}/idhns_uncertainties.jpg){:width="50%"}
+{% include 
+  figure.html 
+  figure="idhns_uncertainties.jpg"
+%}
 
 ### Enhanced modelling capability to represent drought processes through incorporation of water resource system elements and improved surface-groundwater representation in dynamic TOPMODEL
 

@@ -32,5 +32,13 @@
     - title: Publications
       url: /our_work/outputs/publications/
 
+- title: Dashboards
+  url: /dashboard
+  subpages:
+    - title: Droughts, People and the Environment
+      url: /dashboard/dpe/what_are_droughts/
+    - title: Science
+      url: /dashboard/science/
+
 - title: Contact Us
   url: /contact/

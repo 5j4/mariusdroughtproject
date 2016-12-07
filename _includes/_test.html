@@ -1,0 +1,209 @@
+<!-- section: default -->
+{% assign section = "default" %}
+
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" dir="ltr"><!--<![endif]-->
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    {% if layout.noindex %}
+    <meta name="robots" content="noindex" />
+    {% endif %}
+
+    <title>{{ page._title }}</title>
+    
+    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn"t work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+        <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" href="{{ site.assets_url }}/css/vendor/bootstrap/3.3.7/bootstrap.min.css">
+    <link rel="stylesheet" href="{{ site.assets_url }}/css/test.css?bust={{ site.time | date: '%s' }}"> <!-- app -->
+
+    {% if include.section %}
+      <!-- css for SECTION (layout): {{ include.section }} -->
+      <link rel="stylesheet" href="{{ site.assets_url }}/css/{{ include.section }}.css?bust={{ site.time | date: '%s' }}" media="screen">
+    {% endif %}
+
+    {% if layout.extra_css %}
+      <!-- extra_css for SECTION (layout): {{ include.section }} -->
+      {% for css_file in layout.extra_css %}
+      <link rel="stylesheet" href="{{ site.assets_url }}/css/{{ css_file }}?bust={{ site.time | date: '%s' }}" media="screen">
+      {% endfor %}
+    {% endif %}
+
+    {% if page.extra_css %}
+      <!-- extra_css for PAGE: {{ page._title }} -->
+      {% for css_file in page.extra_css %}
+      <link rel="stylesheet" href="{{ site.assets_url }}/css/{{ css_file }}?bust={{ site.time | date: '%s' }}" media="screen">
+      {% endfor %}
+    {% endif %}
+
+    {% if layout.interactive %}
+    <!-- layout.interactive -->
+    <link rel="stylesheet" href="{{ site.assets_url }}/css/vendor/nv.d3.css">
+    <script src="{{ site.assets_url }}/js/vendor/d3.v3.js"></script>
+    <script src="{{ site.assets_url }}/js/vendor/nv.d3.js"></script>
+    {% endif %}
+
+</head>
+
+<body class="{{ include.section }}">
+<!--[if lt IE 8]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+
+<header class="container-fluid">
+  <div class="row">
+
+    <div class="col-md-3">
+      <a href="{{ site.url }}"><img src="{{ site.images_url }}/logos/marius.png" alt="MaRIUS project home"></a>
+    </div>
+
+    <div class="col-md-9">
+      <!-- {{ page.dashboard }} -->
+      MaRIUS - {% if layout.dashboard_title %}{{ layout.dashboard_title }}{% else %}{{ layout.section | capitalize }}{% endif %}
+    </div>
+
+  </div>
+</header>
+
+  
+<div class="container">
+
+  <div class="row">
+
+    <!-- left column - navigation -->
+    <div class="col-md-3">
+
+      <!--<div class="row">
+        <div class="large-12 columns"></div>
+      </div>-->
+
+      <ul class="site-nav">
+        <li>
+          <a href="{{ site.baseurl }}/" alt="home">MaRIUS Project</a>
+        </li>
+      </ul>
+
+      <hr>
+
+      <!-- nav for section: {{ include.section }} -->
+      {% include navigation_{{ include.section }}.html %}
+
+      <hr>
+
+      <ul class="site-nav">
+        <li><a href="{{ site.baseurl }}/dashboard/"><b>Dashboards</b></a></li>
+        <li><a href="{{ site.dpe_url }}/what_are_droughts/">Droughts, People and the Environment</a></li>
+        <li><a href="{{ site.science_url }}/">Science</a></li>
+      </ul>
+
+    </div><!-- /navigation -->
+
+    <!-- right column - content -->
+    <div class="col-md-9">
+
+      <!--<div class="row content">
+        <div class="large-12 columns section-ident"></div>
+      </div>-->
+
+
+      <div id="content" class="content">
+
+        <span class="section">{{ page.subsection }}</h3></span>
+        <h1>
+          {% if page.heading %}{{ page.heading }}{% else %}{{ page._title }}{% endif %}
+        </h1>
+
+        <hr>
+
+        {{ content }}
+
+      </div>
+
+
+
+      {% if page.presentations %}
+      <div id="videos">
+        <h3>Videos</h3>
+        {% for presentation in page.presentations %}
+        {% include presentation_card.html presentation_id=presentation %}
+        {% endfor %}
+      </div>
+      {% endif %}
+      
+      {% if page.research_team %}
+      <div id="research-team">
+        <h3>Research Team</h3>
+        {% for person in page.research_team %}
+        {% include person_card_summary.html person_id=person %}
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if page.related_links %}
+      <div id="related-links">
+        <h3>Related Links</h3>
+        {% for link in page.related_links %}
+        <a href="{{ link.url | replace: '!science_url!', site.science_url | replace: '!dpe_url!', site.dpe_url }}" {% if link.external %}target="_blank"{% endif %}>{{ link.name }}</a><br>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+    </div><!-- /content -->
+
+  </div><!-- row -->
+</div>
+
+<footer class="container-fluid">
+  <div class="row">
+    <div class="col-md-12">
+      Supported by NERC | &copy; 2016 MaRIUS, School of Geography and the Environment, Oxford<br>
+      <span class="render-time">{% render_time page rendered at: %}</span>
+    </div>
+  </div>
+</footer>
+
+<script src="{{ site.assets_url }}/js/vendor/jquery-3.1.1.min.js"></script>
+<!--<script src="{{ site.assets_url }}/js/vendor/foundation-6.2/foundation.min.js"></script>-->
+<script src="{{ site.assets_url }}/js/vendor/bootstrap/3.3.7/bootstrap.min.js"></script>
+
+<!--<script src="{{ site.assets_url }}/js/vendor//jquery_foundation-6.2.3-custom.min.js"></script>
+<script src="{{ site.assets_url }}/js/vendor/foundation-6.2.3-custom.min.js"></script>
+<script src="{{ site.assets_url }}/js/vendor/app_foundation-6.2.3-custom.min.js"></script>-->
+
+<script src="{{ site.assets_url }}/js/main.js?bust={{ site.time | date: '%s' }}"></script> <!-- app -->
+
+{% if layout.extra_js %}
+  <!-- extra_js for SECTION (layout): {{ include.section }} -->
+  {% for js_file in layout.extra_js %}
+  <script src="{{ site.assets_url }}/js/{{ js_file }}?bust={{ site.time | date: '%s' }}"></script>
+  {% endfor %}
+{% endif %}
+ 
+{% if page.extra_js %}
+  <!-- extra_css for PAGE: {{ page._title }} -->
+  {% for js_file in page.extra_js %}
+  <script src="{{ site.assets_url }}/js/{{ js_file }}?bust={{ site.time | date: '%s' }}"></script>
+  {% endfor %}
+{% endif %}
+
+<div class="scroll-top-wrapper ">
+  <span class="scroll-top-inner">
+    <!--<i class="fa fa-2x fa-arrow-up"></i>-->
+    <i class="fa fa-2x fa-arrow-up"></i>
+  </span>
+</div>
+
+</body>
+</html>

@@ -1,14 +1,16 @@
-<header class="expanded row">
-	<div class="large-6 columns">
-		<a href="{{ site.url }}"><img src="{{ site.images_url }}/logos/marius.png" alt="MaRIUS project home"></a>
-	</div>
-    <div class="large-6 columns">
-    {{ page.dashboard }}
-    MaRIUS - {% if layout.dashboard_title %}{{ layout.dashboard_title }}{% else %}{{ layout.section | capitalize }}{% endif %}
-    </div>
-</header>
+<header>
+	<div class="container-fluid">
+		<div class="row">
 
-<!--<div class="row section-bar">
-	<div class="large-3 columns"></div>
-	<div class="large-9 columns section-ident"></div>
-</div>-->
+			<div class="col-md-3">
+				<a href="{{ site.url }}"><img src="{{ site.images_url }}/logos/marius.png" alt="MaRIUS project home"></a>
+			</div>
+
+			<div class="col-md-9">
+				<!-- {{ page.dashboard }} -->
+				MaRIUS - {% if layout.dashboard_title %}{{ layout.dashboard_title }}{% else %}{{ layout.section | capitalize }}{% endif %}
+			</div>
+
+		</div>
+	</div>
+</header>

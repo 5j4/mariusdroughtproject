@@ -28,6 +28,8 @@ UK historical regional crop and livestock data will be used, together with diffe
 
 ## Preliminary results
 
-![Yield departures predicted using drought indexes models (filled circle) and observed crop yield departures (coloured lines). Blue line indicates model using both SPEI and SPI, red line indicates model using only SPEI and green line indicates model using only SPI. (a) Wheat model in East of England, (b) Barley model in Yorkshire and the Humber, (c) Oat model in South East, (d) Oilseed rape model in East Midland, (e) Potato model in East Midland and (f) Sugar beet model in East of England.]({{ site.images_url }}/Lola1a.jpg.png)
-
-Yield departures predicted using drought indexes models (filled circle) and observed crop yield departures (coloured lines). Blue line indicates model using both SPEI and SPI, red line indicates model using only SPEI and green line indicates model using only SPI. (a) Wheat model in East of England, (b) Barley model in Yorkshire and the Humber, (c) Oat model in South East, (d) Oilseed rape model in East Midland, (e) Potato model in East Midland and (f) Sugar beet model in East of England.
+{% include 
+	figure.html 
+	figure="Lola1a.jpg.png" 
+	caption="Yield departures predicted using drought indexes models (filled circle) and observed crop yield departures (coloured lines). Blue line indicates model using both SPEI and SPI, red line indicates model using only SPEI and green line indicates model using only SPI. (a) Wheat model in East of England, (b) Barley model in Yorkshire and the Humber, (c) Oat model in South East, (d) Oilseed rape model in East Midland, (e) Potato model in East Midland and (f) Sugar beet model in East of England." 
+%}
