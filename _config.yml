@@ -95,6 +95,8 @@ prose:
     - .jekyl-metadata
     - build.sh
     - _sass
+    - .nojekyll
+    - bundle
   metadata:
     _pages:
       - name: "layout"
