@@ -10,6 +10,11 @@ _title: Hydrology
 
 There are two main strands to the hydrological drought research being carried in the <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> project. Firstly, work task B2 is providing detailed physically-based modelling of drought processes at the catchment scale using the Penn State Integrated Hydrologic Model (PIHM). Secondly, work task B3 is providing enhanced scientific understanding and modelling capability for representing drought processes at the national scale using two hydrological models, Dynamic TOPMODEL and the Grid-to-Grid (G2G). The table below summarises the different hydrological models.
 
+{% include image.html
+image="Hydrology1.png"
+caption="Hydrology1"
+%}
+
 ![Hydrology1.png]({{ site.images_url }}/Hydrology1.png)
 
 <style>
