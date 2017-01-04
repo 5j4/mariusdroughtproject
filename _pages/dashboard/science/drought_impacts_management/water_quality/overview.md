@@ -36,6 +36,7 @@ Extensive data sets have been obtained on water quality and ecology for the Tham
 .fiftypc > img
 {
   width:50%;
+  padding:1em;
 }
 </style>
 
