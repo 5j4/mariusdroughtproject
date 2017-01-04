@@ -38,15 +38,11 @@ Extensive data sets have been obtained on water quality and ecology for the Tham
   width:50%;
 }
 </style>
+
 <div class="fiftypc">
 <img src="/mariusdroughtproject.org/assets/images/Paul_MainThames.png" alt="River Thames" />
 <img src="/mariusdroughtproject.org/assets/images/Paul_Mildenhall_UpperKennet.png" alt="Upper Kennet" />
 </div>
-
-![River Thames]({{ site.images_url }}/Paul_MainThames.png)
-{:width="50%"}
-![Upper Kennet]({{ site.images_url }}/Paul_Mildenhall_UpperKennet.png)
-{:width="50%"}
 
 ## Further information
 
