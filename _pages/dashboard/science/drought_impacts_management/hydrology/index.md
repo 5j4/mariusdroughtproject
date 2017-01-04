@@ -12,6 +12,7 @@ There are two main strands to the hydrological drought research being carried in
 
 {% include image.html
 image="Hydrology1.png"
+caption="Different hydrological models"
 %}
 
 <style>
