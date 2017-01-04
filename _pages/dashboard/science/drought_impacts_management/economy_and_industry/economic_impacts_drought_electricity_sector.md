@@ -39,8 +39,8 @@ Forthcoming analysis will use the specially-formulated <abbr title="Managing the
 Our historical analysis, indicates that over the past 40 years, on average, potentially as much as 4.6 TWh of generation, each year, is unavailable due to low flows. This has a market value (£42/MWh) of close to £200m with estimated loss of profits of £45m/yr to companies. Whilst in most years the generation unavailable is small, in more severe, drier years, such as 1975-‘76, 1989-91, 1995-96 and 2012, the value of unavailable generations ranges potentially up to £400-800m per year.
 
 {% include 
-	figure.html 
-	figure="eides_PPTWhYrHist.png" 
+	image.html 
+	image="eides_PPTWhYrHist.png" 
 	caption="Historical analysis of the potential impacts of low flows and drought on the current UK thermal power plants with current environmental regulation." 
 %}
 
@@ -54,28 +54,28 @@ Our historical analysis, indicates that over the past 40 years, on average, pote
 The following two figures compare the generation unavailability (%) of the 11 Future Flows timeseries from 1951-2091.
 
 {% include 
-	figure.html 
-	figure="eides_PP_DE7yr_Qcum90_minUmax.png" 
+	image.html 
+	image="eides_PP_DE7yr_Qcum90_minUmax.png" 
 	caption="Generation unavailability over the forthcoming 7-year horizon." 
 %}
 
 {% include 
-	figure.html 
-	figure="eides_PP_DE1yr_Qcum90_minUmax.png" 
+	image.html 
+	image="eides_PP_DE1yr_Qcum90_minUmax.png" 
 	caption="Generation unavailability over the forthcoming 1-year horizon" 
 %}
 
 3) Impacts on a power plant basis vary almost entirely according to the size of the power plant. There is also little variation between different locations around the UK. However some locations require special attention, such as the river Trent, where several power plants are located. For example power plants #9, #29 & #39 are located close to each other on the same stretch of river.
 
 {% include 
-	figure.html 
-	figure="eides_PP_scatter_by_PPTWh.png" 
+	image.html 
+	image="eides_PP_scatter_by_PPTWh.png" 
 	caption="Comparison of impacts across timeseries, by powerplant." 
 %}
 
 {% include 
-	figure.html 
-	figure="eides_PP_scatter_by_PPpct.png" 
+	image.html 
+	image="eides_PP_scatter_by_PPpct.png" 
 	caption="Percentage generation unavailability." 
 %}
 

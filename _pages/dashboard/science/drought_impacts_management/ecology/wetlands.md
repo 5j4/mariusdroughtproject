@@ -31,8 +31,8 @@ We have developed simple computer models of different wetland types. They estima
 3. Wetlands in the south and east of England and Wales are more likely to be altered by climate change than those in the north and west
 
 {% include 
-	figure.html 
-	figure="Mike1.jpg" 
+	image.html 
+	image="Mike1.jpg" 
 	caption="Projected risk of ecological change to wetlands given alterations to the intensity, duration and frequency of droughts under climate change." 
 %}
 

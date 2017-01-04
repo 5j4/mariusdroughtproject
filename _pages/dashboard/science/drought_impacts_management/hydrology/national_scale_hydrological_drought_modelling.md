@@ -22,8 +22,8 @@ research_team:
 Work task B3 of the MaRIUS project delivers national scale hydrological modelling with the aim of providing enhanced scientific understanding and modelling capability for representing drought processes. To achieve this, research has focused upon the analysis of river flows and soil moisture for past and future droughts and the incorporation of abstraction and discharge data in a gridded national scale hydrological model. 
 
 {% include 
-	figure.html 
-	figure="Vicky1.jpg.png" 
+	image.html 
+	image="Vicky1.jpg.png" 
 	caption="1km x 1km Grid-to-Grid simulated mean monthly river flows for May 1995. Flow output can be produced daily or monthly." 
 %}
 
@@ -34,8 +34,8 @@ The Centre for Ecology and Hydrology’s (CEH) national gridded hydrological mod
 Ongoing work is using model estimates of river flows and soil moisture, driven by weather observations, to assess change in drought occurrence, duration and severity. An ensemble of near-and far- future weather outputs from multiple regional climate model simulations will provide the driving data needed to understand how drought occurrence and characteristics might change in the future.
 
 {% include 
-	figure.html 
-	figure="G2G.jpg" 
+	image.html 
+	image="G2G.jpg" 
 	caption="Schematic of the Grid-to-Grid national scale hydrological model." 
 %}
 
@@ -46,14 +46,14 @@ Ongoing work is using model estimates of river flows and soil moisture, driven b
 Model estimates of river flows and soil moisture, driven by weather observations, have been used to assess change in drought occurrence, duration and severity throughout the 20th Century. This work will also include a low flow frequency analysis.  
 
 {% include 
-	figure.html 
-	figure="Vicky2.jpg.png" 
+	image.html 
+	image="Vicky2.jpg.png" 
 	caption="The maps show Grid-to-Grid model output (1km x 1km) of standardised drought severity (river flow) for 1975, 1976 and 1977. They maps show the most severe drought in each year. The darker the colour the more severe the drought." 
 %}
 
 {% include 
-	figure.html 
-	figure="Vicky3.jpg.png" 
+	image.html 
+	image="Vicky3.jpg.png" 
 	caption="Observed and simulated low flow frequency curves for the Thames at Kingston (station number 39001)." 
 %}
 
@@ -66,8 +66,8 @@ An ensemble of near- and far-future weather outputs from multiple RCM simulation
 G2G has been enhanced to include the influence of abstractions and discharges on river flows
 
 {% include 
-	figure.html 
-	figure="Vicky4.jpg.png" 
+	image.html 
+	image="Vicky4.jpg.png" 
 	caption="Daily mean river flow for the Thames at Kingston. Observed river flow (black), G2G simulated naturalised river flow (blue) and G2G simulated river flow accounting for abstractions and discharges (red)." 
 %}
 

@@ -26,8 +26,8 @@ An algal community model (PROTECH) was applied to simulate the algae of a reserv
 Predicting the total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September (the main growing season).
 
 {% include 
-	figure.html 
-	figure="alex2.jpg" 
+	image.html 
+	image="alex2.jpg" 
 	caption="CAPTION NEEDED" 
 %}
 
@@ -36,7 +36,7 @@ Predicting the total chlorophyll concentration in reservoir over a range of Tham
 Predicting the proportion of cyanobacteria (“blue-green algae”) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September (the main growing season).
 
 {% include 
-	figure.html 
-	figure="alex1.jpg" 
+	image.html 
+	image="alex1.jpg" 
 	caption="Total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September." 
 %}

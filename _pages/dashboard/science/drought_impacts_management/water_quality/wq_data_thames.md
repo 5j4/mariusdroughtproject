@@ -20,14 +20,14 @@ research_team:
 * Accompanying phytoplankton characterisation by flow cytometry
 
 {% include 
-	figure.html 
-	figure="rtwqd_wqrtswinford_phosphorus.png" 
+	image.html 
+	image="rtwqd_wqrtswinford_phosphorus.png" 
 	caption="Water quality data for River Thames at Swinford - Phosphorus concentration." 
 %}
 
 {% include 
-	figure.html 
-	figure="rtwqd_wqrtswinford_chlorophyll.png" 
+	image.html 
+	image="rtwqd_wqrtswinford_chlorophyll.png" 
 	caption="Water quality data for River Thames at Swinford - Chlorophyll concentration." 
 %}
 

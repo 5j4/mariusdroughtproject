@@ -41,8 +41,8 @@ The eco-hydrological literature supports the concept that all aspects of the flo
 ERFA used 16 hydrological indicators based on monthly flow data to characterise all aspects of the flow regime. Drought-specific G2G metrics include: month of longest flow deficit of the year ending (if any); month of longest flow deficit of the year starting; number of flow deficits per year (ie frequency of droughts); highest change in flow going into a deficit; highest change in flow recovering from a deficit; length of drought. 
 
 {% include 
-	figure.html 
-	figure="Cedric1.jpg.png" 
+	image.html 
+	image="Cedric1.jpg.png" 
 	caption="Example of ecological risk classes (ERFA method) due to the departure of future hydrology (2050s) from baseline 1961-90." 
 %}
 
@@ -51,8 +51,8 @@ ERFA used 16 hydrological indicators based on monthly flow data to characterise 
 We investigate observed biological data, in order to model the biological response to flow change, then to generate simulated responses to all flows available to the project (baseline and drought event sets). In practice, we use a bespoke version of a CEH model focused on biological indices for river invertebrates, which assesses the response of the indices to one or several flow metrics. Once fitted with observed data, the model can produce simulation using the G2G flows for the drought event set, thus generating matching series of biological index responses.
 
 {% include 
-	figure.html 
-	figure="Cedric2.jpg.png" 
+	image.html 
+	image="Cedric2.jpg.png" 
 	caption="Example of LIFE biological index (species level) response to flow predictors (Q10 and Q95 of 6-month period prior to biological half-year sampling); top plot, observed index in grey, predicted in black (including simulation for missing samples)." 
 %}
 
@@ -67,7 +67,7 @@ Hydraulic geometry models have been fitted at ~200 sites in England and Wales. M
 Modelled depths are then used to assess loss of connectivity within major catchments.
 
 {% include 
-	figure.html 
-	figure="Cedric3.jpg.png" 
+	image.html 
+	image="Cedric3.jpg.png" 
 	caption="Catchment fragmentation mapping; year 1976 (red, loss of connectivity at least once at one site; green, no loss)." 
 %}

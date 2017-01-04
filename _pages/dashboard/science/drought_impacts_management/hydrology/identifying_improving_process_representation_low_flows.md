@@ -35,8 +35,8 @@ The physically-based, distributed, and integrated model PIHM has been set up for
 Signatures have been identified that represent the physiographic properties of a catchment. Global sensitivity analysis techniques are used to assess the importance of different parameters (hence the processes they represent), hence the critical parametrisations in the simpler models.
 
 {% include 
-	figure.html 
-	figure="iirplf_pihm_model.jpg" 
+	image.html 
+	image="iirplf_pihm_model.jpg" 
 	caption="The PIHM model." 
 %}
 

@@ -1,0 +1,24 @@
+{% assign image= include.image %}
+{% assign image_caption = include.caption %}
+{% assign image_attribution_owner = include.attribution_owner %}
+{% assign image_attribution_source = include.attribution_source %}
+{% assign image_attribution_source_url = include.attribution_source_url %}
+{% assign image_attribution_license = include.attribution_license %}
+{% assign image_attribution_license_url = include.attribution_license_url %}
+
+{% assign wrap = include.wrap %}
+
+<figure {% if wrap %}class="{{ wrap }}"{% endif %}>
+  <div>
+  	<img src="{{ site.images_url }}/{{ image }}" class="center-block img-responsive" alt="{{ image_caption }}">
+  </div>
+  <figcaption>{{ image_caption }}
+  {% if image_attribution_owner %} <span class="glyphicon glyphicon-info-sign"></span>  
+  <span class="fig_attribution">
+	  {{ image_attribution_owner }} 
+	  {% if image_attribution_source %}via {{ image_attribution_source }}{% endif %} 
+	  {% if image_attribution_source %}{{ image_attribution_license | upper }}{% endif %} 
+  </span>
+  {% endif %}
+  </figcaption> 
+</figure> 
