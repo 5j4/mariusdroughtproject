@@ -23,7 +23,7 @@ research_team:
 
 Whilst droughts are normally associated with water scarcity and water resource problems, in fact water quality can deteriorate significantly in low flows and this can impose an extra constraint on water use. So excessive blooms of algae can block water treatment plant filters, or cause toxic conditions in rivers, and reduced dilution increases pollutant concentrations in rivers. In addition the build-up on Nitrogen, Phosphorus and sediments on soils in dry periods can be flushed out in post drought rain events. Reservoirs and rivers are also affected by the increased water temperatures during droughts, with changed chemistry, increased algal growth rates and lower oxygen concentrations.
 
-{%
+{% include image.html 
 image="Paul_Kennet.png"
 caption="River Kennet" 
 %}
