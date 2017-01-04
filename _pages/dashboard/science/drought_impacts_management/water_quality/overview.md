@@ -23,12 +23,25 @@ research_team:
 
 Whilst droughts are normally associated with water scarcity and water resource problems, in fact water quality can deteriorate significantly in low flows and this can impose an extra constraint on water use. So excessive blooms of algae can block water treatment plant filters, or cause toxic conditions in rivers, and reduced dilution increases pollutant concentrations in rivers. In addition the build-up on Nitrogen, Phosphorus and sediments on soils in dry periods can be flushed out in post drought rain events. Reservoirs and rivers are also affected by the increased water temperatures during droughts, with changed chemistry, increased algal growth rates and lower oxygen concentrations.
 
-![River Kennet]({{ site.images_url }}/Paul_Kennet.png)
-{:width="100%"}
+{%
+image="Paul_Kennet.png"
+caption="River Kennet" 
+%}
 
 ## Research methods
 
 Extensive data sets have been obtained on water quality and ecology for the Thames systems. Dynamic and Process based mathematic models of flow, water quality and ecology have been developed for river systems and applied to key rivers such as the Thames, Kennet, Wye and Hampshire Avon. In addition an end member mixing model has been developed and  tested on the Thames. This will be applied nationwide. Also we have utilised the PROTECH Reservoir model for assessing impacts on reservoir systems.
+
+<style>
+.fiftypc > img
+{
+  width:50%;
+}
+</style>
+<div class="fiftypc">
+<img src="/mariusdroughtproject.org/assets/images/Paul_MainThames.png" alt="River Thames" />
+<img src="/mariusdroughtproject.org/assets/images/Paul_Mildenhall_UpperKennet.png" alt="Upper Kennet" />
+</div>
 
 ![River Thames]({{ site.images_url }}/Paul_MainThames.png)
 {:width="50%"}
