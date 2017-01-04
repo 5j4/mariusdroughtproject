@@ -12,6 +12,18 @@ There are two main strands to the hydrological drought research being carried in
 
 ![Hydrology1.png]({{ site.images_url }}/Hydrology1.png)
 
+<style>
+.thirtypc > img
+{
+  width:30%;
+}
+</style>
+<div class="thirtypc">
+<img src="assets/images/G2G.jpg" alt="G2G.jpg" />
+<img src="assets/images/Gemma1.jpg" alt="Gemma1" />
+<img src="assets/images/Jude1.jpg" alt="Jude1.jpg" />
+</div>
+<hr />
 ![G2G.jpg]({{ site.images_url }}/G2G.jpg)
 
 ![Gemma1.jpg]({{ site.images_url }}/Gemma1.jpg)
