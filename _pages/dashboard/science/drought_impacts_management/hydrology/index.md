@@ -12,10 +12,7 @@ There are two main strands to the hydrological drought research being carried in
 
 {% include image.html
 image="Hydrology1.png"
-caption="Hydrology1"
 %}
-
-![Hydrology1.png]({{ site.images_url }}/Hydrology1.png)
 
 <style>
 .thirtypc > img
