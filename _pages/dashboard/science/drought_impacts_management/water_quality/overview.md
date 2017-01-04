@@ -31,9 +31,9 @@ Whilst droughts are normally associated with water scarcity and water resource p
 Extensive data sets have been obtained on water quality and ecology for the Thames systems. Dynamic and Process based mathematic models of flow, water quality and ecology have been developed for river systems and applied to key rivers such as the Thames, Kennet, Wye and Hampshire Avon. In addition an end member mixing model has been developed and  tested on the Thames. This will be applied nationwide. Also we have utilised the PROTECH Reservoir model for assessing impacts on reservoir systems.
 
 ![River Thames]({{ site.images_url }}/Paul_MainThames.png)
-{:width="75%";height="75%"}
+{:width="50%"}
 ![Upper Kennet]({{ site.images_url }}/Paul_Mildenhall_UpperKennet.png)
-{:width="75%";height="75%"}
+{:width="50%"}
 
 ## Further information
 
