@@ -19,17 +19,10 @@ There are two main strands to the hydrological drought research being carried in
 }
 </style>
 <div class="thirtypc">
-<img src="/mariusdroughtproject.org/assets/images/G2G.jpg" alt="G2G.jpg" />
+<img src="/mariusdroughtproject.org/assets/images/G2G.jpg" alt="G2G" />
 <img src="/mariusdroughtproject.org/assets/images/Gemma1.jpg" alt="Gemma1" />
-<img src="/mariusdroughtproject.org/assets/images/Jude1.jpg" alt="Jude1.jpg" />
+<img src="/mariusdroughtproject.org/assets/images/Jude1.jpg" alt="Jude1" />
 </div>
-<hr />
-![G2G.jpg]({{ site.images_url }}/G2G.jpg)
-
-![Gemma1.jpg]({{ site.images_url }}/Gemma1.jpg)
-
-![Jude1.jpg]({{ site.images_url }}/Jude1.jpg)
-
 
 ## Further information
 
