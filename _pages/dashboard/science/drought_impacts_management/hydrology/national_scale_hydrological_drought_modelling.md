@@ -72,6 +72,7 @@ G2G has been enhanced to include the influence of abstractions and discharges on
 %}
 
 ## Further information
+Visit the Management dashboard [Management dashboard page]({{ site.dpe_url }}/drought_impacts/river_flow/)
 
 For more information visit the _Droughts, people and management dashboard_ [here]({{ site.dpe_url }}/drought_impacts/river_flow/)
 
