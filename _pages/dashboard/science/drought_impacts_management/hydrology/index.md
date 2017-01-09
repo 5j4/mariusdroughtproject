@@ -18,7 +18,7 @@ caption="Different hydrological models"
 <style>
 .thirtypc > img
 {
-  width:30%;
+  width:33%;
 }
 </style>
 <div class="thirtypc">
