@@ -32,9 +32,6 @@ defaults:
       permalink: /:path/:basename:output_ext
 
 markdown: kramdown
-# kramdown config to force interpretation into html block
-# kramdown:
-#   parse_block_html: true
 
 baseurl: /mariusdroughtproject.org
 
