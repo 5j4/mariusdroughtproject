@@ -37,6 +37,6 @@ Predicting the proportion of cyanobacteria (“blue-green algae”) in reservoir
 
 {% include 
 	image.html 
-	image="alex1.jpg" 
+	image="Alex1.jpg" 
 	caption="Total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September." 
 %}
