@@ -29,24 +29,8 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 		<p markdown="1"><a href="{{ site.assets_url }}/data/land_use/index2.html">UK land use, relative to baseline, range of temperature &amp; precipitation</a></p>
 	</div>
 </div>
-
-
-<!-- INTERACTIVE: land use, relative to baseline temp + prec -->
-
-<script type='text/javascript'>//<![CDATA[
-$(function() {
-	console.log('ready');
-	$("#lu").change(function () {
-        var val = this.value;
-        console.log(val);
-        $('#luimg').attr("src", '{{ site.assets_url }}/data/land_use/data/' + val + '.png');
-    });
-});//]]>
-</script>
-
 <div class="dropdown">
-	<!-- <select id="luimg" onChange="jsFunction()"> -->
-	<select id="lu">
+	<select id="luimg" onChange="jsFunction()">
 		<option value="t0_p0">UK_T0_P0 = baseline</option>
 		<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
 		<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
@@ -59,10 +43,18 @@ $(function() {
 	</select>
 </div>
 	
-<img id="luimg" src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" />
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder" />
 
-<!-- end/ INTERACTIVE: land use, relative to baseline temp + prec -->
-
+<script type='text/javascript'>
+function jsFunction()
+{
+  var myselect = document.getElementById("luimg");
+  var myimage = document.getElementById("luimgholder");
+  var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
+  /* alert(myselect.options[myselect.selectedIndex].value); */
+  myimage.src = myimgpath;
+}
+</script>
 
 {% include 
 	image.html 
