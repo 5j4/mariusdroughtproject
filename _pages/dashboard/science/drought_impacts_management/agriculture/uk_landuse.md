@@ -52,7 +52,7 @@ function jsFunction()
   var myimage = document.getElementById("luimgholder");
   var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
   /* alert(myselect.options[myselect.selectedIndex].value); */
-  alert(myimgpath);
+  myimage.src = myimgpath;
 }
 </script>
 
