@@ -30,7 +30,7 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	</div>
 </div>
 <div class="dropdown">
-	<select id="luimg">
+	<select id="luimg" onChange="jsFunction()">
 		<option value="t0_p0">UK_T0_P0 = baseline</option>
 		<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
 		<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
@@ -46,16 +46,11 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 <img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" />
 
 <script type='text/javascript'>
-$(function()
+function jsFunction()
 {
-	console.log('ready');
-	$("#luimg").change(function()
-	{
-		var val = this.value;
-		console.log(val);
-		/* $('img').attr("src", 'data/' + val + '.png'); */
-	});
-});
+  var myselect = document.getElementById("luimg");
+  alert(myselect.options[myselect.selectedIndex].value);
+}
 </script>
 
 {% include 
