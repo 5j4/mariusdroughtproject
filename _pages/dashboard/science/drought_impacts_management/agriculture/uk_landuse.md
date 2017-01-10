@@ -30,7 +30,7 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	</div>
 </div>
 <div class="dropdown">
-	<select id="luimg" onChange="jsFunction()">
+	<select id="luimg" onChange="jsFunction()" class="form-control">
 		<option value="t0_p0">UK_T0_P0 = baseline</option>
 		<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
 		<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
