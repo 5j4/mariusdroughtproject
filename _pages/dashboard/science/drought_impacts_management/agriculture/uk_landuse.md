@@ -45,6 +45,19 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	
 <img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" />
 
+<script type='text/javascript'>
+$(function()
+{
+	console.log('ready');
+	$("#luimg").change(function()
+	{
+		var val = this.value;
+		console.log(val);
+		/* $('img').attr("src", 'data/' + val + '.png'); */
+	});
+});
+</script>
+
 {% include 
 	image.html 
 	image="Fig1.png" 
