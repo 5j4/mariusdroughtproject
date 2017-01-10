@@ -46,3 +46,4 @@ The workshop has an interactive format and requires active participation from ev
 * selection of relevant drivers for scenario development
 * scenario description based on critical drivers
 * scenario story lines (first ideas)
+<div class="clearfix"></div>
