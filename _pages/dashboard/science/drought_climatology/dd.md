@@ -10,7 +10,7 @@ presentations:
 ---
 ## Introduction
 
-Two types of climate datasets have been generated within MaRIUS: the [Hindcast]({{ site.science_url }}/20c/) and the synthetic event set ([baseline]({{ site.science_url }}/20c/) and [future]({{ site.science_url }}/21c/)). These are currently available to <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> researchers and in time they will be freely available to anyone. This page describes these in greater detail and provides information about data format, access and interpretation.
+Two types of climate datasets have been generated within MaRIUS: the [Hindcast]({{ site.science_url }}/drought_climatology/20c/) and the synthetic event set ([baseline]({{ site.science_url }}/drought_climatology/20c/) and [future]({{ site.science_url }}/drought_climatology/20c/). These are currently available to <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> researchers and in time they will be freely available to anyone. This page describes these in greater detail and provides information about data format, access and interpretation.
 
 ## Dataset 1: Hindcast
 
@@ -32,7 +32,7 @@ The event set includes 3 sub-products that are similar in format/content but tha
 3. might occur in the far future (‘**Far Future**’, 2070-2099) under emission scenarios RCP8.5). 
 100 time series has been generated for each time slice. The 30-year future time slices are based on years 1975-2004 from the baseline (ocean variability, volcanoes, etc). Hence, the reference period in the baseline which the future time slices are to be compared to is 1975-2004.
 
-As described [Science dashboard page]({{ site.science_url }}/21c/), five sets of 100 near future time series have been generated using five sets of sea surface temperature projections: one average scenario and four alternative scenarios which combine high and low climate sensitivity to high and low changes in North Atlantic sea surface temperature gradient. The same applies to the far future time slice.
+As described [Science dashboard page]({{ site.science_url }}/drought_climatology/21c/), five sets of 100 near future time series have been generated using five sets of sea surface temperature projections: one average scenario and four alternative scenarios which combine high and low climate sensitivity to high and low changes in North Atlantic sea surface temperature gradient. The same applies to the far future time slice.
 
 ## Variables available from both datasets
 
