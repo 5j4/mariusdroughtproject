@@ -29,6 +29,21 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 		<p markdown="1"><a href="{{ site.assets_url }}/data/land_use/index2.html">UK land use, relative to baseline, range of temperature &amp; precipitation</a></p>
 	</div>
 </div>
+<div class="dropdown">
+	<select id="luimg">
+		<option value="t0_p0">UK_T0_P0 = baseline</option>
+		<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
+		<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
+		<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
+		<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
+		<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
+		<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
+		<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
+		<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
+	</select>
+</div>
+	
+<img src="{{ site.assets_url }}/data/t0_p0.png" />
 
 {% include 
 	image.html 
