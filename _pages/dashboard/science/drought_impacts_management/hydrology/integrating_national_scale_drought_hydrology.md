@@ -37,10 +37,10 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 {% include 
   image.html 
   image="idhns_topmodel.jpg" 
-  caption="Dynamic TOPMODEL schematic" 
+  caption="Dynamic TOPMODEL schematic (adapted from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space. Environmental Modelling & Software 72, 155-72)" 
 %}
 
-Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space
+<!-- Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space -->
 
 ### Quantification and analysis of uncertainties in hydrological modelling of drought
 
