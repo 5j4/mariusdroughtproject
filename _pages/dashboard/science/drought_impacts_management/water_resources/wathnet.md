@@ -31,6 +31,6 @@ In an NFP model the water resource system is represented as a directed graph whi
 %}
 
 ## Further information
-Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/water_supply_options/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_management/water_supply_options/)
 
 -Kuczera, G. (1992). "Water supply headworks simulation using network linear programming." Advances in Engineering Software 14(1): 55-60.
