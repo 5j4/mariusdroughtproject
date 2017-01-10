@@ -36,7 +36,7 @@ There are important concentrations of lowland meadows in the Thames Basin, but b
 
 This grassland type is currently found almost entirely within England, with only a few sites in the east of Wales. The species that characterise it are projected to progressively lose suitable climate space in southern, eastern and central England and in Wales (Fig 1). One species, great burnet (Sanguisorba officinalis) is modelled to lose all suitable climate space in Great Britain under one projection and bird’s-foot trefoil (Lotus corniculatus) to lose none. This suggests that in the southern half of England there could be changes in the composition of this habitat.
 
-There are important concentrations of lowland meadows in the Thames Basin, but by the 2050s some of it is likely to become climatically unsuitable for these species. Under the high emissions scenario, all suitable climate space for most of them is projected to be lost by the 2050s, leading to a potential loss of this habitat which is important for conservation.
+There are important concentrations of lowland meadows in the Thames Basin, but by the 2050s some of it is likely to become climatically unsuitable for these species. Under the high emissions scenario, all suitable climate space for most of them what_are_droughts/is projected to be lost by the 2050s, leading to a potential loss of this habitat which is important for conservation.
 
 {% include image.html 
 	image="Pam1_.png" 
@@ -53,4 +53,4 @@ The spatial pattern of drought-induced tree mortality levels across the Thames B
 
 ## Further information
 
-Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/drought_impacts/environment/)
+Visit the _Droughts, people and environment dashboard_ [here]({{ site.dpe_url }}/what_are_droughts/)
