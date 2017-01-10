@@ -43,13 +43,16 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	</select>
 </div>
 	
-<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" />
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder" />
 
 <script type='text/javascript'>
 function jsFunction()
 {
   var myselect = document.getElementById("luimg");
-  alert(myselect.options[myselect.selectedIndex].value);
+  var myimage = document.getElementById("luimgholder");
+  var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
+  /* alert(myselect.options[myselect.selectedIndex].value); */
+  alert(myimgpath);
 }
 </script>
 
