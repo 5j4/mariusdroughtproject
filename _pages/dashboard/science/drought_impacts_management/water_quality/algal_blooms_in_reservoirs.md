@@ -25,7 +25,11 @@ An algal community model (PROTECH) was applied to simulate the algae of a reserv
 
 Predicting the total chlorophyll concentration in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September (the main growing season).
 
-![]({{ site.images_url }}/alex2.jpg)
+{% include 
+	image.html 
+	image="alex2.jpg" 
+	caption="Caption needed" 
+%}
 
 ## Result 2	
 
