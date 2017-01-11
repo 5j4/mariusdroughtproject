@@ -40,7 +40,7 @@ Our historical analysis, indicates that over the past 40 years, on average, pote
 
 {% include 
 	image.html 
-	image="eides_PPTWhYrHist.png" 
+	image="eides_PPTWHyrHist.png" 
 	caption="Historical analysis of the potential impacts of low flows and drought on the current UK thermal power plants with current environmental regulation." 
 %}
 
