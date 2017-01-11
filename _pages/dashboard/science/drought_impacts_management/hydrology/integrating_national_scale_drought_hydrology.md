@@ -43,6 +43,12 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 
 The quantification of different sources of uncertainties in hydrological modelling is essential to provide robust drought predictions and simulations.  In MaRIUS, many different sources of uncertainty are incorporated into the hydrological modelling, including estimates of data input uncertainties (ensembles of drought event sets), model structure and parameter uncertainties in space and time, and evaluation data uncertainties (uncertainties in flow data).  These uncertainties are explored in a limits of acceptability framework using time step based analysis of model performance that focus on low flows and drought conditions.  Improved understanding of these uncertainties will provide the basis for identification of robust management options for droughts and water scarcity.
 
+{% include 
+  image.html 
+  image="updatedtimestepmodelevalplot.png"
+  caption="Time step based model evaluation. The top plot shows uncertainty bounds for dynamic TOPMODEL behavioural model simulations alongside observed daily rainfall and discharge for the River Coln at Bibury (39020) during the 1976 drought.  The middle plot shows the Standardised Precipitation Index calculated for each month for the Bibury catchment (positive/negative value indicates a wetter/drier month respectively). The bottom plot presents box plots of the model scores for each month (red line indicates a perfect match with the observed discharge, above/below the red line indicates that the model is over/under estimating the observed discharge)"
+%}
+
 ![]({{ site.images_url }}/idhns_uncertainties.jpg){:width="100%"}
 
 ### Enhanced modelling capability to represent drought processes through incorporation of water resource system elements and improved surface-groundwater representation in dynamic TOPMODEL
