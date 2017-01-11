@@ -35,7 +35,7 @@ Ongoing work is using model estimates of river flows and soil moisture, driven b
 
 {% include 
 	image.html 
-	image="G2G.jpg" 
+	image="G2G.png" 
 	caption="Schematic of the Grid-to-Grid national scale hydrological model." 
 %}
 
