@@ -10,5 +10,5 @@ Droughts can have significant direct and indirect impact on an economy. Quantifi
 
 In <abbr title="Managing the Risks, Impacts and Uncertainties of drought and water Scarcity">MaRIUS</abbr> we analyse the direct and indirect economic risks of droughts upon domestic and commercial water consumers and major abstractors, notably electricity generation.
 
-* Economic risk of droughts (erd)
-* Economic impacts of drought on electricity sector (eides)
+- [Economic risk of droughts]({{ site.science_url }}/drought_impacts_management/economy_and_industry/erd/)
+- [Economic impacts of drought on electricity sector]({{ site.science_url }}/drought_impacts_management/economy_and_industry/eides/)
