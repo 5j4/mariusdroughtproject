@@ -11,5 +11,5 @@ Water quality in rivers and reservoirs is seriously affected by drought. Low flo
 - [Water quality - Overview]({{ site.science_url }}/drought_impacts_management/water_quality/ndocs/)
 - [Thames water quality data]({{ site.science_url }}/drought_impacts_management/water_quality/rtwqd/)
 - [Drought impacts on water quality - River Thames]({{ site.science_url }}/drought_impacts_management/water_quality/diwqrt/)
-- [Reservoir Phytoplankton water quality]({{ site.science_url }}/drought_impacts_management/water_quality/rpwq/)
+- [Reservoir Phytoplankton water quality]({{ site.science_url }}/drought_impacts_management/water_quality/abr/)
 - [National scale water quality]({{ site.science_url }}/drought_impacts_management/water_quality/nswq/)
