@@ -17,7 +17,7 @@ The aim is to highlight existing drought management options in England & Wales w
 
 Parallel to analysing national and international literature on drought management practice, a generic approach is taken to English and Welsh water companies’ Water Resources Management Plans (WRMPs) to look for themes, patterns and general observations with regard to drought management and water scarcity management options. Key questions are: Do regional differences exist? Where do water companies see themselves in the regulatory framework? Are there any innovative approaches? Is there a relation between being an area of severe water stress and innovativeness? How do they collaborate with neighbouring water companies and equally important how do they collaborate with neighbouring policy fields such as flooding, agriculture, forestry or planning?
 
-![Possible range of drought and water scarcity management options]({{ site.images_url }}/KevinO1.jpg){:width="50%"}
+![Possible range of drought and water scarcity management options]({{ site.images_url }}/KevinO1.jpg){:width="100%"}
 
 Possible range of drought and water scarcity management options
 
