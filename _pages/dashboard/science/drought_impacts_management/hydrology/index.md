@@ -22,7 +22,7 @@ caption="Different hydrological models"
 }
 </style>
 <div class="thirtypc">
-<img src="{{ site.images_url }}/G2G.jpg" alt="G2G" />
+<img src="{{ site.images_url }}/G2G.png" alt="G2G" />
 <img src="{{ site.images_url }}/Gemma1.jpg" alt="Gemma1" />
 <img src="{{ site.images_url }}/Jude1.jpg" alt="Jude1" />
 </div>
