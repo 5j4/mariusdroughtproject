@@ -1025,6 +1025,108 @@ Shortcut = URL
 
 (paragraph) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quibusdam mollitia neque cupiditate, tempora enim rerum non placeat, ut praesentium cum, facilis provident totam! Minus illum, ea amet adipisci ullam quia excepturi laudantium sint reprehenderit! Tempore, laboriosam fugit, numquam quod, inventore cumque aperiam dicta veniam distinctio enim deleniti corporis. Quod nam deleniti in eum reprehenderit non quidem quia sint natus obcaecati corporis animi, a aspernatur reiciendis repellendus nulla minus sunt temporibus maiores, rem odit accusamus! Harum expedita id nostrum eveniet labore nihil, laudantium praesentium laborum deserunt quod qui obcaecati totam adipisci eius, corrupti officia nisi nulla fugit ab odit cumque quo.
 
+### variable WIDTH/HEIGHT block image (NO text wrap)
+
+(paragraph) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem quae at assumenda culpa ea esse impedit soluta, quod eos, amet asperiores animi non eveniet voluptas cum repellat mollitia! Optio error dolorum voluptates dolores saepe mollitia odio, officia accusantium facilis nisi impedit perferendis, cum, amet ea quia veritatis consequatur ducimus facere.
+
+Use variables ``width`` and ``height`` to set/force image dimensions to something other than actual image size. Specify screen size units as you would if defining size in CSS or img element attributes (e.g. 50px, 50%).
+
+#### NOT RESPONSIVE, WIDTH + HEIGHT image
+
+``responsive="false"``
+
+Percentage
+
+{% raw %}
+~~~html
+{% include 
+    image.html 
+    image="idhns_topmodel.jpg" 
+    responsive="false" 
+    width="50%" 
+    caption="Image caption goes here..."
+%}
+~~~
+{% endraw %}
+
+{% include 
+  image.html 
+  image="idhns_topmodel.jpg" 
+  responsive="50%" 
+  width="50%" 
+  caption="Image caption goes here..." 
+%}
+
+Pixels
+
+{% raw %}
+~~~html
+{% include 
+    image.html 
+    image="idhns_topmodel.jpg" 
+    responsive="false" 
+    width="400px" 
+    height="100px" 
+    caption="Image caption goes here..."
+%}
+~~~
+{% endraw %}
+
+{% include 
+  image.html 
+  image="idhns_topmodel.jpg" 
+  responsive="false"
+  width="100px" 
+  height="400px" 
+  caption="Image caption goes here..." 
+%}
+
+#### RESPONSIVE (default), width or height, NOT BOTH, does the right(?) thing, retains aspect ratio of original
+
+``responsive="true"``
+
+Percentage
+
+{% raw %}
+~~~html
+{% include 
+    image.html 
+    image="idhns_topmodel.jpg" 
+    width="25%" 
+    caption="Image caption goes here..."
+%}
+~~~
+{% endraw %}
+
+{% include 
+  image.html 
+  image="idhns_topmodel.jpg" 
+  width="25%" 
+  caption="Image caption goes here..." 
+%}
+
+Pixels
+
+{% raw %}
+~~~html
+{% include 
+    image.html 
+    image="idhns_topmodel.jpg" 
+    width="100px" 
+    height="400px" 
+    caption="Image caption goes here..."
+%}
+~~~
+{% endraw %}
+
+{% include 
+  image.html 
+  image="idhns_topmodel.jpg" 
+  width="100px" 
+  height="400px" 
+  caption="Image caption goes here..." 
+%}
+
 ### LEFT aligned image (text wrap)
 
 {% raw %}
