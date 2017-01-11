@@ -43,20 +43,10 @@ Under current land-use and phosphorus removal mitigation strategies, average pho
 {% include 
 	image.html 
 	image="diwqrt_runnymede.jpg" 
-	caption="CAPTION NEEDED" 
+	caption="Effect of combined climate alteration (precipitation and temperature), land-use change and phosphorus removal mitigation strategies on the average phosphorus content of the River Thames (UK) at Runnymede. Circles: current conditions of land-use and current phosphorus removal mitigation strategies; squares: expansion of agricultural land) and current phosphorus removal mitigation strategies; diamonds: expansion of agricultural land and optimal phosphorus removal mitigation strategies (combined reduction of fertiliser and phosphorus removal from wastewater). The horizontal solid line represents the current average phosphorus concentration. The red rectangle defines the space of precipitation changes forecasted by the UKCP09" 
 %}
 
-Effect of combined climate alteration (precipitation and temperature), land-use change and phosphorus removal mitigation strategies on the average phosphorus content of the River Thames (UK) at Runnymede. Circles: current conditions of land-use and current phosphorus removal mitigation strategies; squares: expansion of agricultural land) and current phosphorus removal mitigation strategies; diamonds: expansion of agricultural land and optimal phosphorus removal mitigation strategies (combined reduction of fertiliser and phosphorus removal from wastewater). The horizontal solid line represents the current average phosphorus concentration. The red rectangle defines the space of precipitation changes forecasted by the UKCP09.
- 
 ## Climate change is expected to increase drought severity and phosphorus concentration in rivers, but the response of phytoplankton varies depending on the functional group. 
-
-Change in the average phytoplankton abundance in the River Thames (UK) in reach 1 due to climate alteration (precipitation and temperature), under current conditions of land-use and current phosphorus removal mitigation strategies. In each plot, the x-axis represents the alteration in temperature (°C), the y-axis the alteration in precipitation (%), while the resulting change in average phytoplankton cell abundance is represented with colours. Each plot is associated with a different phytoplankton group (diatoms, chlorophytes, picoalgale, cyanobacteria and Microcystis-like cyanobacteria). The black dots represent the changes in precipitation and temperature of 10,000 UKCP09 change factors.
-
-{% include 
-	image.html 
-	image="diwqrt_avgphytoplanktonchange.jpg" 
-	caption="CAPTION NEEDED" 
-%}
 
 Change in the average phytoplankton abundance in the River Thames (UK) in reach 1 due to climate alteration (precipitation and temperature), under current conditions of land-use and current phosphorus removal mitigation strategies. In each plot, the x-axis represents the alteration in temperature (°C), the y-axis the alteration in precipitation (%), while the resulting change in average phytoplankton cell abundance is represented with colours. Each plot is associated with a different phytoplankton group (diatoms, chlorophytes, picoalgale, cyanobacteria and Microcystis-like cyanobacteria). The black dots represent the changes in precipitation and temperature of 10,000 UKCP09 change factors.
 
@@ -64,7 +54,13 @@ Precipitation, and hence flow, is the key control for Microcystis-like cyanobact
 
 The sensitivity of phytoplankton to climate change is smaller for diatoms, chlorophytes and Microcystis-like cyanobacteria and higher for picoalgae and cyanobacteria. For example, while cyanobacteria can double their average concentration in reach 1 for an increase in temperature of +3°C, chlorophytes only show an increase between 5 and 10%.
 
-Chlorophytes, diatoms and Microcystis-like cyanobacteria decrease their concentration along with precipitation, while cyanobacteria and picoalgae increase it.   
+Chlorophytes, diatoms and Microcystis-like cyanobacteria decrease their concentration along with precipitation, while cyanobacteria and picoalgae increase it.
+
+{% include 
+	image.html 
+	image="diwqrt_avgphytoplanktonchange.jpg" 
+	caption="Change in the average phytoplankton abundance in the River Thames (UK) in reach 1 due to climate alteration (precipitation and temperature), under current conditions of land-use and current phosphorus removal mitigation strategies. In each plot, the x-axis represents the alteration in temperature (°C), the y-axis the alteration in precipitation (%), while the resulting change in average phytoplankton cell abundance is represented with colours. Each plot is associated with a different phytoplankton group (diatoms, chlorophytes, picoalgale, cyanobacteria and Microcystis-like cyanobacteria). The black dots represent the changes in precipitation and temperature of 10,000 UKCP09 change factors." 
+%}
 
 ## Further information
 
