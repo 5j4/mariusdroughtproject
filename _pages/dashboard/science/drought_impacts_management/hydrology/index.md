@@ -12,7 +12,7 @@ There are two main strands to the hydrological drought research being carried in
 
 {% include image.html
 image="Hydrology1.png"
-caption="Different hydrological models"
+caption="Schematics of the different hydrological models used in MaRIUS – (left) G2G, (middle) Dynamic TOPMODEL and (right) PIHM"
 %}
 
 <style>
