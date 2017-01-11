@@ -24,8 +24,6 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 
 ## Research methods
 
-* Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space 
-* Dynamic TOPMODEL schematic (from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space
 * A semi-distributed hydrological model (Dynamic TOPMODEL) has been set up for national scale hydrological drought modelling across the UK. 
 * Model is driven using spatial inputs of precipitation and potential-evapotranspiration from observed and future drought event sets for national scale analysis of catchment flows in present and future climate conditions
 * Probabilistic future flow predictions are generated from the future drought event sets
@@ -34,16 +32,17 @@ NERC’s MaRIUS (Managing the Risks, Impacts and Uncertainties of drought and wa
 	- Incorporation of abstractions in the modelling framework
 	- Improved surface water/groundwater representation in dynamic TOPMODEL
 
-![Dynamic TOPMODEL schematic (adapted from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space. Environmental Modelling & Software 72, 155-72)]({{ site.images_url }}/idhns_topmodel.jpg){:width="50%"}
+{% include 
+  image.html 
+  image="idhns_topmodel.jpg"
+  caption="Dynamic TOPMODEL schematic (adapted from Metcalfe, P., Beven, K. and Freer, J. (2015) Dynamic TOPMODEL: A new implementation in R and its sensitivity to time and space. Environmental Modelling & Software 72, 155-72)"
+%}
 
 ### Quantification and analysis of uncertainties in hydrological modelling of drought
 
 The quantification of different sources of uncertainties in hydrological modelling is essential to provide robust drought predictions and simulations.  In MaRIUS, many different sources of uncertainty are incorporated into the hydrological modelling, including estimates of data input uncertainties (ensembles of drought event sets), model structure and parameter uncertainties in space and time, and evaluation data uncertainties (uncertainties in flow data).  These uncertainties are explored in a limits of acceptability framework using time step based analysis of model performance that focus on low flows and drought conditions.  Improved understanding of these uncertainties will provide the basis for identification of robust management options for droughts and water scarcity.
 
-{% include 
-  image.html 
-  image="idhns_uncertainties.jpg"
-%}
+![]({{ site.images_url }}/idhns_uncertainties.jpg){:width="100%"}
 
 ### Enhanced modelling capability to represent drought processes through incorporation of water resource system elements and improved surface-groundwater representation in dynamic TOPMODEL
 
