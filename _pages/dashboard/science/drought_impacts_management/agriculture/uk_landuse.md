@@ -23,12 +23,13 @@ Effects of long term yield and profit variability influence farm business planni
 
 A Pan-European integrated modelling platform was used to simulation UK landuse change in response to increased water scarcity, arising from changing relative crop and farm profitability. The model accounts for varying crop yields, forest productivity, flooding, and availability of water resources. Initially the model was validated by comparison of observed current and simulated land use (see figure 1). The model was then simulated with a range of temperature and precipitation changes to provide an indicate potential change in rural land use allocation.
 
-<div id="coming-soon">
+<!-- <div id="coming-soon">
 	<div class="ident">INTERACTIVE <span class="cs">COMING SOON</span></div>
 	<div class="description">
 		<p markdown="1"><a href="{{ site.assets_url }}/data/land_use/index2.html">UK land use, relative to baseline, range of temperature &amp; precipitation</a></p>
 	</div>
-</div>
+</div> -->
+### UK land use, relative to baseline, range of temperature &amp; precipitation
 <div class="dropdown">
 	<select id="luimg" onChange="jsFunction()" class="form-control">
 		<option value="t0_p0">UK_T0_P0 = baseline</option>
