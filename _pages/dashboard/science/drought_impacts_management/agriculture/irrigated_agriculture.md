@@ -24,7 +24,7 @@ presentations:
  
 ## Introduction
 
-Irrigated agribusinesses can face abstraction restrictions imposed by the Regulator during droughts and increased competition for water resources from public water supply and the environment.   MaRIUS aims to understand how long term farm planning will change due to increased water scarcity; and the impacts and response of farmers, processors and food retailers to drought.
+Irrigated agribusinesses can face abstraction restrictions imposed by the Regulator during droughts and increased competition for water resources from public water supply and the environment. MaRIUS aims to understand how long term farm planning will change due to increased water scarcity; and the impacts and response of farmers, processors and food retailers to drought.
 
 ## Research methods
 
@@ -41,7 +41,7 @@ Irrigation is an essential component of crop production to meet retailer demands
 {% include 
 	image.html 
 	image="irrigated_agriculture_estimated_benefits.jpg" 
-	caption="Estimated irrigation benefits (£) per 2km x 2km grid cell [from Rey et al., In Press]." 
+	caption="Estimated irrigation benefits (£) per 2km x 2km grid cell [from Rey et al., 2016]." 
 %}
 
 ## Water productivity in UK irrigation during drought averages in excess of £3.30/m3
@@ -51,7 +51,7 @@ Research in <abbr title="Managing the Risks, Impacts and Uncertainties of drough
 {% include 
 	image.html 
 	image="irrigated_water_productivity.jpg" 
-	caption="Irrigation water productivity (£/m<sup>3</sup>) [from Rey et al., In Press]." 
+	caption="Irrigation water productivity (£/m<sup>3</sup>) [from Rey et al., 2016]." 
 %}
 
 ## The apparent impact of drought on irrigated farm businesses has declined since the 1976-77 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator
@@ -60,5 +60,5 @@ The apparent impact of drought on irrigated farm businesses has declined since t
 
 ## Further information
 
-* Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (2016). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management http://www.sciencedirect.com/science/article/pii/S0378377416301342
-* “Managing risks, impacts and uncertainty of drought” http://www.ukia.org/data/conference/Holman.pdf
+* Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (2016). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management 173: 13-22 <a href="http://www.sciencedirect.com/science/article/pii/S0378377416301342" target="_blank">http://www.sciencedirect.com/science/article/pii/S0378377416301342</a>
+* “Managing risks, impacts and uncertainty of drought” <a href="http://www.ukia.org/data/conference/Holman.pdf" target="_blank">http://www.ukia.org/data/conference/Holman.pdf</a>
