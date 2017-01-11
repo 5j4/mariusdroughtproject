@@ -30,4 +30,10 @@ We have developed simple computer models of different wetland types. They estima
 2. River-fed wetland ecosystems are more resilient to drought than rain-fed wetlands
 3. Wetlands in the south and east of England and Wales are more likely to be altered by climate change than those in the north and west
 
+{% include
+image.html 
+image="wetlandsfigure1.png" 
+caption="Example showing that impacts of drought on rain-fed wet grassland communities under a changing climate are likely to be higher in SE England compared to NW England. Impact plots show the distribution of the number of months per year on average in which wetland water levels decline below the ‘absolute minimum tolerable’ threshold under the MaRIUS baseline (BS), near future (NF) and far future (FF) 100 realisation climate modelling event sets, along with the value for observed baseline conditions (1961-1990)" 
+%}
+
 James Blake Contact: jarib@ceh.ac.uk
