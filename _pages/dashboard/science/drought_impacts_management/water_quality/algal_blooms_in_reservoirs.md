@@ -31,6 +31,15 @@ Predicting the total chlorophyll concentration in reservoir over a range of Tham
 	caption="Total chlorophyll concentration (<span style="font-face:serif;">mg</span>/L) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September" 
 %}
 
+<figure>
+  <div>
+  	<img src="{{ site.images_url }}/alex2.jpg" class="center-block img-responsive" alt="Total chlorophyll concentration (mg/L) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September" />
+  </div>
+  <figcaption>Total chlorophyll concentration (<span style="font-face:serif;">mg</span>/L) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September
+  
+  </figcaption> 
+</figure>
+
 ## Result 2	
 
 Predicting the proportion of cyanobacteria (“blue-green algae”) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September (the main growing season).
