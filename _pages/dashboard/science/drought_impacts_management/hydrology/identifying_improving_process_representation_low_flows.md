@@ -37,10 +37,8 @@ Signatures have been identified that represent the physiographic properties of a
 {% include 
 	image.html 
 	image="iirplf_pihm_model.jpg" 
-	caption="The PIHM model." 
+	caption="The PIHM model (Modified from Yu et al., 2013, Parameterization for distributed watershed modeling using national data and evolutionary algorithm. Computers & Geosciences 58:80-90.)" 
 %}
-
-The PIHM model (Modified from Yu et al., (2013), Parameterization for distributed watershed modeling using national data and evolutionary algorithm. Computers & Geosciences 58:80-90.
 
 ### Identification of control processes on low flows
 
