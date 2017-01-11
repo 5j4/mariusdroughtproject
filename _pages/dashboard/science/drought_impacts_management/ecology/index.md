@@ -12,5 +12,5 @@ In terrestrial ecosystems, droughts reduce plant productivity and species richne
 
 Given time, when wetter conditions return, habitats and organisms may recover fully, because they have evolved drought resilient life history strategies. However, if droughts are severe, prolonged, occur aseasonally, or so frequently that recovery time is insufficient, species can be locally extirpated and habitats irrevocably altered.
 
-* Species envelope modelling (sem)
-* Vulnerability of tree species (vts)
+- [Species envelope modelling]({{ site.science_url }}/drought_impacts_management/ecology/sem/)
+- [Vulnerability of tree species]({{ site.science_url }}/drought_impacts_management/ecology/vts/)
