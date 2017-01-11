@@ -28,7 +28,7 @@ Predicting the total chlorophyll concentration in reservoir over a range of Tham
 {% include 
 	image.html 
 	image="alex2.jpg" 
-	caption="Total chlorophyll concentration (mg/L) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September" 
+	caption="Total chlorophyll concentration (<span style="font-face:serif;">mg</span>/L) in reservoir over a range of Thames River flows and reservoir surface water temperatures over the period of June-September" 
 %}
 
 ## Result 2	
