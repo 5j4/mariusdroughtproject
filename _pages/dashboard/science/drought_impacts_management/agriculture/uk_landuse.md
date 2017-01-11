@@ -60,7 +60,7 @@ function jsFunction()
 {% include 
 	image.html 
 	image="Fig1.png" 
-	caption="A: Observed CORINE land use, B: Model simulated land use for the baseline period (majority land use type for each grid cell shown), C: Model simulated land use with 20% decrease in precipitation." 
+	caption="(Left): Observed CORINE land use, (middle): Model simulated land use for the baseline period (majority land use type for each grid cell shown), (Right): Model simulated land use with 20% decrease in precipitation" 
 %}
 
 ### Results
