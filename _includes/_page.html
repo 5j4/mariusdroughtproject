@@ -24,7 +24,7 @@
     <![endif]-->
 
     <link rel="stylesheet" href="{{ site.assets_url }}/css/vendor/bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="{{ site.assets_url }}/css/test.css?bust={{ site.time | date: '%s' }}"> <!-- app -->
+    <link rel="stylesheet" href="{{ site.assets_url }}/css/main.css?bust={{ site.time | date: '%s' }}">
 
     {% if include.section %}
       <!-- css for SECTION (layout): {{ include.section }} -->
@@ -91,7 +91,7 @@
       </div><!-- /navigation -->
 
       <!-- right column - content -->
-      <div class="col-md-9">
+      <div class="col-md-9 content">
 
         <div class="section-ident"></div>
 
@@ -138,6 +138,7 @@
         </div><!-- /content -->
 
       </div>
+
     </div><!-- /row -->
   </div><!-- /container -->
 
