@@ -3,13 +3,6 @@ layout: default
 published: true
 permalink: /about_marius/
 
-extra_css:
-  - vendor/slick/slick.css
-  - vendor/slick/slick-theme.css
-
-extra_js:
-  - vendor/slick/slick.min.js
-
 _title: About MaRIUS
 ---
 

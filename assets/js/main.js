@@ -1,19 +1,11 @@
 $(function(){
 
-	// $(document).foundation();
-
 	$('.content a[target="_blank"]').each(function () {
 		$(this).attr('title', 'Open in a new tab');
 		// $(this).addClass('external-link');
 	});
 
-	// var popup = new Foundation.Reveal($('#videoModal'));
-
-	// $('.your-class').slick({
-	// 	dots: false,
-	// 	speed: 300
-	// });
-
+	// Back to top
 	$(window).scroll(function () {
 	    if ($(this).scrollTop() > 50) {
 	        $('#back-to-top').fadeIn();

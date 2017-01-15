@@ -8,9 +8,6 @@ _title: Page title (page variable _title)
 extra_css:
   - syntax.css
 
-extra_js:
-  - vendor/slick/slick.min.js
-
 related_links:
   - name: related link 1
     url: 'http://www.geog.ox.ac.uk'
@@ -1083,7 +1080,7 @@ Pixels
 
 #### RESPONSIVE (default), width or height, NOT BOTH, does the right(?) thing, retains aspect ratio of original
 
-``responsive="true"``
+Omitting the ``responsive`` variable (default: true) or explicitly setting to it = true (``responsive="true"``) are identical.
 
 Percentage
 
