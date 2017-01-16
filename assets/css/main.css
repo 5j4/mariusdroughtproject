@@ -6,8 +6,9 @@
 #FAD399
 ----------------------------------------------------------------------------- */
 
-/* Fonts */
-@import url(https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i|Cabin:400,400i,500,500i,600,600i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Work+Sans:100,200,300,400,500,600,700,800,900&subset=latin-ext);
+/* Fonts
+----------------------------------------------------------------------------- */
+@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i|Cabin:400,400i,500,500i,600,600i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Work+Sans:100,200,300,400,500,600,700,800,900&subset=latin-ext');
 
 html, body {
     font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, sans-serif;
@@ -79,12 +80,12 @@ figcaption {
   display: inline-block;
   float: none;
   font-size: 14px;
-  font-size: 1rem;
+  /*font-size: 1rem;*/
   vertical-align: middle;
 }
 
 
-/* header 
+/* header
 ----------------------------------------------------------------------------- */
 header {
     height: 140px;
@@ -96,7 +97,7 @@ header {
 }
 
 
-/* main 
+/* main
 ----------------------------------------------------------------------------- */
 main {}
 
@@ -141,7 +142,7 @@ main {}
     border-bottom: 1px solid;
     color: #337ab7;
 }
-#content a:hover, 
+#content a:hover,
 #content a:focus {
     text-decoration: none;
     border-bottom: 2px solid;
@@ -151,7 +152,7 @@ main {}
 #content a[target="_blank"] {
     border-bottom: 1px dashed;
 }
-#content a:hover[target="_blank"], 
+#content a:hover[target="_blank"],
 #content a:focus[target="_blank"] {
     text-decoration: none;
     border-bottom: 2px solid;
@@ -162,7 +163,7 @@ main {}
 }*/
 
 
-/* footer 
+/* footer
 ----------------------------------------------------------------------------- */
 footer {
     margin-top: 20px;
@@ -185,7 +186,7 @@ footer > div {
 /* sections
 ----------------------------------------------------------------------------- */
 .section-ident {
-    height: 7.5px;
+    height: 8px;
     background-color: #1c7ba3;
 }
 
@@ -205,7 +206,7 @@ footer > div {
 }
 
 
-/* navigation 
+/* navigation
 ----------------------------------------------------------------------------- */
 #nav {
     margin-top: 20px;
@@ -246,7 +247,7 @@ footer > div {
 #content .profile-card h2 a {
     border: none;
 }
-#content .profile-card h2 a:hover, 
+#content .profile-card h2 a:hover,
 #content .profile-card h2 a:focus {
     text-decoration: none;
     border-bottom: 2px solid;
@@ -332,7 +333,7 @@ footer > div {
 #content .presentation-card h2 a {
     border: none;
 }
-#content .presentation-card h2 a:hover, 
+#content .presentation-card h2 a:hover,
 #content .presentation-card h2 a:focus {
     text-decoration: none;
     border-bottom: 2px solid;
@@ -461,11 +462,8 @@ footer > div {
 .back-to-top {
     cursor: pointer;
     position: fixed;
-    bottom: 20px;
-    right: 20px;
     display:none;
     text-align: center;
-
     background-color: #777777;
     color: #eeeeee;
     width: 50px;
@@ -534,7 +532,7 @@ footer > div {
     border-top: 1px solid #eee;
     border-bottom: 1px solid #eee;
     background-color: #fff;
-} 
+}
 .logo {
     padding-bottom: 20px;
 }
