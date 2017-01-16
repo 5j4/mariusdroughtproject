@@ -222,7 +222,7 @@ footer > div {
 #content .profile-card-summary img {
     padding-top: 10px;
     width: 75px;
-    height: 75px;
+    height: auto;
 }
 #content .profile-card-summary .left {
     height: 75px;
