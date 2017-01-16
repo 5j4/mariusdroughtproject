@@ -13,10 +13,13 @@
 				</div>
 
 				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-					<h3><a rel="external" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></h3>
-					by <a href="{{ site.baseurl }}/about_marius/people/researchers/#{{ p.author }}">{{ p_author.title }} {{ p_author.name }}</a><br>
-					<!--{{ p_author.organisation }}<br><br>-->
-					<p>{{ p.description }}</p>
+					<h2><a rel="external" href="{{ p.video.embedUrl }}" data-lity>{{ p.name }}</a></h2>
+					<div class="author">
+						by <a href="{{ site.baseurl }}/about_marius/people/researchers/#{{ p.author }}">{{ p_author.title }} {{ p_author.name }}</a>
+					</div>
+					<div class="description">
+						{{ p.description }}
+					</div>
 				</div>
 
 			</div>
