@@ -2,10 +2,10 @@
 
 <div class="col-xs-12 col-md-6 col-lg-4">
 	<div class="profile-card-summary">
-		<div class="left">
+		<div class="pull-left">
 			<img src="{{ site.images_url }}/people/{% if p.default_photo %}default{% else %}{{ include.person_id }}{% endif %}.png" alt="{{ p.title }} {{ p.name }}" />
 		</div>
-		<div class="right">
+		<div class="pull-right">
 			<a rel="person" href="{{ p.url }}" title="{{ p.name }}" target="_blank">{{ p.title | replace: 'Professor', 'Prof' }} {{ p.name }}</a>
 		</div>
 	</div>
