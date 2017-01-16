@@ -8,18 +8,19 @@
 
 /* Fonts
 ----------------------------------------------------------------------------- */
-@import url('https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i,900,900i|Cabin:400,400i,500,500i,600,600i,700,700i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Work+Sans:100,200,300,400,500,600,700,800,900&subset=latin-ext');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i,900,900i|Montserrat:400,700|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i|Rubik:300,300i,400,400i,500,500i,700,700i,900,900i|Work+Sans:100,200,300,400,500,600,700,800,900&subset=latin-ext');
 
 html, body {
-    font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    font-family: "Roboto", "Helvetica Neue", "Helvetica", Arial, sans-serif;
     font-size: 14px;
-    font-weight: 400;
+    font-weight:400;
+    line-height: 1.7;
     /*background-color: #f5f5f5;*/
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Lato', "Helvetica Neue", "Helvetica", Arial, sans-serif;
-    font-weight: 700;
+    /*font-family: "Roboto", "Helvetica Neue", "Helvetica", Arial, sans-serif;*/
+    /*font-weight: 700;*/
 }
 
 hr {
@@ -105,18 +106,17 @@ main {}
 }
 #content-header h1 {
     margin-top: 0;
-    font-family: 'Lato', "Helvetica Neue", "Helvetica", Arial, sans-serif;
-    font-weight: 900;
+    /*font-family: "Roboto", "Helvetica Neue", "Helvetica", Arial, sans-serif;*/
+    font-weight: 700;
 }
 
 #content {
     /*background-color: red;*/
-    font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    /*font-family: "Roboto", "Open Sans", "Helvetica Neue", "Helvetica", Arial, sans-serif;*/
 }
 
 #content p {
     margin: 0 0 25px 0;
-    line-height: 1.8;
 }
 
 #content li {
@@ -129,14 +129,14 @@ main {}
 #content h5,
 #content h6 {
     margin: 30px 0 20px 0;
-    font-family: 'Lato', "Helvetica Neue", "Helvetica", Arial, sans-serif;
-    font-weight: 700;
+    font-family: "Roboto", "Helvetica Neue", "Helvetica", Arial, sans-serif;
+    font-weight: 600;
     padding-bottom: 2px;
     /*border-bottom: 1px solid #eee;*/
 }
 
 #content a {
-    padding-bottom: 2px;
+    padding-bottom: 1px;
     border-bottom: 1px solid;
     color: #337ab7;
 }
@@ -208,6 +208,7 @@ footer > div {
 ----------------------------------------------------------------------------- */
 #nav {
     margin-top: 20px;
+    /*font-size: 14px;*/
 }
 .nav {
     margin-top: 20px;
@@ -229,8 +230,9 @@ footer > div {
 /* profile-card
 ----------------------------------------------------------------------------- */
 #content .profile-card {
+    border-top: 1px solid #d2d2d2;
     margin-bottom: 25px;
-    border-top: 1px solid #c9c9c9;
+    line-height: 1.7;
     /*padding: 10px;*/
     /*box-shadow: 1px 1px 1px #d8d8d8;*/
 }
@@ -254,14 +256,17 @@ footer > div {
     /*background-color: #f9fbff;*/
 }
 #content .profile-card .position {
-    font-size: larger;
     font-weight: 600;
-    color: #777979;
+    text-transform: uppercase;
+    color: #8c8c8c;
 }
 #content .profile-card .organisation {
-    font-weight: 600;
-    color: #777979;
-    border-bottom: 1px solid #f5f5f5;
+    /*font-weight: 600;*/
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    color: #8c8c8c;
+    border-bottom: 1px solid #d2d2d2;
 }
 #content .profile-card .profile {
     margin-top: 10px;
