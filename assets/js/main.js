@@ -5,17 +5,34 @@ $(function(){
 		// $(this).addClass('external-link');
 	});
 
-	// Back to top
-	$(window).scroll(function () {
-	    if ($(this).scrollTop() > 50) {
-	        $('#back-to-top').fadeIn();
-	    } else {
-	        $('#back-to-top').fadeOut();
-	    }
-	});
-	// scroll body to 0px on click
-	$('#back-to-top').click(function () {
-	    $('body,html').animate({scrollTop: 0}, 500, 'linear');
-	    return false;
-	});
+
+	// // Check if window top, if false, display button
+    // $(window).scroll(function () {
+	//     if ($(this).scrollTop() > 100) {
+	//         $('#back-to-top').fadeIn();
+	//     } else {
+	//         $('#back-to-top').fadeOut();
+	//     }
+	// });
+    // // Click event scroll to top
+    // $('.scrollToTop').click(function () {
+     //    $('.content').animate({scrollTop: 0}, 800);
+	//     return false;
+	// });
+
+    var offset = 250;
+    var duration = 300;
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > offset) {
+            $('.back-to-top').fadeIn(duration);
+        } else {
+            $('.back-to-top').fadeOut(duration);
+        }
+    });
+    $('.back-to-top').click(function(event) {
+        event.preventDefault();
+        $('html, body').animate({scrollTop: 0}, duration);
+        return false;
+    });
+
 });
