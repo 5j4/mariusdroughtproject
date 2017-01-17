@@ -20,7 +20,7 @@ $(function(){
     // Click event scroll to top
     $('.back-to-top').click(function(event) {
         event.preventDefault();
-        $('html, body').animate({scrollTop: 0}, duration);
+        $('html, body').animate({scrollTop: $('main').offset().top}, duration);
         return false;
     });
 
