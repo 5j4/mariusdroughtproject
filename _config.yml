@@ -38,7 +38,7 @@ baseurl: /mariusdroughtproject.org
 # ------------------------------------------------------------------------------
 sass:
   sass_dir: _sass
-  style: compressed
+  style: expanded
 
 # ------------------------------------------------------------------------------
 # jekyll-assets
