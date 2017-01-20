@@ -99,14 +99,14 @@
 
         <div class="section-ident"></div>
 
-        <div id="content-header">
-          <span class="section">{{ page.subsection }}</h3></span>
-          <h1>
-          {% if page.heading %}{{ page.heading }}{% else %}{{ page._title }}{% endif %}
-          </h1>
+        <!--<div id="content-header" class="header section-ident">-->
+        <div class="header clearfix">
+          <span class="section-title">{{ page.subsection }}</span>
+          <h1>{% if page.heading %}{{ page.heading }}{% else %}{{ page._title }}{% endif %}</h1>
         </div>
 
-        <div id="content">
+        <!--<div id="content">-->
+        <div class="content">
 
           {{ content }}
 

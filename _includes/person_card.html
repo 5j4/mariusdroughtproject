@@ -5,11 +5,10 @@
 
 {% else %}
 
-<div class="row">
+<div class="profile-card">
+	<div class="row">
 
-	<div class="col-xs-12">
-
-		<div class="profile-card">
+		<div class="col-xs-12">
 			<div class="row">
 
 				<div class="col-xs-12 col-sm-3 col-md-3 col-lg-3">
@@ -18,18 +17,16 @@
 				</div>
 
 				<div class="col-xs-12 col-sm-9 col-md-9 col-lg-9">
-					<h2><a rel="person" href="{{ p.url }}" title="{{ p.name }}">{{ p.title }} {{ p.name }}</a></h2>
+					<div class="name"><a rel="person" href="{{ p.url }}" title="{{ p.name }}">{{ p.title }} {{ p.name }}</a></div>
 					<div class="position">{{ p.position }}</div>
 					<div class="organisation">{{ p.organisation }}</div>
 					<div class="profile">{{ p.profile }}</div>
 				</div>
 
-			</div>
-
+			</div> <!-- /row -->
 		</div>
 
-	</div>
-
+	</div> <!-- /row -->
 </div>
 
 {% endif %}

@@ -13,6 +13,7 @@
 {% assign wrap = include.wrap %}
 
 <figure {% if wrap %}class="{{ wrap }}"{% endif %}>
+
   <div>
   	<img src="{{ site.images_url }}/{{ img }}" 
     {% if img_width %}width="{{ img_width }}"{% endif %}
@@ -22,9 +23,9 @@
     ">
   </div>
   
-  <figcaption>{{ img_caption }}
+  <figcaption class="caption">{{ img_caption }}
   {% if img_attribution_owner %} <span class="glyphicon glyphicon-info-sign"></span>  
-  <span class="fig_attribution">
+  <span class="attribution">
 	  {{ img_attribution_owner }} 
 	  {% if img_attribution_source %}via {{ img_attribution_source }}{% endif %} 
 	  {% if img_attribution_source %}{{ img_attribution_license | upper }}{% endif %} 
