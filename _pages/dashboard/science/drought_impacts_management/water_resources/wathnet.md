@@ -10,7 +10,7 @@ research_team:
 ---
 ## Key science findings
 
-* The concepts behind simulation platform (WATHNET) 
+The concepts behind the simulation platform for water resources (WATHNET) are explained below. 
 
 ## Introduction 
 
