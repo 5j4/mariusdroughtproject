@@ -7,6 +7,12 @@ _title: Page title (page variable _title)
 
 extra_css:
   - syntax.css
+  - vendor/nvd3/1.8.1/nv.d3.css
+
+extra_js:
+  - vendor/d3/3.5.2/d3.min.js
+  - vendor/nvd3/1.8.1/nv.d3.min.js
+  - markdown.js
 
 related_links:
   - name: related link 1
@@ -1167,3 +1173,17 @@ Pixels
 %}
 
 (paragraph) Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae perspiciatis vel, ducimus in architecto quia! Quidem ad, expedita tempore dolor facilis aspernatur vel, asperiores consectetur repellendus impedit consequatur tenetur! Cupiditate, suscipit ducimus. Repellat, voluptas, sed! Atque praesentium saepe qui explicabo sit maxime vero, et, perspiciatis porro assumenda enim, aut, hic quam quidem. Tenetur, cupiditate eveniet omnis quasi quis ipsum, molestias. At labore eum voluptatibus quos sit, sint accusamus doloribus quae quisquam, officiis, ipsa et, non vitae dolores repellendus. Quam asperiores cupiditate sapiente voluptates ea accusantium officiis incidunt, consequuntur distinctio officia saepe fugiat, iusto praesentium. Illo sed adipisci sunt iusto quis totam nesciunt maiores nam quia minus id eum architecto, nemo fuga. Aliquid architecto, quaerat sunt libero minus non reiciendis nobis asperiores nostrum ipsa deserunt quo odit vel inventore dolorum doloribus molestiae dolorem animi! Inventore consequatur facilis, ab quasi asperiores perspiciatis, nam minus beatae quidem cumque maiores, molestias quos ipsum! Minima sapiente numquam laudantium ad fugiat animi consectetur. Quas temporibus dolorem a sint odit nihil similique, doloribus dolore modi nulla dicta sed nobis quam voluptas neque esse ducimus officiis facere. Fuga magnam blanditiis accusantium explicabo totam et nisi error adipisci, ab iure esse! Possimus alias nam ad molestias sapiente quos sequi.
+
+----
+
+## Group / Stacked Bar Chart
+
+<style>
+#chart svg {
+  height: 400px;
+}
+</style>
+
+<div id="chart">
+  <svg></svg>
+</div>
