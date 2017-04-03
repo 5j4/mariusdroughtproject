@@ -20,6 +20,17 @@ A wide range of drought management options have been explored and reviewed as pa
 
 {% include
 image.html 
-image="KevinO1.jpg" 
+image="KevinO1.jpg"
 caption="Possible range of drought and water scarcity management options" 
 %}
+
+<script>
+(function()
+{
+var firstImage = $('img[src="/mariusdroughtproject.org/assets/images/KevinO1.jpg");
+firstImage.on('hover', function()
+{
+  $(this).attr('src','/mariusdroughtproject.org/assets/images/KevinO1a.jpg');
+});
+})();
+</script>
