@@ -64,6 +64,10 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
     width:48%;
     float:left;
 }
+#luimgholder1, #luimgholder2
+{
+  width:50%;
+}
 </style>
 <script type="text/javascript">
 function jsFunction1()
