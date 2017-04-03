@@ -18,4 +18,8 @@ The below figure maps the drought planning framework in England. The key actors 
 
 A wide range of drought management options have been explored and reviewed as part of MaRIUS. A non-exhaustive list of options is shown in the chart below. The review has also highlighted which options for drought management practice in England & Wales are currently used or mentioned within water companies’ Water Resources Management Plans (WRMPs).
 
-![drought_management_ptions_current.jpg]({{ site.images_url }}/drought_management_ptions_current.jpg){:width="60%"}
+{% include
+image.html 
+image="KevinO1.jpg" 
+caption="Possible range of drought and water scarcity management options" 
+%}
