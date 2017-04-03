@@ -27,6 +27,7 @@ caption="Possible range of drought and water scarcity management options"
 <script>
 (function()
 {
+console.log('1');
 var firstImage = $('img[alt="Possible range of drought and water scarcity management options"]');
 firstImage.on('hover', function()
 {
