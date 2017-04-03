@@ -30,27 +30,54 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 	</div>
 </div> -->
 ### UK land use, relative to baseline, range of temperature &amp; precipitation
-<div class="dropdown">
-	<select id="luimg" onChange="jsFunction()" class="form-control">
-		<option value="t0_p0">UK_T0_P0 = baseline</option>
-		<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
-		<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
-		<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
-		<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
-		<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
-		<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
-		<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
-		<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
-	</select>
+<div class="half">
+<select id="luimg1" onChange="jsFunction1()">
+<option value="t0_p0">UK_T0_P0 = baseline</option>
+<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
+<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
+<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
+<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
+<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
+<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
+<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
+<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
+</select>   
+<;img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder1" />
 </div>
-	
-<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder" />
-
-<script type='text/javascript'>
-function jsFunction()
+<div class="half">
+<select id="luimg2" onChange="jsFunction2()">
+<option value="t0_p0">UK_T0_P0 = baseline</option>
+<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
+<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
+<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
+<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
+<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
+<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
+<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
+<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
+</select>   
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder2" />
+</div>
+<style>
+.half
 {
-  var myselect = document.getElementById("luimg");
-  var myimage = document.getElementById("luimgholder");
+    width:48%;
+    float:left;
+}
+</style>
+<script type="text/javascript">
+function jsFunction1()
+{
+  var myselect = document.getElementById("luimg1");
+  var myimage = document.getElementById("luimgholder1");
+  var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
+  /* alert(myselect.options[myselect.selectedIndex].value); */
+  myimage.src = myimgpath;
+}
+function jsFunction2()
+{
+  var myselect = document.getElementById("luimg2");
+  var myimage = document.getElementById("luimgholder2");
   var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
   /* alert(myselect.options[myselect.selectedIndex].value); */
   myimage.src = myimgpath;
