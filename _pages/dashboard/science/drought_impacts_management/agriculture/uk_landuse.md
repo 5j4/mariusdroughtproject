@@ -42,7 +42,7 @@ A Pan-European integrated modelling platform was used to simulation UK landuse c
 <option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
 <option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
 </select>   
-<;img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder1" />
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder1" />
 </div>
 <div class="half">
 <select id="luimg2" onChange="jsFunction2()">
