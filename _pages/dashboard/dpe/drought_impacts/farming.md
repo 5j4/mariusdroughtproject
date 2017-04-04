@@ -18,4 +18,66 @@ Climate change is expected to increase temperatures, modify rainfall patterns an
 
 The maps below show potential changes in different land use types (Intensive Farmland/Arable, Grassland, Very Extensive Grassland, Forest, Urban, Unmanaged) under scenarios of increasing temperatures and declining precipitation, simulated using a European rural land use allocation model (details of which can be found [here](https://5j4.github.io/mariusdroughtproject.org/dashboard/science/drought_impacts_management/agriculture/uklu/)). The model indicates that land use is highly sensitive to small changes in climate, in particular grassland area is especially sensitive to decreased precipitation and arable land to increased temperature. These changes reflect the profitability of these land use types under warmer/drier scenarios.
 
-<!-- interactive goes here -->
+<div class="half">
+<select id="luimg1" onChange="jsFunction1()">
+<option value="t0_p0">UK_T0_P0 = baseline</option>
+<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
+<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
+<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
+<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
+<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
+<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
+<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
+<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
+</select>   
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder1" />
+</div>
+<div class="half">
+<select id="luimg2" onChange="jsFunction2()">
+<option value="t0_p0">UK_T0_P0 = baseline</option>
+<option value="t0_pm10">Temperature: +0&deg;C, Precipitation: -10%</option>
+<option value="t0_pm20">Temperature: +0&deg;C, Precipitation: -20%</option>
+<option value="t2_p0">Temperature: +2&deg;C, Precipitation: -0%</option>
+<option value="t2_pm10">Temperature: +2&deg;C, Precipitation: -10%</option>
+<option value="t2_pm20">Temperature: +2&deg;C, Precipitation: -20%</option>
+<option value="t4_p0">Temperature: +4&deg;C, Precipitation: -0%</option>
+<option value="t4_pm10">Temperature: +4&deg;C, Precipitation: -10%</option>
+<option value="t4_pm20">Temperature: +4&deg;C, Precipitation: -20%</option>
+</select>   
+<img src="{{ site.assets_url }}/data/land_use/data/t0_p0.png" id="luimgholder2" />
+</div>
+<style>
+.half
+{
+    width:48%;
+    float:left;
+}
+#luimgholder1, #luimgholder2
+{
+  width:50%;
+}
+</style>
+<script type="text/javascript">
+function jsFunction1()
+{
+  var myselect = document.getElementById("luimg1");
+  var myimage = document.getElementById("luimgholder1");
+  var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
+  /* alert(myselect.options[myselect.selectedIndex].value); */
+  myimage.src = myimgpath;
+}
+function jsFunction2()
+{
+  var myselect = document.getElementById("luimg2");
+  var myimage = document.getElementById("luimgholder2");
+  var myimgpath = "{{ site.assets_url }}/data/land_use/data/"+myselect.options[myselect.selectedIndex].value+".png";
+  /* alert(myselect.options[myselect.selectedIndex].value); */
+  myimage.src = myimgpath;
+}
+</script>
+
+{% include 
+	image.html 
+	image="Fig1.png" 
+	caption="(Left): Observed CORINE land use, (middle): Model simulated land use for the baseline period (majority land use type for each grid cell shown), (Right): Model simulated land use with 20% decrease in precipitation" 
+%}
