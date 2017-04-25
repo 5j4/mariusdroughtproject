@@ -22,7 +22,7 @@ Over the past 40 years there has been a number of droughts in England. The most 
             #interactionContainer
             {
                 margin:0 auto;
-                width:48%;
+                width:100%;
             }
             #chartContainer > #loader
             {
