@@ -12,10 +12,10 @@ Over the past 40 years there has been a number of droughts in England. The most 
 <div id="interactionContainer">
         <select name="droughtFiles" id="droughtFiles">
             <option>Select</option>
-            <option value="drought_historic_19750101-19771231_daily.csv">Historical drought (1976)</option>
-            <option value="drought_real3_20020101-20041231_daily.csv">Synthetic drought (long and mild)</option>
-            <option value="drought_real26_19940101-19961231_daily.csv">Synthetic drought (short and severe)</option>
-            <option value="drought_real13_19950101-19971231_daily.csv">Synthetic drought (long and severe)</option>
+            <option value="{{ site.data_url }}drought_historic_19750101-19771231_daily.csv">Historical drought (1976)</option>
+            <option value="{{ site.data_url }}drought_real3_20020101-20041231_daily.csv">Synthetic drought (long and mild)</option>
+            <option value="{{ site.data_url }}drought_real26_19940101-19961231_daily.csv">Synthetic drought (short and severe)</option>
+            <option value="{{ site.data_url }}drought_real13_19950101-19971231_daily.csv">Synthetic drought (long and severe)</option>
         </select>
         <hr />
         <style>
