@@ -30,7 +30,7 @@ Over the past 40 years there has been a number of droughts in England. The most 
             }
         </style>
         <div id="chartContainer">
-            <img src="loading.gif" alt="" id="loader">
+            <img src="{{ site.images_url }}loading.gif" alt="" id="loader">
             <div id="chart_div_1"></div>
             <div id="chart_div_2"></div>
             <div id="chart_div_3"></div>
