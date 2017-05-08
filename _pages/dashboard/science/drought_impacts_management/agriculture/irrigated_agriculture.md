@@ -68,24 +68,24 @@ div.selection
 <div class="selection">
 	<select>
 		<option>Select</option>
-		<option value="{{ site.images_url }}ea-cams-water-availability.jpg">EA CAMS water availability</option>
-		<option value="{{ site.images_url }}irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
-		<option value="{{ site.images_url }}irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
-		<option value="{{ site.images_url }}psmd-2010.jpg">PSMD 2010</option>
-		<option value="{{ site.images_url }}benefit-grid.jpg">Benefit grid</option>
-		<option value="{{ site.images_url }}water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/ea-cams-water-availability.jpg">EA CAMS water availability</option>
+		<option value="{{ site.images_url }}/irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/psmd-2010.jpg">PSMD 2010</option>
+		<option value="{{ site.images_url }}/benefit-grid.jpg">Benefit grid</option>
+		<option value="{{ site.images_url }}/water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
 	</select>
 	<img src="#" alt="" />
 </div>
 <div class="selection">
 	<select>
 		<option>Select</option>
-		<option value="{{ site.images_url }}ea-cams-water-availability.jpg">EA CAMS water availability</option>
-		<option value="{{ site.images_url }}irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
-		<option value="{{ site.images_url }}irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
-		<option value="{{ site.images_url }}psmd-2010.jpg">PSMD 2010</option>
-		<option value="{{ site.images_url }}benefit-grid.jpg">Benefit grid</option>
-		<option value="{{ site.images_url }}water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/ea-cams-water-availability.jpg">EA CAMS water availability</option>
+		<option value="{{ site.images_url }}/irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
+		<option value="{{ site.images_url }}/psmd-2010.jpg">PSMD 2010</option>
+		<option value="{{ site.images_url }}/benefit-grid.jpg">Benefit grid</option>
+		<option value="{{ site.images_url }}/water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
 	</select>
 	<img src="#" alt="" />
 </div>
