@@ -57,7 +57,48 @@ Research in <abbr title="Managing the Risks, Impacts and Uncertainties of drough
 ## The apparent impact of drought on irrigated farm businesses has declined since the 1976-77 drought, due to on-farm measures to reduce drought risk and a move towards partnership working during droughts by the Regulator
 
 The apparent impact of drought on irrigated farm businesses has declined since the 1975-76 drought in the Anglian region (the most productive agricultural region in the UK), due to on-farm investments (on-farm reservoirs and water distribution networks; improved irrigation efficiency) and improved farm planning to reduce drought risk; greater collaboration within farming (formation of Water Abstractor Groups); and a move towards partnership working during droughts by the Regulator (Environment Agency)
-
+<style>
+div.selection
+{
+	width:48%;
+	float:left;
+	text-align: center;
+}
+</style>
+<div class="selection">
+	<select>
+		<option>Select</option>
+		<option value="ea-cams-water-availability.jpg">EA CAMS water availability</option>
+		<option value="irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
+		<option value="irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
+		<option value="psmd-2010.jpg">PSMD 2010</option>
+		<option value="benefit-grid.jpg">Benefit grid</option>
+		<option value="water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
+	</select>
+	<img src="#" alt="" />
+</div>
+<div class="selection">
+	<select>
+		<option>Select</option>
+		<option value="ea-cams-water-availability.jpg">EA CAMS water availability</option>
+		<option value="irrigated-area-2nd-round.jpg">Irrigated area 2<sup>nd</sup> round</option>
+		<option value="irrigated-demand-2nd-round.jpg">Irrigated demand 2<sup>nd</sup> round</option>
+		<option value="psmd-2010.jpg">PSMD 2010</option>
+		<option value="benefit-grid.jpg">Benefit grid</option>
+		<option value="water-prod-2nd-round.jpg">Water productivity 2<sup>nd</sup> round</option>
+	</select>
+	<img src="#" alt="" />
+</div>
+<script>
+(function()
+{
+	$('div.selection > select').on('change', function()
+	{
+		var correspondingImage = $(this).parent().find('img');
+		correspondingImage.attr('src',$(this).val());
+	});
+})();
+</script>
 ## Further information
 
 * Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (2016). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management 173: 13-22 <a href="http://www.sciencedirect.com/science/article/pii/S0378377416301342" target="_blank">http://www.sciencedirect.com/science/article/pii/S0378377416301342</a>
