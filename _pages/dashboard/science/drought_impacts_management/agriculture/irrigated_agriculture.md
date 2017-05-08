@@ -99,7 +99,9 @@ div.selection
 	});
 })();
 </script>
-<br /><hr /><br />
+<br />
+<hr />
+<br />
 ## Further information
 
 * Rey, D; Holman, I.P; Daccache, A; Morris, J, Weatherhead, E.K, and Knox, J.W (2016). Modelling and mapping the economic value of supplemental irrigation in a humid climate.  Agricultural Water Management 173: 13-22 <a href="http://www.sciencedirect.com/science/article/pii/S0378377416301342" target="_blank">http://www.sciencedirect.com/science/article/pii/S0378377416301342</a>
