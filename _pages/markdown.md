@@ -1187,3 +1187,5 @@ Pixels
 <div id="chart">
   <svg></svg>
 </div>
+
+test travis config
