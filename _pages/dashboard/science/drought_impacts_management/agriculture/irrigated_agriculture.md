@@ -93,7 +93,8 @@ div#clearthem
 	</select>
 	<img src="#" alt="" />
 </div>
-<div id="clearthem"></div>
+<div id="clearthem">
+</div>
 <script>
 (function()
 {
