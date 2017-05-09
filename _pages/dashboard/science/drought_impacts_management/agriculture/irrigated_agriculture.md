@@ -64,6 +64,10 @@ div.selection
 	float:left;
 	text-align: center;
 }
+div#clearthem
+{
+	clear:both;
+}
 </style>
 <div class="selection">
 	<select>
@@ -89,6 +93,7 @@ div.selection
 	</select>
 	<img src="#" alt="" />
 </div>
+<div id="clearthem"></div>
 <script>
 (function()
 {
