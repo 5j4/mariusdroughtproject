@@ -27,7 +27,7 @@ function clean {
 
 function get_current_site { 
 	echo "-> getting latest site"
-	git clone --depth 1 $DEPLOY_REPO _site 
+	git clone --depth 1 $DEPLOY_REPO _site >/dev/null 2>&1
 }
 
 function build_site { 
@@ -44,7 +44,7 @@ function deploy {
 	git config user.email "5j4@users.noreply.github.com"
 	git add -A
 	git commit -m "Generated Jekyll Site by Travis CI (Build #${TRAVIS_BUILD_NUMBER})"
-	git push -f $DEPLOY_REPO master:gh-pages
+	git push -f $DEPLOY_REPO master:gh-pages >/dev/null 2>&1
 }
 
 main
