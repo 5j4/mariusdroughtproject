@@ -69,6 +69,7 @@ div#clearthem
 	clear:both;
 }
 </style>
+<p>Please use interaction below</p>
 <div class="selection">
 	<select>
 		<option>Select</option>
