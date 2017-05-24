@@ -74,7 +74,7 @@ Parallel to analysing national and international literature on drought managemen
 		<area id="waterefficiencycampaigns" alt="Water efficiency campaigns" title="Water efficiency campaigns" href="#" shape="rect" coords="14,290,180,349" data-content="Water efficiency campaigns aim at reducing water demand. They usually address private household customers but also aim business customers. Water efficiency campaigns use a variety of media -  print, audio-visual, social – or take the form of plays, games or roadshows. Another form of water efficiency campaigns is the provision of water saving devices to customers." style="outline:none;" />
 		<area shape="rect" coords="1444,1089,1446,1091" alt="Image Map" data-content="" style="outline:none;" title="Image Map" href="#" />
 </map>
-<script src="jquery.rwdImageMaps.min.js"></script>
+<script src="{{ site.assets_url }}js/jquery.rwdImageMaps.min.js"></script>
 	<script>
 	(function()
 	{
