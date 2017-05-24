@@ -75,16 +75,16 @@ Parallel to analysing national and international literature on drought managemen
 		<area shape="rect" coords="1444,1089,1446,1091" alt="Image Map" data-content="" style="outline:none;" title="Image Map" href="#" />
 </map>
 <script src="{{ site.assets_url }}js/jquery.rwdImageMaps.min.js"></script>
-	<script>
-	(function()
+<script>
+(function()
+{
+	$('img[usemap]').rwdImageMaps();
+	$('area').on('click', function()
 	{
-		$('img[usemap]').rwdImageMaps();
-		$('area').on('click', function()
-		{
-			alert($(this).attr('title')+"\n"+$(this).data('content'));
-		});
-	})();
-	</script>
+		alert($(this).attr('title')+"\n"+$(this).data('content'));
+	});
+})();
+</script>
 
 ## Research methods
 
