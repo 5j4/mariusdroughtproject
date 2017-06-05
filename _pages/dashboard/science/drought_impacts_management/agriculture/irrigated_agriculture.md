@@ -64,6 +64,12 @@ div.selection
 	float:left;
 	text-align: center;
 }
+div.selection > img
+{
+	max-width: 100%;
+	height: auto;
+	display: block;
+}
 div#clearthem
 {
 	clear:both;
